@@ -1,0 +1,117 @@
+"","id","stNumber","stName","type","capacity"
+"1",5968,21,"gerrard st e","Bike Rack",16
+"2",5969,213,"delaware ave","Angled Bike Rack",5
+"3",5970,213,"delaware ave","Bike Corral",8
+"4",5971,2198,"yonge st","Bike Rack",16
+"5",5972,222,"spadina ave","Bike Rack",16
+"6",5973,236,"augusta ave","Bike Corral",24
+"7",5974,36,"lisgar st","Bike Rack",8
+"8",5975,468,"king st w","Bike Rack",8
+"9",5976,5,"walmer rd","Bike Rack",8
+"10",5977,500,"king st w","Bike Rack",8
+"11",5978,584,"bloor st w","Bike Rack",8
+"12",5979,692,"bloor st w","Bike Rack",16
+"13",5980,790,"bay st","Bike Rack",8
+"14",5981,241,"wellington st w","Bike Rack",16
+"15",5982,40,"high park ave","Bike Shelter",20
+"16",5983,100,"queen st w","Bike Rack",120
+"17",5984,686,"queen st w","Bike Shelter",10
+"18",5985,180,"shaw st","Bike Shelter",18
+"19",5986,1140,"yonge st","Bike Rack",8
+"20",5987,150,"borough dr","Bike Rack",8
+"21",5988,350,"victoria st","Bike Rack",8
+"22",5989,266,"king st e","Bike Rack",8
+"23",5990,277,"victoria st","Bike Rack",8
+"24",5991,28,"duncan st","Bike Corral",14
+"25",5992,35,"york st","Angled Bike Rack",30
+"26",5993,357,"bay st","Bike Rack",8
+"27",5994,362,"bloor st w","Bike Rack",8
+"28",5995,375,"st clair ave w","Bike Shelter",20
+"29",5996,40,"orchard view blvd","Bike Rack",8
+"30",5997,400,"yonge st","Bike Rack",8
+"31",5998,429,"college st","Bike Rack",8
+"32",5999,449,"parliament st","Bike Rack",8
+"33",6000,47,"lower river st","Bike Rack",24
+"34",6001,49,"givins st","Bike Rack",8
+"35",6002,50,"portland st","Bike Corral",14
+"36",6003,511,"king st w","Bike Rack",8
+"37",6004,522,"university ave","Bike Rack",16
+"38",6005,539,"parliament st","Bike Rack",8
+"39",6006,61,"front st w","Bike Rack",72
+"40",6007,5,"bartonville ave e","Bike Rack",8
+"41",6008,621,"king st w","Bike Rack",8
+"42",6009,636,"queen st e","Bike Rack",8
+"43",6010,675,"bloor st w","Bike Rack",56
+"44",6011,720,"bay st","Bike Rack",8
+"45",6012,736,"bay st","Bike Rack",8
+"46",6013,743,"pape ave","Bike Rack",32
+"47",6014,798,"richmond st w","Bike Rack",16
+"48",6015,802,"college st","Bike Rack",8
+"49",6016,813,"bloor st w","Bike Rack",8
+"50",6017,940,"college st","Bike Rack",8
+"51",6018,1034,"bloor st w","Angled Bike Rack",5
+"52",6019,12,"emerson ave","Bike Corral",14
+"53",6020,82,"fort york blvd","Bike Rack",8
+"54",6021,65,"dundas st w","Bike Rack",32
+"55",6022,860,"college st","Bike Rack",8
+"56",6023,901,"king st w","Bike Rack",8
+"57",6024,92,"fort york blvd","Bike Rack",8
+"58",6025,92,"sudbury st","Bike Corral",14
+"59",6026,44,"lisgar st","Bike Rack",8
+"60",6027,95,"front st e","Bike Rack",8
+"61",6028,95,"river grove dr","Bike Rack",8
+"62",6029,953,"gerrard st e","Bike Rack",16
+"63",6030,695,"lansdowne ave","Bike Rack",8
+"64",6031,55,"john st","Bike Rack",16
+"65",6032,300,"victoria st","Bike Rack",32
+"66",6033,138,"fort york blvd","Bike Rack",8
+"67",6034,1595,"dupont st","Bike Rack",8
+"68",6035,2,"bloor st w","Bike Rack",32
+"69",6036,2000,"yonge st","Bike Rack",8
+"70",6037,22,"fort york blvd","Bike Rack",8
+"71",6038,268,"college st","Bike Corral",14
+"72",6039,3530,"sheppard ave e","Bike Rack",8
+"73",6040,441,"king st w","Bike Rack",8
+"74",6041,490,"bloor st w","Bike Rack",8
+"75",6042,509,"bloor st w","Bike Rack",8
+"76",6043,666,"queen st e","Bike Rack",8
+"77",6044,71,"second st","Bike Rack",8
+"78",6045,1485,"dupont st","Bike Corral",14
+"79",6046,200,"king st e","Bike Rack",16
+"80",6047,200,"king st e","Bike Corral",14
+"81",6048,315,"bloor st w","Bike Rack",8
+"82",6049,516,"glenlake ave","Bike Rack",8
+"83",6050,693,"bloor st w","Bike Rack",8
+"84",6051,150,"king st w","Bike Rack",8
+"85",6053,71,"new forest sq","Bike Rack",8
+"86",6054,11,"charlotte st","Bike Rack",8
+"87",6055,1560,"yonge st","Bike Rack",8
+"88",6056,612,"bloor st w","Bike Rack",8
+"89",6057,1032,"bloor st w","Bike Rack",8
+"90",6058,157,"dan leckie way","Bike Rack",8
+"91",6059,595,"bay st","Bike Rack",8
+"92",6060,5,"salem ave","Bike Rack",8
+"93",6061,1036,"bloor st w","Bike Rack",8
+"94",6062,1,"albany ave","Bike Rack",8
+"95",6063,163,"dan leckie way","Bike Rack",8
+"96",6064,26,"dundas st e","Bike Rack",8
+"97",6065,38,"orchard view blvd","Bike Rack",8
+"98",6066,200,"king st w","Bike Rack",8
+"99",6067,1030,"king st w","Bike Rack",16
+"100",6068,1,"st clair ave e","Bike Rack",24
+"101",6069,10,"linnsmore cres","Bike Rack",18
+"102",6070,101,"sherbourne st","Bike Rack",8
+"103",6071,1184,"queen st w","Bike Corral",14
+"104",6072,1190,"dundas st e","Bike Rack",8
+"105",6073,12,"madison ave","Bike Rack",8
+"106",6074,12,"ossington ave","Angled Bike Rack",5
+"107",6075,122,"bond st","Bike Rack",16
+"108",6076,137,"bond st","Bike Rack",8
+"109",6077,124,"spadina ave","Bike Corral",28
+"110",6078,192,"spadina ave","Bike Corral",14
+"111",6079,196,"spadina ave","Bike Rack",8
+"112",6080,1978,"queen st e","Bike Rack",8
+"113",6081,20,"northcote ave","Bike Shelter",10
+"114",6082,205,"spadina ave","Bike Corral",14
+"115",6083,777,"victoria park ave","Bike Rack",8
+"116",6084,78,"tecumseth st","Bike Rack",8
