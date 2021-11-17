@@ -106,7 +106,7 @@ parking_pr <- parking_pr %>%
   rename(type = ASSETTYPE) %>%
   rename(stName = ADDRESSSTREET) %>%
   mutate(type = na_if(type,""))
-
+parking_pr$capacity <- 1
 parking_pr %>% write.csv("parking_pr.csv")
 unique(parking_pr$type)
 #parking_pr %>% filter(!is.na(ASSETTYPE)) %>% view()
@@ -140,6 +140,18 @@ parking3 <- parking3 %>%
   rename(stName = ADDRESSSTREET)%>%
   mutate(type = na_if(type,""))
 unique(parking3$type)
+parking3$capacity <- 1
 parking3 %>% write.csv("parking racks.csv")
+```
+
+
+```{r}
+parking_all <- rbind(rbind(parking_high, parking_pr), parking3)
+parking_all <- parking_all[!duplicated(parking_all),]
+unique(parking_all$type)
+```
+
+```{r}
+parking_all %>% write.csv("parking.csv")
 ```
 
