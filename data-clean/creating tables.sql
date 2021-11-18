@@ -16,8 +16,8 @@ CREATE TABLE ParkingSpots(
 	ID INTEGER not null,
 	stNumber INTEGER not null,
 	stName TEXT not null,
-	capacity INTEGER not null,
 	spotType spottype,
+	capacity INTEGER not null,
 	PRIMARY KEY (ID));
 	
 	
@@ -26,7 +26,7 @@ CREATE TABLE redLightCamera(
  id INTEGER not null,
  stName1 TEXT not null,
  stName2 TEXT not null,
- PRIMARY KEY(id);
+ PRIMARY KEY(id));
 
 \COPY bikeshop FROM 'bike_shop.csv' with csv
 
