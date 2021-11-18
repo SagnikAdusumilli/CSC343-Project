@@ -23,9 +23,10 @@ CREATE TABLE ParkingSpots(
 	
 DROP TABLE IF EXISTS redLightCamera CASCADE;	
 CREATE TABLE redLightCamera(
+ id INTEGER not null,
  stName1 TEXT not null,
  stName2 TEXT not null,
- PRIMARY KEY(stName1, stName2));
+ PRIMARY KEY(id);
 
 \COPY bikeshop FROM 'bike_shop.csv' with csv
 
