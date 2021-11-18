@@ -1,98 +1,98 @@
-"","id","stName","stNumber","hasRental"
-"1",1,"king st w",400,"NO"
-"2",2,"college st",882,"NO"
-"3",3,"lake shore blvd w",3731,"NO"
-"4",4,"queen st e",1292,"NO"
-"5",5,"jane st",2111,"NO"
-"6",6,"barton ave",29,"YES"
-"7",7,"bathurst st",913,"YES"
-"8",8,"queen st e",1882,"YES"
-"9",9,"albion rd",835,"NO"
-"10",10,"danforth ave",1510,"YES"
-"11",11,"spadina cres",563,"NO"
-"12",12,"bloor st w",1292,"NO"
-"13",13,"dundas st w",3096,"NO"
-"14",14,"broadview ave",235,"NO"
-"15",15,"yonge st",1970,"NO"
-"16",16,"augusta ave",309,"NO"
-"17",17,"carlaw ave",388,"NO"
-"18",18,"sorauren ave",345,"NO"
-"19",19,"danforth ave",701,"NO"
-"20",20,"bloor st w",2447,"NO"
-"21",21,"third st",2,"NO"
-"22",22,"harbord st",106,"NO"
-"23",23,"howland rd",1,"NO"
-"24",24,"queen st w",761,"NO"
-"25",25,"lake shore blvd w",2749,"NO"
-"26",26,"college st",926,"NO"
-"27",27,"danforth ave",281,"NO"
-"28",28,"bloor st w",863,"NO"
-"29",29,"d'arcy st",120,"NO"
-"30",30,"parliament st",444,"NO"
-"31",31,"kingston rd",615,"NO"
-"32",32,"burnhamthorpe rd",555,"NO"
-"33",33,"christie st",254,"NO"
-"34",34,"lawrence ave e",1894,"NO"
-"35",35,"queen st w",625,"NO"
-"36",36,"bloor st w",3876,"NO"
-"37",37,"annette st",521,"NO"
-"38",38,"front st e",47,"NO"
-"39",39,"danforth ave",1374,"NO"
-"40",40,"bloor st w",678,"NO"
-"41",41,"college st",1073,"NO"
-"42",42,"wingold ave",79,"NO"
-"43",43,"davenport rd",1144,"NO"
-"44",44,"castlefield ave",1180,"NO"
-"45",45,"dupont st",1611,"NO"
-"46",46,"ossington ave",127,"NO"
-"47",47,"harbord st",290,"NO"
-"48",48,"lakeshore ave",355,"YES"
-"49",49,"yonge st",2063,"NO"
-"50",50,"john st",180,"NO"
-"51",51,"queen st e",1592,"NO"
-"52",52,"eglinton ave w",1040,"NO"
-"53",53,"queen st e",890,"NO"
-"54",54,"roncesvalles ave",213,"NO"
-"55",55,"queens quay w",249,"YES"
-"56",56,"bloor st w",2007,"NO"
-"57",57,"dufferin st",2055,"NO"
-"58",58,"markham st",610,"NO"
-"59",59,"st clair ave w",625,"NO"
-"60",61,"bloor st w",1222,"NO"
-"61",62,"yonge st",2106,"YES"
-"62",63,"king st w",383,"NO"
-"63",64,"dundas st w",2170,"NO"
-"64",65,"bayview ave",550,"YES"
-"65",66,"dundas st w",4231,"NO"
-"66",67,"laird dr",94,"YES"
-"67",68,"yonge st",2665,"NO"
-"68",69,"vanderhoof ave",109,"NO"
-"69",70,"jane st",612,"NO"
-"70",71,"donlands ave",389,"NO"
-"71",72,"queen st w",779,"NO"
-"72",73,"queen st e",242,"NO"
-"73",74,"bathurst st",156,"NO"
-"74",75,"oakdale rd",134,"NO"
-"75",76,"king st w",401,"NO"
-"76",77,"oxford st",5,"NO"
-"77",78,"east liberty st",171,"NO"
-"78",79,"springhurst ave",74,"NO"
-"79",80,"dundas st w",594,"NO"
-"80",81,"bloor st w",412,"YES"
-"81",82,"queen st w",650,"NO"
-"82",83,"bloor st w",2128,"NO"
-"83",84,"bloor st w",2214,"NO"
-"84",85,"kensington ave",19,"NO"
-"85",86,"lombard st",33,"NO"
-"86",87,"dundas st w",778,"NO"
-"87",88,"geary ave",80,"NO"
-"88",89,"research rd",95,"NO"
-"89",90,"roncesvalles ave",381,"YES"
-"90",91,"don mills rd",896,"NO"
-"91",92,"avenue rd",1889,"NO"
-"92",93,"bayview ave",1541,"NO"
-"93",94,"yonge st",2454,"NO"
-"94",95,"the west mall",25,"NO"
-"95",96,"bloor st w",1204,"YES"
-"96",97,"bloor st w",517,"NO"
-"97",98,"queen st e",651,"NO"
+stName,stNumber,hasRental
+king st w,400,NO
+college st,882,NO
+lake shore blvd w,3731,NO
+queen st e,1292,NO
+jane st,2111,NO
+barton ave,29,YES
+bathurst st,913,YES
+queen st e,1882,YES
+albion rd,835,NO
+danforth ave,1510,YES
+spadina cres,563,NO
+bloor st w,1292,NO
+dundas st w,3096,NO
+broadview ave,235,NO
+yonge st,1970,NO
+augusta ave,309,NO
+carlaw ave,388,NO
+sorauren ave,345,NO
+danforth ave,701,NO
+bloor st w,2447,NO
+third st,2,NO
+harbord st,106,NO
+howland rd,1,NO
+queen st w,761,NO
+lake shore blvd w,2749,NO
+college st,926,NO
+danforth ave,281,NO
+bloor st w,863,NO
+d'arcy st,120,NO
+parliament st,444,NO
+kingston rd,615,NO
+burnhamthorpe rd,555,NO
+christie st,254,NO
+lawrence ave e,1894,NO
+queen st w,625,NO
+bloor st w,3876,NO
+annette st,521,NO
+front st e,47,NO
+danforth ave,1374,NO
+bloor st w,678,NO
+college st,1073,NO
+wingold ave,79,NO
+davenport rd,1144,NO
+castlefield ave,1180,NO
+dupont st,1611,NO
+ossington ave,127,NO
+harbord st,290,NO
+lakeshore ave,355,YES
+yonge st,2063,NO
+john st,180,NO
+queen st e,1592,NO
+eglinton ave w,1040,NO
+queen st e,890,NO
+roncesvalles ave,213,NO
+queens quay w,249,YES
+bloor st w,2007,NO
+dufferin st,2055,NO
+markham st,610,NO
+st clair ave w,625,NO
+bloor st w,1222,NO
+yonge st,2106,YES
+king st w,383,NO
+dundas st w,2170,NO
+bayview ave,550,YES
+dundas st w,4231,NO
+laird dr,94,YES
+yonge st,2665,NO
+vanderhoof ave,109,NO
+jane st,612,NO
+donlands ave,389,NO
+queen st w,779,NO
+queen st e,242,NO
+bathurst st,156,NO
+oakdale rd,134,NO
+king st w,401,NO
+oxford st,5,NO
+east liberty st,171,NO
+springhurst ave,74,NO
+dundas st w,594,NO
+bloor st w,412,YES
+queen st w,650,NO
+bloor st w,2128,NO
+bloor st w,2214,NO
+kensington ave,19,NO
+lombard st,33,NO
+dundas st w,778,NO
+geary ave,80,NO
+research rd,95,NO
+roncesvalles ave,381,YES
+don mills rd,896,NO
+avenue rd,1889,NO
+bayview ave,1541,NO
+yonge st,2454,NO
+the west mall,25,NO
+bloor st w,1204,YES
+bloor st w,517,NO
+queen st e,651,NO
