@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 library(tidyverse)
 library(lubridate)
+library(readr)
 ```
 
 ## R Markdown
@@ -28,18 +29,17 @@ bike_shop <- read.csv('Bicycle Shops Data.csv')
 
 ```{r}
 
-bike_shop <- bike_shop %>% select(X_id, LINEAR_NAME_FULL, ADDRESS_NUMBER, RENTAL)
+bike_shop <- bike_shop %>% select( LINEAR_NAME_FULL, ADDRESS_NUMBER, RENTAL)
 bike_shop
 bike_shop<- bike_shop %>% 
   mutate(RENTAL = as.factor(RENTAL)) %>% 
-  mutate(ADDRESS_NUMBER = as.numeric(ADDRESS_NUMBER))  %>%
+  mutate(ADDRESS_NUMBER = as.integer(ADDRESS_NUMBER))  %>%
   mutate(LINEAR_NAME_FULL = tolower(LINEAR_NAME_FULL)) %>%
   filter(!is.na(ADDRESS_NUMBER)) %>%
   rename(stName = LINEAR_NAME_FULL) %>%
   rename(stNumber = ADDRESS_NUMBER) %>%
-  rename(hasRental = RENTAL) %>%
-  rename(id = X_id)
-bike_shop %>% write.csv("bike_shop.csv")
+  rename(hasRental = RENTAL) 
+bike_shop %>% write_csv("bike_shop.csv", col_names = FALSE)
 ```
 
 ```{r}
@@ -47,16 +47,19 @@ red_light <- read.csv('red ligh camera.csv')
 ```
 
 ```{r}
-red_light <- red_light %>% select(INTERSECTION_ID, LINEAR_NAME_FULL_1, LINEAR_NAME_FULL_2, MAIN)
+red_light <- red_light %>% select( LINEAR_NAME_FULL_1, LINEAR_NAME_FULL_2, INTERSECTION_ID)
 #red_light
-red_light <- red_light %>% mutate(INTERSECTION_ID = as.numeric(INTERSECTION_ID)) %>%
+red_light <- red_light %>% 
   mutate(LINEAR_NAME_FULL_1 = tolower(LINEAR_NAME_FULL_1), LINEAR_NAME_FULL_2 = tolower(LINEAR_NAME_FULL_2)) %>%
-  mutate(MAIN = tolower(MAIN)) %>%
-  rename(id  = INTERSECTION_ID) %>%
-  rename(stName1 = LINEAR_NAME_FULL_1) %>%
-  rename(stName2 = LINEAR_NAME_FULL_2) 
-  
-red_light %>% write.csv('red lights camera.csv')
+  rename(st.first = LINEAR_NAME_FULL_1) %>%
+   rename(st.second = LINEAR_NAME_FULL_2)# %>%
+  rename(id = INTERSECTION_ID) %>%
+   mutate(id = as.integer(id)) %%
+  # mutate(st.first = na_if(st.first, "")) %>%
+  # mutate(st.second = na_if(st.second, "")) %>%
+  # na.omit()
+red_light  
+red_light %>% write_csv('red lights camera.csv', col_names = FALSE)
 #red_light
 ```
 
@@ -82,7 +85,7 @@ parking_high <- parking_high %>% mutate(LINEAR_NAME_FULL = tolower(LINEAR_NAME_F
   rename(capacity = BICYCLE_CAPACITY) %>%
   rename(type = PARKING_TYPE) %>%
   rename(id = X_id)
-parking_high %>% write.csv("parking_high.csv")
+#parking_high %>% write.csv("parking_high.csv")
 unique(parking_high$type)
 #parking_high %>% view()
 #bike rack, bike shelter, bike corral, angled bike rack
@@ -107,7 +110,7 @@ parking_pr <- parking_pr %>%
   rename(stName = ADDRESSSTREET) %>%
   mutate(type = na_if(type,""))
 parking_pr$capacity <- 1
-parking_pr %>% write.csv("parking_pr.csv")
+#parking_pr %>% write.csv("parking_pr.csv")
 unique(parking_pr$type)
 #parking_pr %>% filter(!is.na(ASSETTYPE)) %>% view()
 #rack, artstand, other, shetler, ring, empty
@@ -141,7 +144,7 @@ parking3 <- parking3 %>%
   mutate(type = na_if(type,""))
 unique(parking3$type)
 parking3$capacity <- 1
-parking3 %>% write.csv("parking racks.csv")
+#parking3 %>% write.csv("parking racks.csv")
 ```
 
 
@@ -152,6 +155,6 @@ unique(parking_all$type)
 ```
 
 ```{r}
-parking_all %>% write.csv("parking.csv")
+parking_all %>% write_csv("parking.csv", col_names = FALSE)
 ```
 
