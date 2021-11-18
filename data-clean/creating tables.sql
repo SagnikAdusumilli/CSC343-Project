@@ -2,7 +2,7 @@ DROP DOMAIN IF EXISTS spottype CASCADE;
 CREATE DOMAIN spottype AS TEXT
 DEFAULT NULL
 CHECK (VALUE IN ('Bike Rack', 'Angled Bike Rack', 'Bike Corral',
-'Bike Shelter', 'Rack', 'Ring', 'Art Stand', 'Other'));
+'Bike Shelter', 'Rack', 'Ring', 'Art Stand', 'Other', 'Shelter'));
 
 DROP TABLE IF EXISTS bikeshop CASCADE;
 CREATE TABLE bikeShop (
@@ -23,13 +23,12 @@ CREATE TABLE ParkingSpots(
 	
 DROP TABLE IF EXISTS redLightCamera CASCADE;	
 CREATE TABLE redLightCamera(
- id INTEGER not null,
  stName1 TEXT not null,
  stName2 TEXT not null,
- PRIMARY KEY(id));
+ PRIMARY KEY(stName1, stName2));
 
-\COPY bikeshop FROM 'bike_shop.csv' with csv
+\COPY bikeshop FROM 'bike_shop.csv' with csv header
 
-\COPY parkingSpots FROM 'parking.csv' with csv
+\COPY parkingSpots FROM 'parking.csv' with csv header
 
-\COPY redLightCamera FROM 'red lights camera.csv' with csv
+\COPY redLightCamera FROM 'red lights camera.csv' with csv header

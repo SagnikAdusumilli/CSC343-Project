@@ -39,6 +39,7 @@ bike_shop<- bike_shop %>%
   rename(stName = LINEAR_NAME_FULL) %>%
   rename(stNumber = ADDRESS_NUMBER) %>%
   rename(hasRental = RENTAL) 
+
 bike_shop %>% write_csv("bike_shop.csv")
 ```
 
@@ -60,6 +61,7 @@ red_light <- red_light %>%
   filter(!is.na(st.second)) %>%
   filter(!is.na(st.first))
 red_light <- red_light %>% select(id, st.first, st.second)
+red_light <- red_light[!duplicated(red_light$id),]
 red_light %>% write_csv('red lights camera.csv')
 #red_light
 ```
