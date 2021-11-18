@@ -1,190 +1,191 @@
-richmond st e,parliament st
-lake shore blvd w,york st
-steeles ave w,carpenter rd
-steeles ave w,hilda ave
-albion rd,silverstone dr
-dixon rd,kipling ave
-steeles ave w,islington ave
-sheppard ave w,wilson heights blvd
-bathurst st,sheppard ave w
-lawrence ave w,marlee ave
-bathurst st,lawrence ave w
-bayview ave,cummer ave
-leslie st,lawrence ave e
-leslie st,york mills rd
-bayview ave,truman rd
-midland ave,mcnicoll ave
-steeles ave e,birchmount rd
-warden ave,arkona dr
-steeles ave e,brimley rd
-college st,bathurst st
-morningside ave,lawrence ave e
-dixon rd,carlingview dr
-dufferin st,glencairn ave
-overlea blvd,thorncliffe park dr
-kennedy rd,ellesmere rd
-leslie st,finch ave e
-birchmount rd,huntingwood dr
-kingston rd,port union rd
-bloor st w,the west mall
-the queensway,the west mall
-lake shore blvd w,thirty seventh st
-kipling ave,horner ave
-the queensway,north queen st
-wilson ave,transit rd
-lake shore blvd w,windermere ave
-warden ave,mcnicoll ave
-keele st,wilson ave
-lansdowne ave,dupont st
-queen st w,lansdowne ave
-burnhamthorpe rd,the east mall
-keele st,sheppard ave w
-jane st,bala ave
-jane st,clair rd
-danforth ave,birchmount rd
-islington ave,the westway
-bathurst st,davenport rd
-warden ave,comstock rd
-eastern ave,lower coxwell ave
-midland ave,progress ave
-lawrence ave e,bellamy rd n
-danforth rd,birchmount rd
-st clair ave e,brimley rd
-keele st,lawrence ave w
-bloor st w,ossington ave
-danforth ave,greenwood ave
-queen st e,woodbine ave
-king st e,jarvis st
-lake shore blvd e,leslie st
-lower jarvis st,the esplanade
-lake shore blvd e,carlaw ave
-rogers rd,keele st
-dundas st w,bloor st w
-eglinton ave w,spadina rd
-lawrence ave e,don mills rd
-neilson rd,sheppard ave e
-sheppard ave e,malvern st
-ellesmere rd,military trl
-kennedy rd,401 c e kennedy rd ramp
-university ave,richmond st w
-adelaide st e,parliament st
-university ave,adelaide st w
-dixon rd,martin grove rd
-university ave,queen st w
-keele st,wilson ave
-lake shore blvd w,spadina ave
-lake shore blvd w,park lawn rd
-sheppard ave e,bayview ave
-steeles ave w,weston rd
-lawrence ave e,greencedar crct
-finch ave e,birchmount rd
-bloor st w,the east mall
-wilson ave,jane st
-warden ave,mcnicoll ave
-steeles ave w,keele st
-university ave,wellington st w
-albion rd,kipling ave
-the queensway,kipling ave
-finch ave e,gordon baker rd
-jarvis st,isabella st
-danforth rd,brimley rd
-dundas st e,river st
-mccowan rd,mcnicoll ave
-st clair ave w,gunns rd
-spadina ave,king st w
-sheppard ave e,mccowan rd
-king st e,parliament st
-rexdale blvd,martin grove rd
-the queensway,the east mall
-st clair ave w,spadina rd
-dufferin st,finch ave w
-islington ave,evans ave
-eglinton ave w,martin grove rd
-finch ave e,brimley rd
-lake shore blvd w,jameson ave
-eglinton ave e,danforth rd
-neilson rd,mclevin ave
-simcoe st,wellington st w
-jane st,stong crt
-ellesmere rd,bellamy rd n
-lawrence ave e,kennedy rd
-warden ave,comstock rd
-sheppard ave e,malvern st
-rexdale blvd,kipling ave
-weston rd,lawrence ave w
-islington ave,albion rd
-the queensway,islington ave
-st clair ave w,runnymede rd
-warden ave,ashtonbee rd
-keele st,lawrence ave w
-birchmount rd,mcnicoll ave
-finch ave e,middlefield rd
-dixon rd,islington ave
-spadina ave,bremner blvd
-the queensway,royal york rd
-lake shore blvd w,strachan ave
-lawrence ave e,markham rd
-jane st,falstaff ave
-avenue rd,lawrence ave w
-pharmacy ave,mcnicoll ave
-markham rd,progress ave
-markham rd,sheppard ave e
-don mills rd,van horne ave
-sheppard ave e,morningside ave
-morningside ave,milner ave
-kennedy rd,mcnicoll ave
-markham rd,ellesmere rd
-bloor st w,keele st
-eglinton ave w,scarlett rd
-steeles ave w,dufferin st
-dufferin st,dupont st
-bloor st w,islington ave
-sheppard ave e,don mills rd
-steeles ave w,signet dr
-kennedy rd,sheppard ave e
-bathurst st,nina st
-brimley rd,huntingwood dr
-brimley rd,progress ave
-kingston rd,brimley rd
-lawrence ave e,scarborough golf club rd
-steeles ave e,markham rd
-strachan ave,wellington st w
-university ave,dundas st w
-warden ave,ellesmere rd
-willowdale ave,bishop ave
-cummer ave,willowdale ave
-sheppard ave e,victoria park ave
-bathurst st,finch ave w
-finch ave e,don mills rd
-steeles ave w,jane st
-sheppard ave w,jane st
-mccowan rd,ellesmere rd
-mccowan rd,brimorton dr
-bathurst st,wilson ave
-jarvis st,shuter st
-lawrence ave e,greencrest crct
-steeles ave w,martin grove rd
-lake shore blvd w,lower simcoe st
-martin grove rd,belfield rd
-finch ave e,markham rd
-finch ave e,warden ave
-lawrence ave e,pharmacy ave
-eglinton ave e,markham rd
-st clair ave e,danforth rd
-lawrence ave e,mccowan rd
-morningside ave,401 c w morningside ave n ramp
-bellamy rd n,brimorton dr
-weston rd,fenmar dr
-markham rd,mcnicoll ave
-lawrence ave e,warden ave
-kipling ave,widdicombe hill
-lawrence ave e,brimley rd
-william r allen rd,sheppard ave w
-midland ave,copthorne ave
-steeles ave e,don mills rd
-steeles ave w,alness st
-burnhamthorpe rd,the west mall
-jane st,st clair ave w
-willowdale ave,spring garden ave
-markham rd,greencedar crct
-dundas st w,royal york rd
+id,st.first,st.second
+13465959,richmond st e,parliament st
+13467993,lake shore blvd w,york st
+13444656,steeles ave w,carpenter rd
+13444138,steeles ave w,hilda ave
+13451893,albion rd,silverstone dr
+13459576,dixon rd,kipling ave
+13448601,steeles ave w,islington ave
+13450231,sheppard ave w,wilson heights blvd
+13449607,bathurst st,sheppard ave w
+13455749,lawrence ave w,marlee ave
+13455135,bathurst st,lawrence ave w
+13444532,bayview ave,cummer ave
+13452717,leslie st,lawrence ave e
+13449822,leslie st,york mills rd
+13448765,bayview ave,truman rd
+14038170,midland ave,mcnicoll ave
+13441903,steeles ave e,birchmount rd
+13446799,warden ave,arkona dr
+13441677,steeles ave e,brimley rd
+13465757,college st,bathurst st
+13447211,morningside ave,lawrence ave e
+13461025,dixon rd,carlingview dr
+13457150,dufferin st,glencairn ave
+13456854,overlea blvd,thorncliffe park dr
+13447843,kennedy rd,ellesmere rd
+13444761,leslie st,finch ave e
+13444601,birchmount rd,huntingwood dr
+13443303,kingston rd,port union rd
+13468898,bloor st w,the west mall
+13470138,the queensway,the west mall
+13470661,lake shore blvd w,thirty seventh st
+13470261,kipling ave,horner ave
+13470082,the queensway,north queen st
+13453096,wilson ave,transit rd
+13468807,lake shore blvd w,windermere ave
+13442867,warden ave,mcnicoll ave
+13454197,keele st,wilson ave
+13464191,lansdowne ave,dupont st
+13468197,queen st w,lansdowne ave
+13467689,burnhamthorpe rd,the east mall
+13451388,keele st,sheppard ave w
+13460183,jane st,bala ave
+13451997,jane st,clair rd
+13458312,danforth ave,birchmount rd
+13460559,islington ave,the westway
+13462422,bathurst st,davenport rd
+13454488,warden ave,comstock rd
+13464080,eastern ave,lower coxwell ave
+13446743,midland ave,progress ave
+13448868,lawrence ave e,bellamy rd n
+13456762,danforth rd,birchmount rd
+13454486,st clair ave e,brimley rd
+13456952,keele st,lawrence ave w
+13464908,bloor st w,ossington ave
+13461356,danforth ave,greenwood ave
+13463494,queen st e,woodbine ave
+13466630,king st e,jarvis st
+13465164,lake shore blvd e,leslie st
+13467011,lower jarvis st,the esplanade
+13465837,lake shore blvd e,carlaw ave
+13461587,rogers rd,keele st
+13465876,dundas st w,bloor st w
+13457863,eglinton ave w,spadina rd
+13452266,lawrence ave e,don mills rd
+13443509,neilson rd,sheppard ave e
+13443955,sheppard ave e,malvern st
+13445757,ellesmere rd,military trl
+14228400,kennedy rd,401 c e kennedy rd ramp
+13466730,university ave,richmond st w
+13466117,adelaide st e,parliament st
+13466931,university ave,adelaide st w
+13460075,dixon rd,martin grove rd
+13466604,university ave,queen st w
+13454197,keele st,wilson ave
+13468307,lake shore blvd w,spadina ave
+13469683,lake shore blvd w,park lawn rd
+13447964,sheppard ave e,bayview ave
+13447719,steeles ave w,weston rd
+13448786,lawrence ave e,greencedar crct
+13443562,finch ave e,birchmount rd
+13468751,bloor st w,the east mall
+13455040,wilson ave,jane st
+13442867,warden ave,mcnicoll ave
+13446042,steeles ave w,keele st
+13467345,university ave,wellington st w
+13452362,albion rd,kipling ave
+13469800,the queensway,kipling ave
+13444088,finch ave e,gordon baker rd
+13463674,jarvis st,isabella st
+13452352,danforth rd,brimley rd
+13464879,dundas st e,river st
+13442036,mccowan rd,mcnicoll ave
+13463362,st clair ave w,gunns rd
+13467505,spadina ave,king st w
+13444619,sheppard ave e,mccowan rd
+13466241,king st e,parliament st
+13456327,rexdale blvd,martin grove rd
+13469998,the queensway,the east mall
+13460975,st clair ave w,spadina rd
+13447779,dufferin st,finch ave w
+13469914,islington ave,evans ave
+13463137,eglinton ave w,martin grove rd
+13442866,finch ave e,brimley rd
+13468970,lake shore blvd w,jameson ave
+13452053,eglinton ave e,danforth rd
+13442522,neilson rd,mclevin ave
+13467394,simcoe st,wellington st w
+13448840,jane st,stong crt
+13446514,ellesmere rd,bellamy rd n
+13450163,lawrence ave e,kennedy rd
+13454488,warden ave,comstock rd
+13443955,sheppard ave e,malvern st
+13456668,rexdale blvd,kipling ave
+13458367,weston rd,lawrence ave w
+13452733,islington ave,albion rd
+13469672,the queensway,islington ave
+13463893,st clair ave w,runnymede rd
+13453141,warden ave,ashtonbee rd
+13456952,keele st,lawrence ave w
+13442651,birchmount rd,mcnicoll ave
+13442502,finch ave e,middlefield rd
+13459022,dixon rd,islington ave
+13468134,spadina ave,bremner blvd
+13469508,the queensway,royal york rd
+13468803,lake shore blvd w,strachan ave
+13448547,lawrence ave e,markham rd
+13455910,jane st,falstaff ave
+13454662,avenue rd,lawrence ave w
+13443081,pharmacy ave,mcnicoll ave
+13445553,markham rd,progress ave
+13444062,markham rd,sheppard ave e
+13445096,don mills rd,van horne ave
+13443095,sheppard ave e,morningside ave
+13443245,morningside ave,milner ave
+13442363,kennedy rd,mcnicoll ave
+13446212,markham rd,ellesmere rd
+13466139,bloor st w,keele st
+13461355,eglinton ave w,scarlett rd
+13445306,steeles ave w,dufferin st
+13463882,dufferin st,dupont st
+13467841,bloor st w,islington ave
+13446608,sheppard ave e,don mills rd
+13447608,steeles ave w,signet dr
+13445476,kennedy rd,sheppard ave e
+13461868,bathurst st,nina st
+13443575,brimley rd,huntingwood dr
+13446436,brimley rd,progress ave
+13454867,kingston rd,brimley rd
+13448254,lawrence ave e,scarborough golf club rd
+13441620,steeles ave e,markham rd
+13468144,strachan ave,wellington st w
+13465980,university ave,dundas st w
+13448519,warden ave,ellesmere rd
+13445655,willowdale ave,bishop ave
+13445027,cummer ave,willowdale ave
+13446551,sheppard ave e,victoria park ave
+13446970,bathurst st,finch ave w
+13444423,finch ave e,don mills rd
+13446896,steeles ave w,jane st
+13452283,sheppard ave w,jane st
+13446827,mccowan rd,ellesmere rd
+13447827,mccowan rd,brimorton dr
+13452437,bathurst st,wilson ave
+13465860,jarvis st,shuter st
+13448487,lawrence ave e,greencrest crct
+13449574,steeles ave w,martin grove rd
+14134984,lake shore blvd w,lower simcoe st
+13458216,martin grove rd,belfield rd
+13442251,finch ave e,markham rd
+13443837,finch ave e,warden ave
+13451212,lawrence ave e,pharmacy ave
+13450997,eglinton ave e,markham rd
+13455129,st clair ave e,danforth rd
+13449204,lawrence ave e,mccowan rd
+20154546,morningside ave,401 c w morningside ave n ramp
+13447492,bellamy rd n,brimorton dr
+13449428,weston rd,fenmar dr
+13441776,markham rd,mcnicoll ave
+13450818,lawrence ave e,warden ave
+13462349,kipling ave,widdicombe hill
+13449501,lawrence ave e,brimley rd
+13450458,william r allen rd,sheppard ave w
+13441919,midland ave,copthorne ave
+13442528,steeles ave e,don mills rd
+13445620,steeles ave w,alness st
+13467918,burnhamthorpe rd,the west mall
+13464218,jane st,st clair ave w
+13448022,willowdale ave,spring garden ave
+13448822,markham rd,greencedar crct
+13465689,dundas st w,royal york rd

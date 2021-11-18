@@ -1,3 +1,4 @@
+id,stNumber,stName,type,capacity
 5968,21,gerrard st e,Bike Rack,16
 5969,213,delaware ave,Angled Bike Rack,5
 5970,213,delaware ave,Bike Corral,8
@@ -117,40 +118,40 @@
 5914801,70,the pond rd,Rack,1
 5914802,8,assiniboine rd,Rack,1
 5914803,21,canniff st,Ring,1
-5914804,911,davenport rd,NA,1
-5914805,145,queens quay w,NA,1
+5914804,911,davenport rd,,1
+5914805,145,queens quay w,,1
 5914806,87,avenue rd,Ring,1
-5914807,147,baldwin st,NA,1
-5914808,50,western battery rd,NA,1
+5914807,147,baldwin st,,1
+5914808,50,western battery rd,,1
 5914809,50,blue jays way,Ring,1
 5914810,1313,bloor st w,Ring,1
-5914811,145,queens quay w,NA,1
+5914811,145,queens quay w,,1
 5914812,162,mc caul st,Ring,1
-5914813,1246,bloor st w,NA,1
-5914814,203,kingston rd,NA,1
-5914815,180,elizabeth st,NA,1
+5914813,1246,bloor st w,,1
+5914814,203,kingston rd,,1
+5914815,180,elizabeth st,,1
 5914816,46,wellesley st e,Ring,1
-5914817,78,dewson st,NA,1
-5914818,59,spadina rd,NA,1
+5914817,78,dewson st,,1
+5914818,59,spadina rd,,1
 5914819,324,richmond st w,Ring,1
-5914820,2,london st,NA,1
+5914820,2,london st,,1
 5914821,794,mount pleasant rd,Ring,1
-5914822,77,cottingham st,NA,1
-5914823,585,king st w,NA,1
+5914822,77,cottingham st,,1
+5914823,585,king st w,,1
 5914824,3080,yonge st,Ring,1
-5914825,61,hanna ave,NA,1
-5914826,2980,bloor st w,NA,1
+5914825,61,hanna ave,,1
+5914826,2980,bloor st w,,1
 5914827,7,king st e,Ring,1
-5914829,145,queens quay w,NA,1
+5914829,145,queens quay w,,1
 5914830,2,jackes ave,Ring,1
-5914831,2,sussex ave,NA,1
-5914832,302,king st e,NA,1
-5914833,2,sussex ave,NA,1
-5914834,8,assiniboine rd,NA,1
-5914835,2013,eglinton ave w,NA,1
-5914836,1229,queen st w,NA,1
-5914837,61,hanna ave,NA,1
-5914838,258,christie st,NA,1
+5914831,2,sussex ave,,1
+5914832,302,king st e,,1
+5914833,2,sussex ave,,1
+5914834,8,assiniboine rd,,1
+5914835,2013,eglinton ave w,,1
+5914836,1229,queen st w,,1
+5914837,61,hanna ave,,1
+5914838,258,christie st,,1
 5914839,1351,dufferin st,Ring,1
 5914840,1729,bloor st w,Ring,1
 5914841,1351,dufferin st,Ring,1
@@ -195,10 +196,10 @@
 5914880,2340,yonge st,Ring,1
 5914881,2340,yonge st,Ring,1
 5914882,409,bloor st e,Ring,1
-5914883,69,queen st e,NA,1
-5914884,102,atlantic ave,NA,1
-5914885,3381,lake shore blvd w,NA,1
-5914886,1229,queen st w,NA,1
+5914883,69,queen st e,,1
+5914884,102,atlantic ave,,1
+5914885,3381,lake shore blvd w,,1
+5914886,1229,queen st w,,1
 5914887,171,the esplanade,Ring,1
 5914888,171,the esplanade,Ring,1
 5914889,171,the esplanade,Ring,1
@@ -318,20 +319,20 @@
 5915007,185,king st e,Ring,1
 5915008,161,frederick st,Ring,1
 5915009,550,eglinton ave w,Rack,1
-5915010,518,danforth ave,NA,1
+5915010,518,danforth ave,,1
 5915011,2210,yonge st,Ring,1
-5915012,9,morrow ave,NA,1
-5915013,2458,bloor st w,NA,1
-5915014,1554,queen st w,NA,1
+5915012,9,morrow ave,,1
+5915013,2458,bloor st w,,1
+5915014,1554,queen st w,,1
 5915015,145,queens quay w,Ring,1
-5915016,61,hanna ave,NA,1
-5915017,1,grenville st,NA,1
-5915018,302,eglinton ave w,NA,1
-5915019,1929,davenport rd,NA,1
-5915020,382,bathurst st,NA,1
-5915021,3,chaplin cres,NA,1
+5915016,61,hanna ave,,1
+5915017,1,grenville st,,1
+5915018,302,eglinton ave w,,1
+5915019,1929,davenport rd,,1
+5915020,382,bathurst st,,1
+5915021,3,chaplin cres,,1
 5915022,5160,yonge st,Ring,1
-5915023,27,roncesvalles ave,NA,1
+5915023,27,roncesvalles ave,,1
 5915024,1802,eglinton ave w,Ring,1
 5915025,595,bay st,Ring,1
 5915026,595,bay st,Ring,1
@@ -446,7 +447,7 @@
 5915137,218,queens quay w,Ring,1
 5915138,218,queens quay w,Ring,1
 5915139,8,york st,Ring,1
-5915140,113,lansdowne ave,NA,1
+5915140,113,lansdowne ave,,1
 5915141,1879,eglinton ave w,Ring,1
 5915142,832,bay st,Ring,1
 5915143,832,bay st,Ring,1
@@ -454,8 +455,8 @@
 5915145,831,bay st,Ring,1
 5915146,831,bay st,Ring,1
 5915147,831,bay st,Ring,1
-5915148,283,spadina ave,NA,1
-5915149,105,victoria st,NA,1
+5915148,283,spadina ave,,1
+5915149,105,victoria st,,1
 5915150,693,bathurst st,Ring,1
 5915151,693,bathurst st,Ring,1
 5915152,144,front st w,Ring,1
@@ -499,187 +500,187 @@
 5915190,132,jarvis st,Ring,1
 5915191,230,college st,Ring,1
 5915192,258,eglinton ave e,Ring,1
-5915193,585,queens quay w,NA,1
+5915193,585,queens quay w,,1
 5915194,31,brock ave,Rack,1
-5915195,1431,bathurst st,NA,1
-5915196,149,baldwin st,NA,1
-5915197,720,mount pleasant rd,NA,1
-5915198,700,university ave,NA,1
-5915199,163,queen st e,NA,1
-5915200,819,bathurst st,NA,1
-5915201,194,wellesley st e,NA,1
-5915202,819,bathurst st,NA,1
-5915203,180,elizabeth st,NA,1
-5915204,237,queen st e,NA,1
-5915205,1775,eglinton ave w,NA,1
+5915195,1431,bathurst st,,1
+5915196,149,baldwin st,,1
+5915197,720,mount pleasant rd,,1
+5915198,700,university ave,,1
+5915199,163,queen st e,,1
+5915200,819,bathurst st,,1
+5915201,194,wellesley st e,,1
+5915202,819,bathurst st,,1
+5915203,180,elizabeth st,,1
+5915204,237,queen st e,,1
+5915205,1775,eglinton ave w,,1
 5915206,1892,eglinton ave w,Ring,1
-5915208,535,queen st w,NA,1
+5915208,535,queen st w,,1
 5915209,2210,yonge st,Ring,1
 5915210,2581,eglinton ave w,Ring,1
-5915211,145,queen st e,NA,1
-5915212,103,mc caul st,NA,1
+5915211,145,queen st e,,1
+5915212,103,mc caul st,,1
 5915213,14,temperance st,Ring,1
 5915214,14,temperance st,Ring,1
 5915215,1303,queen st w,Rack,1
 5915216,3080,yonge st,Ring,1
-5915217,77,howard st,NA,1
-5915218,77,howard st,NA,1
-5915219,77,howard st,NA,1
+5915217,77,howard st,,1
+5915218,77,howard st,,1
+5915219,77,howard st,,1
 5915220,599,yonge st,Ring,1
 5915221,907,kingston rd,Ring,1
-5915222,1497,queen st w,NA,1
-5915223,165,augusta ave,NA,1
+5915222,1497,queen st w,,1
+5915223,165,augusta ave,,1
 5915224,175,dundas st e,Ring,1
 5915225,106,dundas st e,Ring,1
-5915226,149,baldwin st,NA,1
+5915226,149,baldwin st,,1
 5915227,245,eglinton ave e,Ring,1
-5915228,819,bathurst st,NA,1
-5915229,365,eglinton ave e,NA,1
+5915228,819,bathurst st,,1
+5915229,365,eglinton ave e,,1
 5915230,16,waller ave,Rack,1
 5915231,438,university ave,Ring,1
-5915232,3252,dundas st w,NA,1
-5915233,125,bathurst st,NA,1
+5915232,3252,dundas st w,,1
+5915233,125,bathurst st,,1
 5915234,20,queen st w,Ring,1
 5915235,324,richmond st w,Ring,1
-5915236,700,university ave,NA,1
-5915237,54,hoskin ave,NA,1
-5915238,209,adelaide st e,NA,1
+5915236,700,university ave,,1
+5915237,54,hoskin ave,,1
+5915238,209,adelaide st e,,1
 5915239,2174,eglinton ave w,Ring,1
 5915240,77,gerrard st w,Ring,1
-5915241,149,baldwin st,NA,1
+5915241,149,baldwin st,,1
 5915242,56,blue jays way,Ring,1
 5915243,113,lansdowne ave,Rack,1
-5915244,145,queens quay w,NA,1
-5915245,573,yonge st,NA,1
-5915246,1545,bloor st w,NA,1
+5915244,145,queens quay w,,1
+5915245,573,yonge st,,1
+5915246,1545,bloor st w,,1
 5915247,180,john st,Ring,1
-5915248,2,sussex ave,NA,1
+5915248,2,sussex ave,,1
 5915249,2,st clair ave e,Ring,1
-5915251,194,wellesley st e,NA,1
+5915251,194,wellesley st e,,1
 5915252,50,blue jays way,Ring,1
-5915253,250,dunn ave,NA,1
-5915254,250,dunn ave,NA,1
+5915253,250,dunn ave,,1
+5915254,250,dunn ave,,1
 5915255,620,university ave,Ring,1
-5915256,11,orde st,NA,1
-5915257,100,baldwin st,NA,1
-5915258,4325,steeles ave e,NA,1
-5915259,4709,dundas st w,NA,1
+5915256,11,orde st,,1
+5915257,100,baldwin st,,1
+5915258,4325,steeles ave e,,1
+5915259,4709,dundas st w,,1
 5915260,620,university ave,Ring,1
-5915261,11,orde st,NA,1
+5915261,11,orde st,,1
 5915262,149,hallam st,Ring,1
-5915263,125,bathurst st,NA,1
-5915264,250,dunn ave,NA,1
-5915265,465,dundas st e,NA,1
-5915266,4850,dundas st w,NA,1
-5915267,720,mount pleasant rd,NA,1
-5915268,3079,dundas st w,NA,1
+5915263,125,bathurst st,,1
+5915264,250,dunn ave,,1
+5915265,465,dundas st e,,1
+5915266,4850,dundas st w,,1
+5915267,720,mount pleasant rd,,1
+5915268,3079,dundas st w,,1
 5915269,363,bremner blvd,Ring,1
-5915270,375,adelaide st w,NA,1
+5915270,375,adelaide st w,,1
 5915271,180,john st,Ring,1
 5915272,192,bloor st w,Ring,1
 5915273,126,simcoe st,Ring,1
 5915274,604,king st w,Ring,1
 5915275,604,king st w,Ring,1
 5915276,620,king st w,Ring,1
-5915277,700,university ave,NA,1
-5915279,464,yonge st,NA,1
-5915280,194,wellesley st e,NA,1
-5915281,125,bathurst st,NA,1
+5915277,700,university ave,,1
+5915279,464,yonge st,,1
+5915280,194,wellesley st e,,1
+5915281,125,bathurst st,,1
 5915282,250,eglinton ave w,Ring,1
 5915283,564,eglinton ave w,Ring,1
 5915284,8,assiniboine rd,Rack,1
-5915285,3211,danforth ave,NA,1
+5915285,3211,danforth ave,,1
 5915286,50,queen st w,Ring,1
 5915287,650,king st w,Ring,1
-5915288,3,rees st,NA,1
-5915289,438,dundas st e,NA,1
+5915288,3,rees st,,1
+5915289,438,dundas st e,,1
 5915290,278,eglinton ave w,Ring,1
-5915291,136,napanee crt,NA,1
-5915292,34,western battery rd,NA,1
+5915291,136,napanee crt,,1
+5915292,34,western battery rd,,1
 5915293,1076,bay st,Ring,1
 5915294,1076,bay st,Ring,1
 5915295,1076,bay st,Ring,1
 5915296,1000,bay st,Ring,1
 5915297,1000,bay st,Ring,1
 5915298,1794,eglinton ave w,Ring,1
-5915299,1229,queen st w,NA,1
+5915299,1229,queen st w,,1
 5915300,794,mount pleasant rd,Ring,1
 5915301,15,dundonald st,Ring,1
-5915302,180,elizabeth st,NA,1
-5915303,33,walton st,NA,1
+5915302,180,elizabeth st,,1
+5915303,33,walton st,,1
 5915304,443,bloor st e,Ring,1
-5915305,100,lombard st,NA,1
+5915305,100,lombard st,,1
 5915306,20,albert st,Ring,1
 5915307,175,dundas st e,Ring,1
-5915308,722,dufferin st,NA,1
+5915308,722,dufferin st,,1
 5915309,87,avenue rd,Ring,1
-5915310,720,mount pleasant rd,NA,1
+5915310,720,mount pleasant rd,,1
 5915311,2,assiniboine rd,Rack,1
-5915312,1497,queen st w,NA,1
+5915312,1497,queen st w,,1
 5915313,175,dundas st e,Ring,1
-5915314,36,yonge st,NA,1
+5915314,36,yonge st,,1
 5915315,480,st clair ave w,Ring,1
-5915316,518,danforth ave,NA,1
-5915317,163,queen st e,NA,1
-5915318,145,queens quay w,NA,1
-5915319,1497,queen st w,NA,1
+5915316,518,danforth ave,,1
+5915317,163,queen st e,,1
+5915318,145,queens quay w,,1
+5915319,1497,queen st w,,1
 5915320,2202,dundas st w,Ring,1
 5915321,3349,danforth ave,Ring,1
 5915322,1881,eglinton ave w,Ring,1
-5915323,464,yonge st,NA,1
-5915324,145,king st e,NA,1
-5915325,1499,queen st w,NA,1
-5915326,46,western battery rd,NA,1
+5915323,464,yonge st,,1
+5915324,145,king st e,,1
+5915325,1499,queen st w,,1
+5915326,46,western battery rd,,1
 5915328,2803,dundas st w,Ring,1
-5915329,504,vaughan rd,NA,1
-5915330,1229,queen st w,NA,1
-5915331,396,avenue rd,NA,1
-5915332,355,eglinton ave e,NA,1
-5915333,77,cottingham st,NA,1
+5915329,504,vaughan rd,,1
+5915330,1229,queen st w,,1
+5915331,396,avenue rd,,1
+5915332,355,eglinton ave e,,1
+5915333,77,cottingham st,,1
 5915334,175,dundas st e,Ring,1
 5915335,230,college st,Ring,1
-5915336,504,vaughan rd,NA,1
-5915337,77,cottingham st,NA,1
+5915336,504,vaughan rd,,1
+5915337,77,cottingham st,,1
 5915338,270,armadale ave,Rack,1
 5915339,168,bathurst st,Rack,1
 5915340,935,queen st w,Rack,1
 5915341,2218,bloor st w,Rack,1
 5915342,155,college st,Ring,1
 5915343,70,the pond rd,Rack,1
-5915344,34,church st,NA,1
-5915345,140,the esplanade,NA,1
-5915346,396,avenue rd,NA,1
+5915344,34,church st,,1
+5915345,140,the esplanade,,1
+5915346,396,avenue rd,,1
 5915347,794,mount pleasant rd,Ring,1
-5915348,2992,bloor st w,NA,1
+5915348,2992,bloor st w,,1
 5915349,73,mc caul st,Ring,1
-5915350,47,claremont st,NA,1
+5915350,47,claremont st,,1
 5915351,50,queen st w,Ring,1
 5915352,2803,dundas st w,Ring,1
-5915353,27,roncesvalles ave,NA,1
-5915354,80,cottingham st,NA,1
-5915355,33,walton st,NA,1
+5915353,27,roncesvalles ave,,1
+5915354,80,cottingham st,,1
+5915355,33,walton st,,1
 5915357,46,wellesley st e,Ring,1
-5915359,563,crawford st,NA,1
+5915359,563,crawford st,,1
 5915360,191,eglinton ave e,Ring,1
-5915365,2178,bloor st w,NA,1
-5915366,9,morrow ave,NA,1
+5915365,2178,bloor st w,,1
+5915366,9,morrow ave,,1
 5915367,44,gerrard st e,Ring,1
-5915368,2,sussex ave,NA,1
-5915369,518,danforth ave,NA,1
+5915368,2,sussex ave,,1
+5915369,518,danforth ave,,1
 5915370,419,dovercourt rd,Rack,1
 5915371,269,eglinton ave e,Ring,1
 5915372,1608,eglinton ave w,Ring,1
-5915373,163,queen st e,NA,1
-5915374,61,hanna ave,NA,1
-5915375,135,st clair ave w,NA,1
-5915376,1345,queen st w,NA,1
-5915377,3,queen st e,NA,1
-5915378,700,university ave,NA,1
+5915373,163,queen st e,,1
+5915374,61,hanna ave,,1
+5915375,135,st clair ave w,,1
+5915376,1345,queen st w,,1
+5915377,3,queen st e,,1
+5915378,700,university ave,,1
 5915379,56,blue jays way,Ring,1
 5915380,328,richmond st w,Ring,1
 5915381,1671,queen st e,Rack,1
-5915382,180,elizabeth st,NA,1
-5915383,61,hanna ave,NA,1
+5915382,180,elizabeth st,,1
+5915383,61,hanna ave,,1
 5915384,171,gore vale ave,Ring,1
 5915385,1652,keele st,Ring,1
 5915386,1652,keele st,Ring,1
@@ -692,7 +693,7 @@
 5915393,749,dovercourt rd,Ring,1
 5915394,749,dovercourt rd,Ring,1
 5915395,65,shank st,Ring,1
-5915396,373,eglinton ave w,NA,1
+5915396,373,eglinton ave w,,1
 5915397,533,st clair ave w,Ring,1
 5915398,101,college st,Ring,1
 5915399,313,sherbourne st,Ring,1
@@ -726,11 +727,11 @@
 5915427,107,jarvis st,Ring,1
 5915428,74,the esplanade,Ring,1
 5915429,907,kingston rd,Ring,1
-5915430,2,sussex ave,NA,1
+5915430,2,sussex ave,,1
 5915431,1,eglinton ave e,Ring,1
-5915432,113,lansdowne ave,NA,1
-5915433,61,hanna ave,NA,1
-5915434,4850,dundas st w,NA,1
+5915432,113,lansdowne ave,,1
+5915433,61,hanna ave,,1
+5915434,4850,dundas st w,,1
 5915435,1087,yonge st,Ring,1
 5915436,1087,yonge st,Ring,1
 5915437,387,dundas st e,Ring,1
@@ -750,7 +751,7 @@
 5915451,392,bay st,Ring,1
 5915452,392,bay st,Ring,1
 5915453,6,church st,Ring,1
-5915454,700,kingston rd,NA,1
+5915454,700,kingston rd,,1
 5915455,1801,eglinton ave w,Ring,1
 5915456,352,front st w,Ring,1
 5915457,178,st george st,Ring,1
@@ -766,7 +767,7 @@
 5915467,111,geary ave,Ring,1
 5915468,115,geary ave,Ring,1
 5915469,1656,queen st e,Rack,1
-5915470,21,dundonald st,NA,1
+5915470,21,dundonald st,,1
 5915471,759,mount pleasant rd,Ring,1
 5915472,2770,danforth ave,Ring,1
 5915473,2770,danforth ave,Ring,1
@@ -774,22 +775,22 @@
 5915475,2315,danforth ave,Ring,1
 5915476,1716,danforth ave,Ring,1
 5915477,2864,danforth ave,Ring,1
-5915478,2007,dundas st w,NA,1
-5915479,398,avenue rd,NA,1
-5915480,125,bathurst st,NA,1
-5915481,332,bloor st w,NA,1
+5915478,2007,dundas st w,,1
+5915479,398,avenue rd,,1
+5915480,125,bathurst st,,1
+5915481,332,bloor st w,,1
 5915482,144,cumberland st,Ring,1
 5915483,144,cumberland st,Ring,1
 5915484,144,cumberland st,Ring,1
 5915485,144,cumberland st,Ring,1
-5915486,1464,queen st w,NA,1
+5915486,1464,queen st w,,1
 5915487,8,assiniboine rd,Rack,1
-5915488,38,church st,NA,1
-5915489,180,elizabeth st,NA,1
-5915490,230,queen st e,NA,1
+5915488,38,church st,,1
+5915489,180,elizabeth st,,1
+5915490,230,queen st e,,1
 5915491,3355,dundas st w,Ring,1
 5915492,3355,dundas st w,Ring,1
-5915493,1497,queen st w,NA,1
+5915493,1497,queen st w,,1
 5915494,2830,danforth ave,Ring,1
 5915495,1427,kingston rd,Ring,1
 5915496,1427,kingston rd,Ring,1
@@ -806,29 +807,29 @@
 5915507,1294,st clair ave w,Ring,1
 5915508,1317,st clair ave w,Ring,1
 5915509,1944,davenport rd,Ring,1
-5915510,36,yonge st,NA,1
+5915510,36,yonge st,,1
 5915511,419,dovercourt rd,Rack,1
 5915512,257,college st,Ring,1
-5915513,145,queens quay w,NA,1
+5915513,145,queens quay w,,1
 5915514,803,mount pleasant rd,Ring,1
 5915515,2,assiniboine rd,Rack,1
-5915516,165,king st e,NA,1
-5915517,40,kenmark blvd,NA,1
+5915516,165,king st e,,1
+5915517,40,kenmark blvd,,1
 5915518,31,brock ave,Rack,1
-5915519,620,vaughan rd,NA,1
-5915520,252,soudan ave,NA,1
-5915521,819,bathurst st,NA,1
+5915519,620,vaughan rd,,1
+5915520,252,soudan ave,,1
+5915521,819,bathurst st,,1
 5915522,707,mount pleasant rd,Ring,1
 5915523,1331,yonge st,Ring,1
 5915524,1331,yonge st,Ring,1
-5915526,135,st clair ave w,NA,1
-5915527,465,dundas st e,NA,1
+5915526,135,st clair ave w,,1
+5915527,465,dundas st e,,1
 5915528,1850,eglinton ave w,Ring,1
-5915529,61,hanna ave,NA,1
-5915530,250,dunn ave,NA,1
-5915531,2,macdonell ave,NA,1
+5915529,61,hanna ave,,1
+5915530,250,dunn ave,,1
+5915531,2,macdonell ave,,1
 5915532,117,peter st,Ring,1
-5915533,31,drummond st,NA,1
+5915533,31,drummond st,,1
 5915534,2929,danforth ave,Ring,1
 5915535,1626,bayview ave,Ring,1
 5915536,101,peter st,Ring,1
@@ -849,18 +850,18 @@
 5915551,484,king st e,Ring,1
 5915552,118,sumach st,Ring,1
 5915553,118,sumach st,Ring,1
-5915554,219,fort york blvd,NA,1
-5915555,77,howard st,NA,1
-5915556,77,howard st,NA,1
+5915554,219,fort york blvd,,1
+5915555,77,howard st,,1
+5915556,77,howard st,,1
 5915557,75,eglinton ave e,Ring,1
 5915558,75,eglinton ave e,Ring,1
 5915559,85,eglinton ave e,Ring,1
 5915560,300,front st w,Ring,1
-5915561,819,bathurst st,NA,1
+5915561,819,bathurst st,,1
 5915562,262,bloor st w,Rack,1
-5915563,145,queens quay w,NA,1
-5915564,42,western battery rd,NA,1
-5915565,1705,bloor st w,NA,1
+5915563,145,queens quay w,,1
+5915564,42,western battery rd,,1
+5915565,1705,bloor st w,,1
 5915566,2756,danforth ave,Ring,1
 5915567,2756,danforth ave,Ring,1
 5915568,2802,danforth ave,Ring,1
@@ -872,12 +873,12 @@
 5915574,19,grand trunk cres,Ring,1
 5915575,19,grand trunk cres,Ring,1
 5915576,117,peter st,Ring,1
-5915577,55,isabella st,NA,1
-5915578,796,mount pleasant rd,NA,1
-5915579,4709,dundas st w,NA,1
-5915580,2,macdonell ave,NA,1
+5915577,55,isabella st,,1
+5915578,796,mount pleasant rd,,1
+5915579,4709,dundas st w,,1
+5915580,2,macdonell ave,,1
 5915581,443,bloor st e,Ring,1
-5915582,180,elizabeth st,NA,1
+5915582,180,elizabeth st,,1
 5915583,66,sudbury st,Ring,1
 5915584,1130,queen st e,Ring,1
 5915585,36,lisgar st,Ring,1
@@ -894,7 +895,7 @@
 5915596,111,jefferson ave,Ring,1
 5915597,111,jefferson ave,Ring,1
 5915598,125,jefferson ave,Ring,1
-5915600,243,queen st e,NA,1
+5915600,243,queen st e,,1
 5915601,651,victoria park ave,Ring,1
 5915602,47,hillsboro ave,Ring,1
 5915603,550,queen st e,Ring,1
@@ -959,7 +960,7 @@
 5915663,18,dyas rd,Ring,1
 5915664,4750,yonge st,Ring,1
 5915665,972,the queensway,Ring,1
-5915666,2,sussex ave,NA,1
+5915666,2,sussex ave,,1
 5915667,1125,st clair ave w,Ring,1
 5915668,1248,st clair ave w,Ring,1
 5915669,1153,st clair ave w,Ring,1
@@ -1028,9 +1029,9 @@
 5915738,345,wilson ave,Ring,1
 5915739,387,keele st,Ring,1
 5915740,1602,eglinton ave w,Ring,1
-5915741,64,queen st e,NA,1
-5915742,105,victoria st,NA,1
-5915743,25,eleventh st,NA,1
+5915741,64,queen st e,,1
+5915742,105,victoria st,,1
+5915743,25,eleventh st,,1
 5915744,61,ontario st,Ring,1
 5915745,1333,st clair ave w,Ring,1
 5915746,1329,st clair ave w,Ring,1
@@ -1047,30 +1048,30 @@
 5915757,101,eglinton ave e,Ring,1
 5915758,111,eglinton ave e,Ring,1
 5915759,1094,bathurst st,Ring,1
-5915760,440,college st,NA,1
-5915761,10,broadway ave,NA,1
+5915760,440,college st,,1
+5915761,10,broadway ave,,1
 5915762,807,dundas st w,Ring,1
 5915763,803,dundas st w,Ring,1
 5915764,801,dundas st w,Ring,1
 5915765,620,king st w,Ring,1
 5915766,620,king st w,Ring,1
 5915767,51,mc caul st,Ring,1
-5915768,542,college st,NA,1
-5915769,20,lombard st,NA,1
+5915768,542,college st,,1
+5915769,20,lombard st,,1
 5915770,480,st clair ave w,Ring,1
 5915771,2210,yonge st,Ring,1
-5915772,3,rees st,NA,1
-5915773,242,queen st e,NA,1
+5915772,3,rees st,,1
+5915773,242,queen st e,,1
 5915774,525,wilson ave,Ring,1
 5915775,525,wilson ave,Ring,1
 5915776,380,macpherson ave,Ring,1
-5915777,145,queens quay w,NA,1
+5915777,145,queens quay w,,1
 5915778,2288,dundas st w,Rack,1
-5915779,1705,bloor st w,NA,1
+5915779,1705,bloor st w,,1
 5915780,380,macpherson ave,Ring,1
 5915781,380,macpherson ave,Ring,1
 5915782,200,church st,Ring,1
-5915783,77,howard st,NA,1
+5915783,77,howard st,,1
 5915784,200,church st,Ring,1
 5915785,111,harbord st,Ring,1
 5915786,55,eastern ave,Ring,1
@@ -1361,8 +1362,8 @@
 5916081,263,spadina rd,Ring,1
 5916082,398,spadina rd,Ring,1
 5916083,329,lonsdale rd,Ring,1
-5916084,77,howard st,NA,1
-5916085,165,augusta ave,NA,1
+5916084,77,howard st,,1
+5916085,165,augusta ave,,1
 5916086,131,roncesvalles ave,Ring,1
 5916087,525,king st e,Ring,1
 5916088,558,dundas st w,Ring,1
@@ -3318,7 +3319,7 @@
 5918155,129,davenport rd,Ring,1
 5918156,1763,danforth ave,Ring,1
 5918157,2163,danforth ave,Ring,1
-5918158,11,orde st,NA,1
+5918158,11,orde st,,1
 5918159,2872,danforth ave,Ring,1
 5918160,2872,danforth ave,Ring,1
 5918161,111,bathurst st,Ring,1
@@ -11580,7 +11581,7 @@
 5927100,318,richmond st w,Ring,1
 5927101,1365,queen st w,Ring,1
 5927102,86,sudbury st,Ring,1
-5927103,1495,queen st w,NA,1
+5927103,1495,queen st w,,1
 5927104,438,spadina ave,Ring,1
 5927105,425,bloor st w,Ring,1
 5927106,427,bloor st w,Ring,1
@@ -11589,7 +11590,7 @@
 5927110,427,bloor st w,Ring,1
 5927111,427,bloor st w,Ring,1
 5927113,427,bloor st w,Ring,1
-5927114,106,king st e,NA,1
+5927114,106,king st e,,1
 5927115,620,king st w,Ring,1
 5927117,917,queen st w,Ring,1
 5927118,277,scott rd,Ring,1
@@ -11642,15 +11643,15 @@
 5927168,274,king st w,Ring,1
 5927169,1007,eglinton ave w,Ring,1
 5927170,380,macpherson ave,Ring,1
-5927171,20,lombard st,NA,1
+5927171,20,lombard st,,1
 5927172,70,temperance st,Ring,1
-5927173,66,edward st,NA,1
+5927173,66,edward st,,1
 5927174,646,st clair ave w,Ring,1
 5927175,917,st clair ave w,Ring,1
 5927176,1088,yonge st,Ring,1
 5927177,1448,bloor st w,Ring,1
 5927178,70,east liberty st,Ring,1
-5927179,11,orde st,NA,1
+5927179,11,orde st,,1
 5927180,80,grosvenor st,Ring,1
 5927181,443,king st w,Ring,1
 5927182,2413,dundas st w,Ring,1
@@ -11877,7 +11878,7 @@
 5927416,1077,bloor st w,Ring,1
 5927417,1001,eglinton ave w,Ring,1
 5927419,999,eglinton ave w,Ring,1
-5927420,1148,weston rd,NA,1
+5927420,1148,weston rd,,1
 5927421,727,queen st e,Ring,1
 5927422,484,roncesvalles ave,Ring,1
 5927423,29,woodward ave,Ring,1
@@ -11928,7 +11929,7 @@
 5927471,500,university ave,Ring,1
 5927472,522,university ave,Ring,1
 5927473,1075,queen st e,Ring,1
-5927474,433,royal york rd,NA,1
+5927474,433,royal york rd,,1
 5927475,1622,eglinton ave w,Ring,1
 5927476,150,gerrard st w,Ring,1
 5927477,72,elm st,Ring,1
@@ -11962,11 +11963,11 @@
 5927509,522,university ave,Ring,1
 5927510,550,university ave,Ring,1
 5927511,490,university ave,Ring,1
-5927512,3304,danforth ave,NA,1
+5927512,3304,danforth ave,,1
 5927513,2,st clair ave e,Ring,1
-5927514,194,wellesley st e,NA,1
-5927515,145,queens quay w,NA,1
-5927516,180,elizabeth st,NA,1
+5927514,194,wellesley st e,,1
+5927515,145,queens quay w,,1
+5927516,180,elizabeth st,,1
 5927517,994,dundas st w,Ring,1
 5927518,70,the pond rd,Rack,1
 5927519,1859,eglinton ave w,Ring,1
@@ -11980,18 +11981,18 @@
 5927528,194,wellesley st e,Ring,1
 5927529,747,college st,Ring,1
 5927530,1241,dundas st w,Ring,1
-5927531,31,drummond st,NA,1
+5927531,31,drummond st,,1
 5927532,1,eglinton ave e,Ring,1
 5927533,2563,danforth ave,Ring,1
 5927534,858,dundas st w,Ring,1
 5927535,170,university ave,Ring,1
 5927536,26,wellington st e,Ring,1
 5927537,147,lower jarvis st,Ring,1
-5927538,21,dundonald st,NA,1
+5927538,21,dundonald st,,1
 5927539,784,yonge st,Ring,1
 5927540,438,university ave,Ring,1
-5927541,61,hanna ave,NA,1
-5927542,585,king st w,NA,1
+5927541,61,hanna ave,,1
+5927542,585,king st w,,1
 5927543,100,sorauren ave,Rack,1
 5927545,1437,kingston rd,Ring,1
 5927546,1285,st clair ave w,Ring,1
@@ -12008,39 +12009,39 @@
 5927557,699,bloor st w,Ring,1
 5927558,238,christie st,Ring,1
 5927559,266,queens quay w,Ring,1
-5927560,11,orde st,NA,1
+5927560,11,orde st,,1
 5927561,149,college st,Ring,1
-5927562,320,danforth ave,NA,1
+5927562,320,danforth ave,,1
 5927563,602,runnymede rd,Rack,1
 5927564,831,bay st,Ring,1
 5927565,5,widmer st,Ring,1
 5927566,1215,bay st,Ring,1
 5927567,87,avenue rd,Ring,1
-5927568,80,cottingham st,NA,1
+5927568,80,cottingham st,,1
 5927569,816,college st,Ring,1
 5927571,620,king st w,Ring,1
 5927572,66,sudbury st,Ring,1
 5927573,759,mount pleasant rd,Ring,1
 5927574,359,king st e,Ring,1
 5927575,131,dunn ave,Ring,1
-5927576,1556,queen st w,NA,1
+5927576,1556,queen st w,,1
 5927577,1000,bay st,Ring,1
 5927578,904,dundas st w,Ring,1
-5927579,504,vaughan rd,NA,1
-5927580,657,dupont st,NA,1
-5927581,76,lombard st,NA,1
-5927582,700,university ave,NA,1
+5927579,504,vaughan rd,,1
+5927580,657,dupont st,,1
+5927581,76,lombard st,,1
+5927582,700,university ave,,1
 5927583,269,eglinton ave e,Ring,1
 5927584,10,cole st,Ring,1
 5927585,2,church st,Ring,1
-5927586,819,bathurst st,NA,1
-5927587,22,western battery rd,NA,1
+5927586,819,bathurst st,,1
+5927587,22,western battery rd,,1
 5927588,286,eglinton ave w,Ring,1
-5927590,33,walton st,NA,1
+5927590,33,walton st,,1
 5927591,500,glencairn ave,Ring,1
 5927592,352,front st w,Ring,1
 5927593,1475,dupont st,Ring,1
-5927594,819,bathurst st,NA,1
+5927594,819,bathurst st,,1
 5927595,650,king st w,Ring,1
 5927596,167,king st e,Ring,1
 5927597,178,st george st,Ring,1
@@ -12283,7 +12284,7 @@
 5927847,2468,eglinton ave w,Ring,1
 5927848,2850,lake shore blvd w,Ring,1
 5927850,443,bloor st e,Ring,1
-5927851,819,bathurst st,NA,1
+5927851,819,bathurst st,,1
 5927852,320,huron st,Ring,1
 5927853,896,danforth ave,Ring,1
 5927854,400,university ave,Ring,1
@@ -12697,7 +12698,7 @@
 5928297,994,bathurst st,Ring,1
 5928298,797,queen st w,Ring,1
 5928299,328,adelaide st w,Ring,1
-5928300,38,western battery rd,NA,1
+5928300,38,western battery rd,,1
 5928301,61,sherbourne st,Ring,1
 5928302,72,bellevue ave,Ring,1
 5928303,390,queens quay w,Ring,1
@@ -12819,7 +12820,7 @@
 5928430,600,fleet st,Ring,1
 5928431,162,bloor st w,Ring,1
 5928432,134,twelfth st,Ring,1
-5928433,3,queen st e,NA,1
+5928433,3,queen st e,,1
 5928434,860,bay st,Ring,1
 5928435,214,wellington st w,Ring,1
 5928436,775,king st w,Ring,1
@@ -13165,7 +13166,7 @@
 5928806,96,richmond st w,Ring,1
 5928807,170,york st,Ring,1
 5928808,105,front st e,Ring,1
-5928809,194,wellesley st e,NA,1
+5928809,194,wellesley st e,,1
 5928810,298,brunswick ave,Ring,1
 5928811,455,spadina ave,Ring,1
 5928812,43,oak st,Ring,1
@@ -13233,7 +13234,7 @@
 5928879,1496,yonge st,Ring,1
 5928880,97,bathurst st,Ring,1
 5928881,562,dundas st w,Ring,1
-5928882,219,fort york blvd,NA,1
+5928882,219,fort york blvd,,1
 5928883,55,lower simcoe st,Ring,1
 5928884,20,st george st,Ring,1
 5928885,330,keele st,Ring,1
@@ -13275,8 +13276,8 @@
 5928926,86,nassau st,Ring,1
 5928927,140,st george st,Ring,1
 5928928,471,front st e,Ring,1
-5928929,330,dupont st,NA,1
-5928930,1851,danforth ave,NA,1
+5928929,330,dupont st,,1
+5928930,1851,danforth ave,,1
 5928931,197,wellesley st e,Ring,1
 5928932,2,king st w,Ring,1
 5928933,489,king st w,Ring,1
@@ -13374,7 +13375,7 @@
 5929026,2,donlands ave,Ring,1
 5929027,1282,dundas st w,Ring,1
 5929029,283,coxwell ave,Ring,1
-5929030,25,eleventh st,NA,1
+5929030,25,eleventh st,,1
 5929031,29,evangeline crt,Ring,1
 5929032,310,bloor st w,Ring,1
 5929033,2957,dundas st w,Ring,1
@@ -13398,8 +13399,8 @@
 5929054,41,ancaster rd,Ring,1
 5929055,468,huron st,Ring,1
 5929056,810,queen st e,Ring,1
-5929057,2,sussex ave,NA,1
-5929058,125,bathurst st,NA,1
+5929057,2,sussex ave,,1
+5929058,125,bathurst st,,1
 5929059,1331,danforth ave,Ring,1
 5929060,600,fleet st,Ring,1
 5929061,94,the esplanade,Ring,1
@@ -13424,7 +13425,7 @@
 5929083,537,bloor st w,Ring,1
 5929084,473,oakwood ave,Ring,1
 5929085,230,the esplanade,Ring,1
-5929086,76,lombard st,NA,1
+5929086,76,lombard st,,1
 5929087,1,yonge st,Ring,1
 5929088,32,lisgar st,Ring,1
 5929089,589,queen st w,Ring,1
@@ -13485,7 +13486,7 @@
 5929150,728,bloor st w,Ring,1
 5929151,250,dundas st w,Ring,1
 5929153,60,harbour st,Ring,1
-5929154,30,western battery rd,NA,1
+5929154,30,western battery rd,,1
 5929155,517,runnymede rd,Ring,1
 5929156,250,victoria st,Ring,1
 5929157,427,bloor st w,Ring,1
@@ -13601,7 +13602,7 @@
 5929274,300,victoria st,Rack,1
 5929275,448,dufferin st,Ring,1
 5929276,500,university ave,Ring,1
-5929277,284,dupont st,NA,1
+5929277,284,dupont st,,1
 5929278,1818,eglinton ave w,Ring,1
 5929279,12,madison ave,Ring,1
 5929281,88,elm st,Ring,1
@@ -13649,7 +13650,7 @@
 5929328,226,bathurst st,Ring,1
 5929329,392,college st,Ring,1
 5929330,115,queens quay e,Ring,1
-5929331,105,victoria st,NA,1
+5929331,105,victoria st,,1
 5929332,241,church st,Ring,1
 5929333,145,mutual st,Ring,1
 5929334,14,carlton st,Ring,1
@@ -13774,7 +13775,7 @@
 5929459,96,richmond st w,Ring,1
 5929460,480,dundas st e,Ring,1
 5929461,33,front st e,Ring,1
-5929462,180,elizabeth st,NA,1
+5929462,180,elizabeth st,,1
 5929463,98,the esplanade,Ring,1
 5929464,132,john st,Ring,1
 5929465,111,lombard st,Ring,1
@@ -13799,7 +13800,7 @@
 5929485,4,eastern ave,Ring,1
 5929486,2199,bloor st w,Ring,1
 5929488,258,victoria st,Ring,1
-5929489,77,howard st,NA,1
+5929489,77,howard st,,1
 5929490,427,bloor st w,Ring,1
 5929491,49,givins st,Ring,1
 5929492,1,dundas st w,Ring,1
@@ -13827,7 +13828,7 @@
 5929517,137,edward st,Ring,1
 5929518,67,college st,Ring,1
 5929519,807,king st w,Ring,1
-5929521,66,edward st,NA,1
+5929521,66,edward st,,1
 5929522,129,peter st,Ring,1
 5929523,269,eglinton ave e,Ring,1
 5929524,441,queens quay w,Ring,1
@@ -13878,8 +13879,8 @@
 5929572,686,bay st,Ring,1
 5929573,225,wellington st w,Ring,1
 5929574,1250,king st w,Ring,1
-5929575,77,howard st,NA,1
-5929576,21,dundonald st,NA,1
+5929575,77,howard st,,1
+5929576,21,dundonald st,,1
 5929577,355,adelaide st w,Ring,1
 5929578,524,oakwood ave,Ring,1
 5929579,585,queen st w,Ring,1
@@ -14000,7 +14001,7 @@
 5929702,1024,dupont st,Ring,1
 5929703,56,york st,Ring,1
 5929704,66,avenue rd,Ring,1
-5929705,31,drummond st,NA,1
+5929705,31,drummond st,,1
 5929706,932,yonge st,Ring,1
 5929707,672,kingston rd,Ring,1
 5929708,1554,danforth ave,Ring,1
@@ -14061,7 +14062,7 @@
 5929765,51,donlands ave,Ring,1
 5929766,429,college st,Ring,1
 5929767,6,gore st,Ring,1
-5929768,2178,bloor st w,NA,1
+5929768,2178,bloor st w,,1
 5929769,40,wabash ave,Ring,1
 5929770,248,bloor st w,Ring,1
 5929771,550,queen st e,Ring,1
@@ -14074,7 +14075,7 @@
 5929778,2050,danforth ave,Ring,1
 5929779,87,osler st,Ring,1
 5929780,1265,queen st w,Ring,1
-5929781,341,oakwood ave,NA,1
+5929781,341,oakwood ave,,1
 5929782,110,yonge st,Ring,1
 5929783,1,eglinton ave e,Ring,1
 5929784,223,adelaide st w,Ring,1
@@ -14099,7 +14100,7 @@
 5929805,1,dundas st w,Ring,1
 5929806,1006,dufferin st,Ring,1
 5929807,329,st george st,Ring,1
-5929808,2078,queen st e,NA,1
+5929808,2078,queen st e,,1
 5929809,360,king st w,Ring,1
 5929810,14,irwin ave,Ring,1
 5929811,1128,eglinton ave w,Ring,1
@@ -14213,10 +14214,10 @@
 5929926,87,osler st,Ring,1
 5929927,85,hanna ave,Ring,1
 5929928,264,beatrice st,Ring,1
-5929929,563,crawford st,NA,1
+5929929,563,crawford st,,1
 5929930,1862,eglinton ave w,Ring,1
 5929931,61,sherbourne st,Ring,1
-5929932,1974,weston rd,NA,1
+5929932,1974,weston rd,,1
 5929933,502,spadina ave,Ring,1
 5929934,112,elizabeth st,Ring,1
 5929935,149,jameson ave,Ring,1
@@ -14445,7 +14446,7 @@
 5930168,46,hayden st,Ring,1
 5930169,387,dundas st e,Ring,1
 5930170,12,douro st,Ring,1
-5930171,1974,weston rd,NA,1
+5930171,1974,weston rd,,1
 5930172,8,assiniboine rd,Rack,1
 5930174,40,wabash ave,Ring,1
 5930176,2044,queen st e,Ring,1
@@ -14683,7 +14684,7 @@
 5930430,2048,weston rd,Ring,1
 5930431,640,st clair ave w,Ring,1
 5930432,150,gerrard st w,Ring,1
-5930433,1505,gerrard st e,NA,1
+5930433,1505,gerrard st e,,1
 5930434,469,bloor st w,Ring,1
 5930435,222,bremner blvd,Ring,1
 5930436,87,walton st,Ring,1
@@ -14800,7 +14801,7 @@
 5930554,15,brunel crt,Ring,1
 5930556,1602,gerrard st e,Ring,1
 5930557,183,front st e,Ring,1
-5930558,77,river st,NA,1
+5930558,77,river st,,1
 5930559,328,adelaide st w,Ring,1
 5930560,140,charles st w,Ring,1
 5930561,602,fleet st,Ring,1
@@ -14836,8 +14837,8 @@
 5930594,275,avenue rd,Ring,1
 5930595,2879,danforth ave,Ring,1
 5930596,2749,lake shore blvd w,Ring,1
-5930597,398,avenue rd,NA,1
-5930598,711,mount pleasant rd,NA,1
+5930597,398,avenue rd,,1
+5930598,711,mount pleasant rd,,1
 5930599,718,bathurst st,Ring,1
 5930600,394,adelaide st w,Ring,1
 5930601,605,markham st,Ring,1
@@ -14863,7 +14864,7 @@
 5930621,32,cumberland st,Ring,1
 5930622,1106,danforth ave,Ring,1
 5930623,582,lansdowne ave,Ring,1
-5930624,102,atlantic ave,NA,1
+5930624,102,atlantic ave,,1
 5930625,24,wellesley st w,Ring,1
 5930626,553,richmond st w,Ring,1
 5930627,420,eglinton ave w,Ring,1
@@ -14982,7 +14983,7 @@
 5930746,1623,queen st w,Ring,1
 5930747,2072,yonge st,Ring,1
 5930748,3031,bloor st w,Ring,1
-5930751,648,spadina ave,NA,1
+5930751,648,spadina ave,,1
 5930752,129,danforth ave,Ring,1
 5930753,76,wychwood ave,Ring,1
 5930754,55,harbord st,Ring,1
@@ -15018,8 +15019,8 @@
 5930785,310,front st w,Ring,1
 5930786,176,dupont st,Ring,1
 5930787,231,fort york blvd,Ring,1
-5930788,3,queen st e,NA,1
-5930789,131,dunn ave,NA,1
+5930788,3,queen st e,,1
+5930789,131,dunn ave,,1
 5930790,199,richmond st w,Ring,1
 5930791,693,bathurst st,Ring,1
 5930793,33,phoebe st,Ring,1
@@ -15112,9 +15113,9 @@
 5930884,600,fleet st,Ring,1
 5930885,1740,avenue rd,Ring,1
 5930886,319,ossington ave,Ring,1
-5930887,2,sussex ave,NA,1
+5930887,2,sussex ave,,1
 5930888,55,oakmount rd,Rack,1
-5930889,125,bathurst st,NA,1
+5930889,125,bathurst st,,1
 5930890,2701,danforth ave,Ring,1
 5930891,390,bay st,Ring,1
 5930892,793,broadview ave,Ring,1
@@ -15142,7 +15143,7 @@
 5930915,220,elizabeth st,Ring,1
 5930916,410,roncesvalles ave,Ring,1
 5930917,1140,bloor st w,Ring,1
-5930918,145,queens quay w,NA,1
+5930918,145,queens quay w,,1
 5930919,1075,queen st e,Ring,1
 5930920,145,richmond st w,Ring,1
 5930921,380,macpherson ave,Ring,1
@@ -15251,7 +15252,7 @@
 5931036,1515,bloor st w,Ring,1
 5931037,2449,yonge st,Ring,1
 5931038,641,eglinton ave w,Ring,1
-5931039,2704,danforth ave,NA,1
+5931039,2704,danforth ave,,1
 5931040,555,university ave,Ring,1
 5931041,531,college st,Ring,1
 5931042,775,king st w,Ring,1
@@ -15291,10 +15292,10 @@
 5931081,2190,bloor st w,Ring,1
 5931083,425,church st,Ring,1
 5931084,4711,yonge st,Ring,1
-5931085,125,bathurst st,NA,1
-5931086,135,st clair ave w,NA,1
-5931087,201,sherbourne st,NA,1
-5931088,156,coxwell ave,NA,1
+5931085,125,bathurst st,,1
+5931086,135,st clair ave w,,1
+5931087,201,sherbourne st,,1
+5931088,156,coxwell ave,,1
 5931089,22,college st,Ring,1
 5931090,263,adelaide st w,Ring,1
 5931091,399,mount pleasant rd,Ring,1
@@ -15328,7 +15329,7 @@
 5931121,1279,gerrard st e,Ring,1
 5931122,760,bay st,Ring,1
 5931123,69,richmond st w,Ring,1
-5931124,2854,dundas st w,NA,1
+5931124,2854,dundas st w,,1
 5931125,354,gerrard st e,Ring,1
 5931127,225,wellington st w,Ring,1
 5931128,2045,dufferin st,Ring,1
@@ -15412,7 +15413,7 @@
 5931212,2794,lake shore blvd w,Ring,1
 5931213,4,westmoreland ave,Ring,1
 5931214,25,hayden st,Ring,1
-5931215,77,howard st,NA,1
+5931215,77,howard st,,1
 5931216,1754,eglinton ave w,Ring,1
 5931217,1475,queen st w,Ring,1
 5931218,3330,yonge st,Ring,1
@@ -15650,7 +15651,7 @@
 5931467,320,carlaw ave,Ring,1
 5931469,179,king st e,Ring,1
 5931470,3049,dundas st w,Ring,1
-5931471,78,dewson st,NA,1
+5931471,78,dewson st,,1
 5931472,180,john st,Ring,1
 5931473,37,mill st,Ring,1
 5931474,8,heintzman st,Ring,1
@@ -15660,7 +15661,7 @@
 5931478,1,cole st,Ring,1
 5931479,669,st clair ave w,Ring,1
 5931480,600,fleet st,Ring,1
-5931481,21,dundonald st,NA,1
+5931481,21,dundonald st,,1
 5931482,319,queens quay w,Ring,1
 5931483,15,market st,Ring,1
 5931484,2,eastern ave,Ring,1
@@ -15757,7 +15758,7 @@
 5931580,386,eglinton ave w,Ring,1
 5931581,161,lauder ave,Ring,1
 5931582,1272,st clair ave w,Ring,1
-5931583,488,dupont st,NA,1
+5931583,488,dupont st,,1
 5931584,44,gerrard st e,Ring,1
 5931585,440,college st,Ring,1
 5931586,708,crawford st,Ring,1
@@ -15793,7 +15794,7 @@
 5931618,260,carlaw ave,Ring,1
 5931619,371,yonge st,Ring,1
 5931620,33,mill st,Ring,1
-5931621,193,queen st e,NA,1
+5931621,193,queen st e,,1
 5931622,30,lake shore blvd w,Ring,1
 5931623,31,granby st,Ring,1
 5931624,1,queen st e,Ring,1
@@ -15987,7 +15988,7 @@
 5931829,20,adelaide st e,Ring,1
 5931830,876,bloor st w,Ring,1
 5931831,8,assiniboine rd,Rack,1
-5931832,520,parliament st,NA,1
+5931832,520,parliament st,,1
 5931833,17,spadina ave,Ring,1
 5931834,83,gould st,Ring,1
 5931835,77,lombard st,Ring,1
@@ -16065,36 +16066,36 @@
 7625658,50,blue jays way,Ring,1
 7625659,1313,bloor st w,Ring,1
 7625660,189,dundas st e,Ring,1
-7625661,145,queens quay w,NA,1
+7625661,145,queens quay w,,1
 7625662,162,mc caul st,Ring,1
-7625663,911,davenport rd,NA,1
-7625664,20,lombard st,NA,1
+7625663,911,davenport rd,,1
+7625664,20,lombard st,,1
 7625665,8,assiniboine rd,Rack,1
-7625666,50,western battery rd,NA,1
-7625667,105,victoria st,NA,1
+7625666,50,western battery rd,,1
+7625667,105,victoria st,,1
 7625668,131,dunn ave,Ring,1
-7625669,180,elizabeth st,NA,1
-7625670,1556,queen st w,NA,1
+7625669,180,elizabeth st,,1
+7625670,1556,queen st w,,1
 7625671,46,wellesley st e,Ring,1
-7625672,2,sussex ave,NA,1
+7625672,2,sussex ave,,1
 7625673,55,oakmount rd,Rack,1
-7625674,59,spadina rd,NA,1
-7625675,2078,queen st e,NA,1
+7625674,59,spadina rd,,1
+7625675,2078,queen st e,,1
 7625676,324,richmond st w,Ring,1
 7625677,794,mount pleasant rd,Ring,1
-7625678,125,bathurst st,NA,1
-7625679,77,cottingham st,NA,1
-7625680,203,kingston rd,NA,1
-7625681,61,hanna ave,NA,1
-7625682,2980,bloor st w,NA,1
+7625678,125,bathurst st,,1
+7625679,77,cottingham st,,1
+7625680,203,kingston rd,,1
+7625681,61,hanna ave,,1
+7625682,2980,bloor st w,,1
 7625684,3080,yonge st,Ring,1
-7625685,145,queens quay w,NA,1
+7625685,145,queens quay w,,1
 7625686,2,jackes ave,Ring,1
-7625687,563,crawford st,NA,1
-7625688,2,sussex ave,NA,1
+7625687,563,crawford st,,1
+7625688,2,sussex ave,,1
 7625689,251,sorauren ave,Rack,1
-7625690,8,assiniboine rd,NA,1
-7625691,1229,queen st w,NA,1
+7625690,8,assiniboine rd,,1
+7625691,1229,queen st w,,1
 7625692,1000,college st,Ring,1
 7625693,1262,bay st,Ring,1
 7625694,998,college st,Ring,1
@@ -16145,12 +16146,12 @@
 7625739,75,simcoe st,Ring,1
 7625740,75,simcoe st,Ring,1
 7625741,75,simcoe st,Ring,1
-7625742,69,queen st e,NA,1
-7625743,102,atlantic ave,NA,1
-7625744,145,queens quay w,NA,1
-7625745,61,hanna ave,NA,1
-7625746,258,christie st,NA,1
-7625747,433,royal york rd,NA,1
+7625742,69,queen st e,,1
+7625743,102,atlantic ave,,1
+7625744,145,queens quay w,,1
+7625745,61,hanna ave,,1
+7625746,258,christie st,,1
+7625747,433,royal york rd,,1
 7625748,238,front st e,Ring,1
 7625749,238,front st e,Ring,1
 7625750,238,front st e,Ring,1
@@ -16252,27 +16253,27 @@
 7625852,147,lower jarvis st,Ring,1
 7625853,141,lower jarvis st,Ring,1
 7625854,125,george st,Ring,1
-7625855,21,dundonald st,NA,1
+7625855,21,dundonald st,,1
 7625856,2210,yonge st,Ring,1
-7625857,9,morrow ave,NA,1
-7625858,1,grenville st,NA,1
-7625859,1554,queen st w,NA,1
+7625857,9,morrow ave,,1
+7625858,1,grenville st,,1
+7625859,1554,queen st w,,1
 7625860,145,queens quay w,Ring,1
-7625861,61,hanna ave,NA,1
-7625862,194,wellesley st e,NA,1
-7625863,3,queen st e,NA,1
+7625861,61,hanna ave,,1
+7625862,194,wellesley st e,,1
+7625863,3,queen st e,,1
 7625864,550,eglinton ave w,Rack,1
-7625865,2458,bloor st w,NA,1
+7625865,2458,bloor st w,,1
 7625866,100,sorauren ave,Rack,1
-7625868,194,wellesley st e,NA,1
-7625869,145,queens quay w,NA,1
-7625870,131,dunn ave,NA,1
-7625871,302,eglinton ave w,NA,1
-7625872,382,bathurst st,NA,1
-7625873,3,chaplin cres,NA,1
-7625874,27,roncesvalles ave,NA,1
+7625868,194,wellesley st e,,1
+7625869,145,queens quay w,,1
+7625870,131,dunn ave,,1
+7625871,302,eglinton ave w,,1
+7625872,382,bathurst st,,1
+7625873,3,chaplin cres,,1
+7625874,27,roncesvalles ave,,1
 7625875,1802,eglinton ave w,Ring,1
-7625876,2178,bloor st w,NA,1
+7625876,2178,bloor st w,,1
 7625877,149,christie st,Ring,1
 7625878,149,christie st,Ring,1
 7625879,238,christie st,Ring,1
@@ -16389,8 +16390,8 @@
 7625991,759,dovercourt rd,Ring,1
 7625992,979,bloor st w,Ring,1
 7625993,953,ossington ave,Ring,1
-7625994,283,spadina ave,NA,1
-7625995,105,victoria st,NA,1
+7625994,283,spadina ave,,1
+7625995,105,victoria st,,1
 7625996,200,front st w,Ring,1
 7625997,200,front st w,Ring,1
 7625998,1079,weston rd,Ring,1
@@ -16431,195 +16432,195 @@
 7626033,132,jarvis st,Ring,1
 7626034,230,college st,Ring,1
 7626035,258,eglinton ave e,Ring,1
-7626036,585,queens quay w,NA,1
+7626036,585,queens quay w,,1
 7626037,31,brock ave,Rack,1
-7626038,1431,bathurst st,NA,1
-7626039,149,baldwin st,NA,1
-7626040,819,bathurst st,NA,1
-7626041,819,bathurst st,NA,1
-7626042,180,elizabeth st,NA,1
-7626043,237,queen st e,NA,1
-7626044,1775,eglinton ave w,NA,1
+7626038,1431,bathurst st,,1
+7626039,149,baldwin st,,1
+7626040,819,bathurst st,,1
+7626041,819,bathurst st,,1
+7626042,180,elizabeth st,,1
+7626043,237,queen st e,,1
+7626044,1775,eglinton ave w,,1
 7626045,759,mount pleasant rd,Ring,1
 7626046,1892,eglinton ave w,Ring,1
-7626047,720,mount pleasant rd,NA,1
-7626048,700,university ave,NA,1
+7626047,720,mount pleasant rd,,1
+7626048,700,university ave,,1
 7626049,794,mount pleasant rd,Ring,1
 7626051,2210,yonge st,Ring,1
-7626052,2704,danforth ave,NA,1
-7626053,145,queen st e,NA,1
-7626054,103,mc caul st,NA,1
+7626052,2704,danforth ave,,1
+7626053,145,queen st e,,1
+7626054,103,mc caul st,,1
 7626055,2419,yonge st,Ring,1
 7626056,14,temperance st,Ring,1
 7626057,1303,queen st w,Rack,1
 7626058,599,yonge st,Ring,1
 7626059,907,kingston rd,Ring,1
 7626060,3080,yonge st,Ring,1
-7626061,77,howard st,NA,1
-7626062,77,howard st,NA,1
-7626063,77,howard st,NA,1
-7626064,77,howard st,NA,1
-7626065,1497,queen st w,NA,1
-7626066,156,coxwell ave,NA,1
-7626067,165,augusta ave,NA,1
-7626068,21,dundonald st,NA,1
+7626061,77,howard st,,1
+7626062,77,howard st,,1
+7626063,77,howard st,,1
+7626064,77,howard st,,1
+7626065,1497,queen st w,,1
+7626066,156,coxwell ave,,1
+7626067,165,augusta ave,,1
+7626068,21,dundonald st,,1
 7626069,175,dundas st e,Ring,1
-7626070,149,baldwin st,NA,1
+7626070,149,baldwin st,,1
 7626071,20,queen st w,Ring,1
-7626072,819,bathurst st,NA,1
+7626072,819,bathurst st,,1
 7626073,286,eglinton ave w,Ring,1
-7626074,700,university ave,NA,1
+7626074,700,university ave,,1
 7626075,324,richmond st w,Ring,1
-7626076,700,university ave,NA,1
+7626076,700,university ave,,1
 7626077,245,eglinton ave e,Ring,1
 7626078,16,waller ave,Rack,1
-7626079,201,sherbourne st,NA,1
-7626080,438,dundas st e,NA,1
+7626079,201,sherbourne st,,1
+7626080,438,dundas st e,,1
 7626081,1794,eglinton ave w,Ring,1
 7626082,77,gerrard st w,Ring,1
-7626083,194,wellesley st e,NA,1
-7626084,106,king st e,NA,1
+7626083,194,wellesley st e,,1
+7626084,106,king st e,,1
 7626085,50,queen st w,Ring,1
 7626086,175,dundas st e,Ring,1
-7626087,136,napanee crt,NA,1
-7626088,4709,dundas st w,NA,1
+7626087,136,napanee crt,,1
+7626088,4709,dundas st w,,1
 7626089,620,university ave,Ring,1
-7626090,11,orde st,NA,1
-7626091,11,orde st,NA,1
+7626090,11,orde st,,1
+7626091,11,orde st,,1
 7626092,180,john st,Ring,1
-7626093,2,sussex ave,NA,1
-7626094,34,western battery rd,NA,1
-7626095,1229,queen st w,NA,1
-7626096,375,adelaide st w,NA,1
-7626097,3079,dundas st w,NA,1
+7626093,2,sussex ave,,1
+7626094,34,western battery rd,,1
+7626095,1229,queen st w,,1
+7626096,375,adelaide st w,,1
+7626097,3079,dundas st w,,1
 7626099,50,blue jays way,Ring,1
 7626100,641,eglinton ave w,Ring,1
 7626101,20,albert st,Ring,1
-7626102,54,hoskin ave,NA,1
+7626102,54,hoskin ave,,1
 7626103,604,king st w,Ring,1
 7626104,620,king st w,Ring,1
-7626105,720,mount pleasant rd,NA,1
+7626105,720,mount pleasant rd,,1
 7626106,2174,eglinton ave w,Ring,1
 7626107,87,avenue rd,Ring,1
-7626108,149,baldwin st,NA,1
+7626108,149,baldwin st,,1
 7626109,564,eglinton ave w,Ring,1
 7626110,650,king st w,Ring,1
-7626111,3,rees st,NA,1
+7626111,3,rees st,,1
 7626112,620,university ave,Ring,1
-7626113,11,orde st,NA,1
+7626113,11,orde st,,1
 7626114,620,king st w,Ring,1
 7626115,363,bremner blvd,Ring,1
 7626116,192,bloor st w,Ring,1
-7626117,1545,bloor st w,NA,1
+7626117,1545,bloor st w,,1
 7626118,1076,bay st,Ring,1
 7626119,1076,bay st,Ring,1
 7626120,1076,bay st,Ring,1
 7626121,1000,bay st,Ring,1
 7626122,1000,bay st,Ring,1
 7626123,1000,bay st,Ring,1
-7626124,4850,dundas st w,NA,1
+7626124,4850,dundas st w,,1
 7626125,15,dundonald st,Ring,1
-7626126,180,elizabeth st,NA,1
+7626126,180,elizabeth st,,1
 7626127,113,lansdowne ave,Rack,1
 7626128,149,hallam st,Ring,1
 7626129,438,university ave,Ring,1
-7626131,194,wellesley st e,NA,1
-7626132,30,western battery rd,NA,1
-7626133,100,baldwin st,NA,1
+7626131,194,wellesley st e,,1
+7626132,30,western battery rd,,1
+7626133,100,baldwin st,,1
 7626134,8,assiniboine rd,Rack,1
-7626135,3211,danforth ave,NA,1
-7626136,330,dupont st,NA,1
-7626137,33,walton st,NA,1
-7626138,722,dufferin st,NA,1
-7626139,573,yonge st,NA,1
+7626135,3211,danforth ave,,1
+7626136,330,dupont st,,1
+7626137,33,walton st,,1
+7626138,722,dufferin st,,1
+7626139,573,yonge st,,1
 7626140,2,st clair ave e,Ring,1
-7626141,219,fort york blvd,NA,1
-7626142,77,howard st,NA,1
-7626143,66,edward st,NA,1
+7626141,219,fort york blvd,,1
+7626142,77,howard st,,1
+7626143,66,edward st,,1
 7626144,87,avenue rd,Ring,1
-7626145,9,morrow ave,NA,1
+7626145,9,morrow ave,,1
 7626146,44,gerrard st e,Ring,1
-7626147,61,hanna ave,NA,1
-7626148,398,avenue rd,NA,1
+7626147,61,hanna ave,,1
+7626148,398,avenue rd,,1
 7626149,517,runnymede rd,Ring,1
-7626150,1851,danforth ave,NA,1
-7626151,163,queen st e,NA,1
+7626150,1851,danforth ave,,1
+7626151,163,queen st e,,1
 7626152,1881,eglinton ave w,Ring,1
-7626153,396,avenue rd,NA,1
+7626153,396,avenue rd,,1
 7626154,175,dundas st e,Ring,1
 7626155,149,college st,Ring,1
-7626156,102,atlantic ave,NA,1
-7626157,2992,bloor st w,NA,1
+7626156,102,atlantic ave,,1
+7626157,2992,bloor st w,,1
 7626159,46,wellesley st e,Ring,1
-7626160,563,crawford st,NA,1
+7626160,563,crawford st,,1
 7626161,191,eglinton ave e,Ring,1
-7626162,3,queen st e,NA,1
-7626163,145,queens quay w,NA,1
+7626162,3,queen st e,,1
+7626163,145,queens quay w,,1
 7626164,2803,dundas st w,Ring,1
-7626165,180,elizabeth st,NA,1
-7626166,1499,queen st w,NA,1
+7626165,180,elizabeth st,,1
+7626166,1499,queen st w,,1
 7626168,55,bloor st w,Ring,1
 7626170,230,college st,Ring,1
-7626171,504,vaughan rd,NA,1
-7626172,1505,gerrard st e,NA,1
+7626171,504,vaughan rd,,1
+7626172,1505,gerrard st e,,1
 7626173,480,st clair ave w,Ring,1
-7626174,720,mount pleasant rd,NA,1
-7626175,488,dupont st,NA,1
+7626174,720,mount pleasant rd,,1
+7626175,488,dupont st,,1
 7626176,155,college st,Ring,1
-7626177,77,cottingham st,NA,1
+7626177,77,cottingham st,,1
 7626178,1,eglinton ave e,Ring,1
-7626179,320,danforth ave,NA,1
-7626180,36,yonge st,NA,1
-7626181,1497,queen st w,NA,1
-7626182,1148,weston rd,NA,1
-7626183,47,claremont st,NA,1
+7626179,320,danforth ave,,1
+7626180,36,yonge st,,1
+7626181,1497,queen st w,,1
+7626182,1148,weston rd,,1
+7626183,47,claremont st,,1
 7626184,2202,dundas st w,Ring,1
 7626185,73,mc caul st,Ring,1
 7626186,50,queen st w,Ring,1
-7626187,145,king st e,NA,1
-7626188,125,bathurst st,NA,1
-7626189,1229,queen st w,NA,1
-7626190,2,sussex ave,NA,1
+7626187,145,king st e,,1
+7626188,125,bathurst st,,1
+7626189,1229,queen st w,,1
+7626190,2,sussex ave,,1
 7626191,641,eglinton ave w,Ring,1
 7626192,1859,eglinton ave w,Ring,1
-7626193,504,vaughan rd,NA,1
+7626193,504,vaughan rd,,1
 7626194,269,eglinton ave e,Ring,1
 7626196,480,st clair ave w,Ring,1
-7626197,585,king st w,NA,1
+7626197,585,king st w,,1
 7626198,1608,eglinton ave w,Ring,1
 7626199,3349,danforth ave,Ring,1
-7626200,34,church st,NA,1
-7626201,135,st clair ave w,NA,1
-7626202,711,mount pleasant rd,NA,1
+7626200,34,church st,,1
+7626201,135,st clair ave w,,1
+7626202,711,mount pleasant rd,,1
 7626203,763,woodbine ave,Ring,1
 7626204,794,mount pleasant rd,Ring,1
 7626205,2,assiniboine rd,Rack,1
-7626206,46,western battery rd,NA,1
+7626206,46,western battery rd,,1
 7626207,270,armadale ave,Rack,1
 7626208,935,queen st w,Rack,1
 7626209,2803,dundas st w,Ring,1
-7626210,27,roncesvalles ave,NA,1
-7626211,1497,queen st w,NA,1
+7626210,27,roncesvalles ave,,1
+7626211,1497,queen st w,,1
 7626213,2218,bloor st w,Rack,1
-7626214,140,the esplanade,NA,1
+7626214,140,the esplanade,,1
 7626215,2,assiniboine rd,Rack,1
 7626216,70,the pond rd,Rack,1
 7626217,334,donlands ave,Rack,1
 7626218,1801,eglinton ave w,Ring,1
-7626219,1464,queen st w,NA,1
+7626219,1464,queen st w,,1
 7626220,110,yonge st,Ring,1
-7626221,252,soudan ave,NA,1
-7626222,819,bathurst st,NA,1
+7626221,252,soudan ave,,1
+7626222,819,bathurst st,,1
 7626223,1,eglinton ave e,Ring,1
 7626224,70,the pond rd,Rack,1
 7626225,1850,eglinton ave w,Ring,1
 7626226,180,john st,Ring,1
 7626227,1656,queen st e,Rack,1
 7626228,55,bloor st w,Ring,1
-7626229,21,dundonald st,NA,1
-7626230,1974,weston rd,NA,1
-7626231,33,walton st,NA,1
-7626232,332,bloor st w,NA,1
+7626229,21,dundonald st,,1
+7626230,1974,weston rd,,1
+7626231,33,walton st,,1
+7626232,332,bloor st w,,1
 7626233,144,cumberland st,Ring,1
 7626234,144,cumberland st,Ring,1
 7626235,1087,yonge st,Ring,1
@@ -16668,11 +16669,11 @@
 7626279,115,geary ave,Ring,1
 7626280,1830,davenport rd,Ring,1
 7626281,3355,dundas st w,Ring,1
-7626282,373,eglinton ave w,NA,1
+7626282,373,eglinton ave w,,1
 7626283,3355,dundas st w,Ring,1
 7626284,1317,st clair ave w,Ring,1
 7626285,409,bloor st e,Ring,1
-7626286,819,bathurst st,NA,1
+7626286,819,bathurst st,,1
 7626287,650,king st w,Ring,1
 7626288,1617,dupont st,Ring,1
 7626289,2770,danforth ave,Ring,1
@@ -16700,20 +16701,20 @@
 7626311,1,yonge st,Ring,1
 7626312,907,kingston rd,Ring,1
 7626313,2830,danforth ave,Ring,1
-7626314,2007,dundas st w,NA,1
-7626315,398,avenue rd,NA,1
-7626316,125,bathurst st,NA,1
+7626314,2007,dundas st w,,1
+7626315,398,avenue rd,,1
+7626316,125,bathurst st,,1
 7626317,8,assiniboine rd,Rack,1
 7626318,803,mount pleasant rd,Ring,1
-7626319,341,oakwood ave,NA,1
+7626319,341,oakwood ave,,1
 7626320,6,church st,Ring,1
-7626321,230,queen st e,NA,1
+7626321,230,queen st e,,1
 7626322,1123,weston rd,Ring,1
 7626323,1123,weston rd,Ring,1
 7626324,1475,dupont st,Ring,1
 7626325,1475,dupont st,Ring,1
 7626326,392,bay st,Ring,1
-7626327,2,sussex ave,NA,1
+7626327,2,sussex ave,,1
 7626328,1433,kingston rd,Ring,1
 7626329,1774,queen st e,Ring,1
 7626330,1667,queen st e,Ring,1
@@ -16724,15 +16725,15 @@
 7626335,1286,st clair ave w,Ring,1
 7626336,1294,st clair ave w,Ring,1
 7626337,1285,st clair ave w,Ring,1
-7626338,40,kenmark blvd,NA,1
+7626338,40,kenmark blvd,,1
 7626339,31,brock ave,Rack,1
 7626340,110,yonge st,Ring,1
-7626341,36,yonge st,NA,1
-7626342,22,western battery rd,NA,1
+7626341,36,yonge st,,1
+7626342,22,western battery rd,,1
 7626343,759,mount pleasant rd,Ring,1
 7626344,589,markham st,Ring,1
 7626345,257,college st,Ring,1
-7626347,4850,dundas st w,NA,1
+7626347,4850,dundas st w,,1
 7626348,2210,yonge st,Ring,1
 7626349,328,adelaide st w,Ring,1
 7626350,1721,bayview ave,Ring,1
@@ -16743,20 +16744,20 @@
 7626355,97,eglinton ave e,Ring,1
 7626356,300,front st w,Ring,1
 7626357,300,front st w,Ring,1
-7626358,105,victoria st,NA,1
-7626359,10,broadway ave,NA,1
-7626360,3,rees st,NA,1
+7626358,105,victoria st,,1
+7626359,10,broadway ave,,1
+7626360,3,rees st,,1
 7626361,443,bloor st e,Ring,1
 7626362,1607,dupont st,Ring,1
-7626363,77,howard st,NA,1
+7626363,77,howard st,,1
 7626364,244,king st e,Ring,1
-7626366,38,western battery rd,NA,1
-7626367,193,queen st e,NA,1
+7626366,38,western battery rd,,1
+7626367,193,queen st e,,1
 7626368,262,bloor st w,Rack,1
-7626369,145,queens quay w,NA,1
-7626370,42,western battery rd,NA,1
-7626371,4709,dundas st w,NA,1
-7626372,2,macdonell ave,NA,1
+7626369,145,queens quay w,,1
+7626370,42,western battery rd,,1
+7626371,4709,dundas st w,,1
+7626372,2,macdonell ave,,1
 7626373,443,bloor st e,Ring,1
 7626374,555,mortimer ave,Ring,1
 7626375,111,jefferson ave,Ring,1
@@ -16773,7 +16774,7 @@
 7626386,1640,bloor st w,Ring,1
 7626387,1640,bloor st w,Ring,1
 7626388,100,burnhamthorpe rd,Ring,1
-7626389,819,bathurst st,NA,1
+7626389,819,bathurst st,,1
 7626390,924,st clair ave w,Ring,1
 7626391,924,st clair ave w,Ring,1
 7626392,924,st clair ave w,Ring,1
@@ -16817,7 +16818,7 @@
 7626430,318,oakwood ave,Ring,1
 7626431,318,oakwood ave,Ring,1
 7626432,2288,dundas st w,Rack,1
-7626433,1705,bloor st w,NA,1
+7626433,1705,bloor st w,,1
 7626434,320,main st,Ring,1
 7626435,360,gerrard st e,Ring,1
 7626436,2206,gerrard st e,Ring,1
@@ -16859,7 +16860,7 @@
 7626475,6,adelaide st e,Ring,1
 7626476,703,college st,Ring,1
 7626477,280,bay st,Ring,1
-7626478,2,sussex ave,NA,1
+7626478,2,sussex ave,,1
 7626479,200,church st,Ring,1
 7626480,2879,danforth ave,Ring,1
 7626481,1087,yonge st,Ring,1
@@ -16867,8 +16868,8 @@
 7626483,1087,yonge st,Ring,1
 7626484,345,wilson ave,Ring,1
 7626485,387,keele st,Ring,1
-7626486,250,dunn ave,NA,1
-7626487,2,macdonell ave,NA,1
+7626486,250,dunn ave,,1
+7626487,2,macdonell ave,,1
 7626488,117,peter st,Ring,1
 7626489,55,bloor st w,Ring,1
 7626490,3080,yonge st,Ring,1
@@ -16891,7 +16892,7 @@
 7626507,278,broadview ave,Ring,1
 7626508,278,broadview ave,Ring,1
 7626509,61,sherbourne st,Ring,1
-7626510,440,college st,NA,1
+7626510,440,college st,,1
 7626511,300,manitoba st,Ring,1
 7626512,66,sudbury st,Ring,1
 7626513,1333,st clair ave w,Ring,1
@@ -16917,15 +16918,15 @@
 7626533,736,dundas st e,Ring,1
 7626534,549,king st e,Ring,1
 7626535,118,sumach st,Ring,1
-7626536,284,dupont st,NA,1
-7626537,31,drummond st,NA,1
-7626538,219,fort york blvd,NA,1
-7626539,77,howard st,NA,1
-7626540,77,howard st,NA,1
+7626536,284,dupont st,,1
+7626537,31,drummond st,,1
+7626538,219,fort york blvd,,1
+7626539,77,howard st,,1
+7626540,77,howard st,,1
 7626541,803,dundas st w,Ring,1
 7626542,801,dundas st w,Ring,1
-7626543,1705,bloor st w,NA,1
-7626544,1974,weston rd,NA,1
+7626543,1705,bloor st w,,1
+7626544,1974,weston rd,,1
 7626545,620,king st w,Ring,1
 7626546,620,king st w,Ring,1
 7626547,51,mc caul st,Ring,1
@@ -16956,8 +16957,8 @@
 7626576,559,huron st,Ring,1
 7626577,1,toronto st,Ring,1
 7626578,9,hanna ave,Rack,1
-7626579,180,elizabeth st,NA,1
-7626581,243,queen st e,NA,1
+7626579,180,elizabeth st,,1
+7626581,243,queen st e,,1
 7626582,36,lisgar st,Ring,1
 7626583,36,lisgar st,Ring,1
 7626584,62,cumberland st,Ring,1
@@ -16973,17 +16974,17 @@
 7626594,380,macpherson ave,Ring,1
 7626595,380,macpherson ave,Ring,1
 7626596,1602,eglinton ave w,Ring,1
-7626597,64,queen st e,NA,1
+7626597,64,queen st e,,1
 7626598,164,the esplanade,Ring,1
 7626599,1818,eglinton ave w,Ring,1
-7626600,145,queens quay w,NA,1
+7626600,145,queens quay w,,1
 7626601,75,eglinton ave e,Ring,1
 7626602,75,eglinton ave e,Ring,1
 7626603,85,eglinton ave e,Ring,1
 7626604,300,front st w,Ring,1
-7626605,819,bathurst st,NA,1
+7626605,819,bathurst st,,1
 7626606,117,peter st,Ring,1
-7626607,55,isabella st,NA,1
+7626607,55,isabella st,,1
 7626608,87,jameson ave,Ring,1
 7626609,87,jameson ave,Ring,1
 7626610,3584,dufferin st,Ring,1
@@ -17000,9 +17001,9 @@
 7626621,523,wilson ave,Ring,1
 7626622,521,wilson ave,Ring,1
 7626623,200,church st,Ring,1
-7626624,3,queen st e,NA,1
+7626624,3,queen st e,,1
 7626625,599,yonge st,Ring,1
-7626626,542,college st,NA,1
+7626626,542,college st,,1
 7626627,2929,danforth ave,Ring,1
 7626628,25,hayden st,Ring,1
 7626629,480,st clair ave w,Ring,1
@@ -18005,7 +18006,7 @@
 7627675,1307,queen st e,Ring,1
 7627676,1051,queen st w,Ring,1
 7627677,56,dan leckie way,Ring,1
-7627678,11,orde st,NA,1
+7627678,11,orde st,,1
 7627679,460,king st w,Ring,1
 7627680,494,king st w,Ring,1
 7627681,177,wellington st w,Ring,1
@@ -18265,7 +18266,7 @@
 7627957,2872,danforth ave,Ring,1
 7627958,2872,danforth ave,Ring,1
 7627959,2,st clair ave e,Ring,1
-7627960,31,drummond st,NA,1
+7627960,31,drummond st,,1
 7627961,200,bloor st w,Art Stand,1
 7627962,200,bloor st w,Art Stand,1
 7627964,354,lansdowne ave,Ring,1
@@ -27395,15 +27396,15 @@
 7637819,21,dundas sq,Ring,1
 7637820,21,dundas sq,Ring,1
 7637821,250,victoria st,Ring,1
-7637822,2,london st,NA,1
+7637822,2,london st,,1
 7637823,7,king st e,Ring,1
-7637824,302,king st e,NA,1
-7637825,2013,eglinton ave w,NA,1
+7637824,302,king st e,,1
+7637825,2013,eglinton ave w,,1
 7637826,1,richmond st w,Ring,1
-7637827,1929,davenport rd,NA,1
+7637827,1929,davenport rd,,1
 7637828,257,jarvis st,Ring,1
 7637829,278,eglinton ave w,Ring,1
-7637830,4325,steeles ave e,NA,1
+7637830,4325,steeles ave e,,1
 7637831,111,crawford st,Ring,1
 7637832,2339,dundas st w,Ring,1
 7637833,606,sherbourne st,Ring,1
@@ -27427,7 +27428,7 @@
 7637853,7,coxwell ave,Ring,1
 7637854,484,dundas st w,Ring,1
 7637855,247,king st e,Ring,1
-7637856,465,dundas st e,NA,1
+7637856,465,dundas st e,,1
 7637857,322,king st w,Ring,1
 7637858,1868,queen st e,Ring,1
 7637859,690,bay st,Ring,1
@@ -27481,9 +27482,9 @@
 7637907,29,kenilworth ave,Ring,1
 7637908,384,keele st,Ring,1
 7637909,382,keele st,Ring,1
-7637910,250,dunn ave,NA,1
-7637911,518,danforth ave,NA,1
-7637912,465,dundas st e,NA,1
+7637910,250,dunn ave,,1
+7637911,518,danforth ave,,1
+7637912,465,dundas st e,,1
 7637913,1590,queen st w,Ring,1
 7637915,668,annette st,Ring,1
 7637916,759,gladstone ave,Ring,1
@@ -27519,9 +27520,9 @@
 7637948,854,king st w,Ring,1
 7637949,390,bloor st w,Ring,1
 7637950,554,queen st e,Ring,1
-7637951,33,walton st,NA,1
+7637951,33,walton st,,1
 7637952,328,richmond st w,Ring,1
-7637953,38,church st,NA,1
+7637953,38,church st,,1
 7637954,2830,danforth ave,Ring,1
 7637955,45,mill st,Ring,1
 7637956,912,yonge st,Ring,1
@@ -27538,7 +27539,7 @@
 7637968,3200,danforth ave,Ring,1
 7637969,31,princess st,Ring,1
 7637970,512,queen st w,Ring,1
-7637971,145,queens quay w,NA,1
+7637971,145,queens quay w,,1
 7637972,1671,queen st e,Rack,1
 7637973,8,assiniboine rd,Rack,1
 7637974,68,shuter st,Ring,1
@@ -27637,7 +27638,7 @@
 7638073,917,bay st,Ring,1
 7638074,86,walnut ave,Ring,1
 7638075,86,walnut ave,Ring,1
-7638076,700,university ave,NA,1
+7638076,700,university ave,,1
 7638077,1130,queen st e,Ring,1
 7638078,807,dundas st w,Ring,1
 7638079,366,adelaide st w,Ring,1
@@ -27667,7 +27668,7 @@
 7638103,782,broadview ave,Ring,1
 7638104,1,toronto st,Ring,1
 7638105,87,avenue rd,Ring,1
-7638106,2178,bloor st w,NA,1
+7638106,2178,bloor st w,,1
 7638107,655,bay st,Ring,1
 7638108,955,royal york rd,Ring,1
 7638109,2378,lake shore blvd w,Ring,1
@@ -27813,7 +27814,7 @@
 7638258,427,bloor st w,Ring,1
 7638259,427,bloor st w,Ring,1
 7638261,427,bloor st w,Ring,1
-7638262,147,baldwin st,NA,1
+7638262,147,baldwin st,,1
 7638263,1001,eglinton ave w,Ring,1
 7638265,1007,eglinton ave w,Ring,1
 7638266,1128,eglinton ave w,Ring,1
@@ -27847,20 +27848,20 @@
 7638294,421,spadina ave,Ring,1
 7638295,1002,college st,Ring,1
 7638296,65,shuter st,Ring,1
-7638297,194,wellesley st e,NA,1
-7638298,535,queen st w,NA,1
+7638297,194,wellesley st e,,1
+7638298,535,queen st w,,1
 7638299,14,temperance st,Ring,1
 7638300,1801,eglinton ave w,Ring,1
 7638301,438,university ave,Ring,1
-7638302,3252,dundas st w,NA,1
-7638303,125,bathurst st,NA,1
-7638304,31,drummond st,NA,1
+7638302,3252,dundas st w,,1
+7638303,125,bathurst st,,1
+7638304,31,drummond st,,1
 7638306,149,hallam st,Ring,1
 7638307,70,the pond rd,Rack,1
 7638308,794,mount pleasant rd,Ring,1
-7638310,2,sussex ave,NA,1
+7638310,2,sussex ave,,1
 7638311,1774,queen st e,Ring,1
-7638312,620,vaughan rd,NA,1
+7638312,620,vaughan rd,,1
 7638313,55,bloor st w,Ring,1
 7638314,555,mortimer ave,Ring,1
 7638315,2465,dundas st w,Ring,1
@@ -27870,42 +27871,42 @@
 7638319,2563,danforth ave,Ring,1
 7638320,269,eglinton ave e,Ring,1
 7638321,1944,davenport rd,Ring,1
-7638322,145,queens quay w,NA,1
+7638322,145,queens quay w,,1
 7638323,525,dundas st e,Ring,1
 7638324,2,church st,Ring,1
-7638325,125,bathurst st,NA,1
-7638326,61,hanna ave,NA,1
-7638327,2854,dundas st w,NA,1
-7638328,504,vaughan rd,NA,1
+7638325,125,bathurst st,,1
+7638326,61,hanna ave,,1
+7638327,2854,dundas st w,,1
+7638328,504,vaughan rd,,1
 7638329,56,blue jays way,Ring,1
-7638330,1497,queen st w,NA,1
-7638331,125,bathurst st,NA,1
+7638330,1497,queen st w,,1
+7638331,125,bathurst st,,1
 7638332,602,runnymede rd,Rack,1
-7638333,250,dunn ave,NA,1
+7638333,250,dunn ave,,1
 7638334,175,dundas st e,Ring,1
-7638335,396,avenue rd,NA,1
-7638336,113,lansdowne ave,NA,1
+7638335,396,avenue rd,,1
+7638336,113,lansdowne ave,,1
 7638337,46,hayden st,Ring,1
-7638338,125,bathurst st,NA,1
-7638339,80,cottingham st,NA,1
+7638338,125,bathurst st,,1
+7638339,80,cottingham st,,1
 7638340,178,st george st,Ring,1
 7638341,111,geary ave,Ring,1
-7638342,61,hanna ave,NA,1
+7638342,61,hanna ave,,1
 7638343,1984,bloor st w,Ring,1
 7638344,1652,keele st,Ring,1
 7638345,749,dovercourt rd,Ring,1
 7638346,70,gloucester st,Ring,1
 7638347,115,geary ave,Ring,1
 7638348,1123,weston rd,Ring,1
-7638349,135,st clair ave w,NA,1
-7638350,163,queen st e,NA,1
-7638351,657,dupont st,NA,1
-7638352,520,parliament st,NA,1
+7638349,135,st clair ave w,,1
+7638350,163,queen st e,,1
+7638351,657,dupont st,,1
+7638352,520,parliament st,,1
 7638353,1075,queen st e,Ring,1
 7638354,142,bathurst st,Ring,1
 7638355,1862,eglinton ave w,Ring,1
-7638356,3381,lake shore blvd w,NA,1
-7638357,1229,queen st w,NA,1
+7638356,3381,lake shore blvd w,,1
+7638357,1229,queen st w,,1
 7638358,15,keele st,Rack,1
 7638359,34,avenue rd,Ring,1
 7638360,181,bedford rd,Ring,1
@@ -27927,7 +27928,7 @@
 7638376,1000,bay st,Ring,1
 7638377,950,bloor st w,Ring,1
 7638378,725,dovercourt rd,Ring,1
-7638379,66,edward st,NA,1
+7638379,66,edward st,,1
 7638380,51,mc caul st,Ring,1
 7638381,500,university ave,Ring,1
 7638383,165,york st,Ring,1
@@ -27989,7 +27990,7 @@
 7638441,40,york st,Ring,1
 7638442,3016,danforth ave,Ring,1
 7638443,1763,danforth ave,Ring,1
-7638444,11,orde st,NA,1
+7638444,11,orde st,,1
 7638445,200,bloor st w,Art Stand,1
 7638447,63,wellesley st e,Ring,1
 7638448,707,dundas st w,Ring,1
@@ -29030,7 +29031,7 @@
 7639560,1625,dupont st,Ring,1
 7639561,18,dyas rd,Ring,1
 7639562,4759,yonge st,Ring,1
-7639563,796,mount pleasant rd,NA,1
+7639563,796,mount pleasant rd,,1
 7639564,832,bay st,Ring,1
 7639565,1130,dupont st,Ring,1
 7639566,655,bay st,Ring,1
@@ -29141,10 +29142,10 @@
 7639676,300,victoria st,Rack,1
 7639677,238,queens quay w,Ring,1
 7639678,1151,queen st w,Ring,1
-7639679,1246,bloor st w,NA,1
+7639679,1246,bloor st w,,1
 7639680,55,gateway blvd,Ring,1
 7639681,160,adelaide st w,Ring,1
-7639682,518,danforth ave,NA,1
+7639682,518,danforth ave,,1
 7639683,316,bloor st w,Ring,1
 7639684,94,ossington ave,Ring,1
 7639685,1544,dundas st w,Ring,1
@@ -29152,16 +29153,16 @@
 7639687,1215,bay st,Ring,1
 7639688,2481,bloor st w,Ring,1
 7639689,108,gladstone ave,Ring,1
-7639690,76,lombard st,NA,1
-7639691,21,dundonald st,NA,1
+7639690,76,lombard st,,1
+7639691,21,dundonald st,,1
 7639692,99,ottawa rd,Rack,1
-7639693,700,university ave,NA,1
-7639694,355,eglinton ave e,NA,1
-7639695,518,danforth ave,NA,1
+7639693,700,university ave,,1
+7639694,355,eglinton ave e,,1
+7639695,518,danforth ave,,1
 7639696,831,bay st,Ring,1
 7639697,1,queens quay w,Ring,1
 7639698,725,dovercourt rd,Ring,1
-7639699,163,queen st e,NA,1
+7639699,163,queen st e,,1
 7639700,2,jackes ave,Ring,1
 7639701,168,bathurst st,Rack,1
 7639702,37,mill st,Ring,1
@@ -29203,7 +29204,7 @@
 7639739,39,queen's park cres e,Ring,1
 7639741,104,crawford st,Ring,1
 7639742,1024,queen st e,Ring,1
-7639743,250,dunn ave,NA,1
+7639743,250,dunn ave,,1
 7639745,1500,avenue rd,Ring,1
 7639746,73,west lynn ave,Ring,1
 7639747,116,spadina ave,Ring,1
@@ -29302,10 +29303,10 @@
 7639845,650,church st,Ring,1
 7639846,4,emerson ave,Ring,1
 7639847,106,dundas st e,Ring,1
-7639848,76,lombard st,NA,1
+7639848,76,lombard st,,1
 7639849,126,mutual st,Ring,1
-7639850,77,river st,NA,1
-7639851,180,elizabeth st,NA,1
+7639850,77,river st,,1
+7639851,180,elizabeth st,,1
 7639852,1475,dupont st,Ring,1
 7639853,235,spadina ave,Ring,1
 7639854,1099,queen st e,Ring,1
@@ -29438,7 +29439,7 @@
 7639992,866,dundas st w,Ring,1
 7639993,1529,bayview ave,Ring,1
 7639994,55,bloor st w,Ring,1
-7639995,80,cottingham st,NA,1
+7639995,80,cottingham st,,1
 7639996,76,elm st,Ring,1
 7639997,200,college st,Ring,1
 7639998,1021,kingston rd,Ring,1
@@ -29526,7 +29527,7 @@
 7640085,125,george st,Ring,1
 7640086,33,phoebe st,Ring,1
 7640087,126,simcoe st,Ring,1
-7640088,209,adelaide st e,NA,1
+7640088,209,adelaide st e,,1
 7640089,55,james st,Ring,1
 7640090,35,mariner ter,Ring,1
 7640091,3016,danforth ave,Ring,1
@@ -29626,7 +29627,7 @@
 7640188,40,dundas st w,Ring,1
 7640190,491,bay st,Ring,1
 7640191,259,victoria st,Ring,1
-7640192,365,eglinton ave e,NA,1
+7640192,365,eglinton ave e,,1
 7640193,535,st clair ave w,Ring,1
 7640196,1502,dupont st,Ring,1
 7640197,603,davenport rd,Ring,1
@@ -29764,7 +29765,7 @@
 7640341,1382,gerrard st e,Ring,1
 7640342,49,woodington ave,Ring,1
 7640343,2581,eglinton ave w,Ring,1
-7640344,1345,queen st w,NA,1
+7640344,1345,queen st w,,1
 7640345,74,the esplanade,Ring,1
 7640346,392,bay st,Ring,1
 7640347,595,bay st,Ring,1
@@ -29803,7 +29804,7 @@
 7640381,404,queen st e,Ring,1
 7640382,128,simcoe st,Ring,1
 7640383,767,bay st,Ring,1
-7640384,165,augusta ave,NA,1
+7640384,165,augusta ave,,1
 7640385,5,market st,Ring,1
 7640386,888,bloor st w,Ring,1
 7640387,515,adelaide st e,Ring,1
@@ -30006,8 +30007,8 @@
 7640606,5111,yonge st,Ring,1
 7640607,130,carlton st,Ring,1
 7640608,22,wellesley st w,Ring,1
-7640609,77,howard st,NA,1
-7640610,464,yonge st,NA,1
+7640609,77,howard st,,1
+7640610,464,yonge st,,1
 7640611,1091,queen st w,Ring,1
 7640612,623,bloor st w,Ring,1
 7640613,90,shuter st,Ring,1
@@ -30195,7 +30196,7 @@
 7640813,537,queen st w,Ring,1
 7640814,295,college st,Ring,1
 7640815,407,keele st,Ring,1
-7640816,1495,queen st w,NA,1
+7640816,1495,queen st w,,1
 7640817,1554,danforth ave,Ring,1
 7640818,260,richmond st w,Ring,1
 7640819,140,st george st,Ring,1
@@ -30217,7 +30218,7 @@
 7640839,263,queens quay e,Ring,1
 7640840,87,osler st,Ring,1
 7640841,29,yorkville ave,Ring,1
-7640842,819,bathurst st,NA,1
+7640842,819,bathurst st,,1
 7640843,1722,queen st w,Ring,1
 7640844,539,parliament st,Ring,1
 7640845,606,danforth ave,Ring,1
@@ -30261,7 +30262,7 @@
 7640887,1622,eglinton ave w,Ring,1
 7640888,229,queen st e,Ring,1
 7640889,26,wellington st e,Ring,1
-7640890,180,elizabeth st,NA,1
+7640890,180,elizabeth st,,1
 7640891,261,richmond st w,Ring,1
 7640892,24,baldwin st,Ring,1
 7640893,1930,weston rd,Ring,1
@@ -30275,7 +30276,7 @@
 7640901,190,elizabeth st,Ring,1
 7640902,2337,dundas st w,Ring,1
 7640903,1877,gerrard st e,Ring,1
-7640904,77,howard st,NA,1
+7640904,77,howard st,,1
 7640905,207,eastern ave,Ring,1
 7640906,600,bay st,Ring,1
 7640907,35,britain st,Ring,1
@@ -30293,28 +30294,28 @@
 7640921,40,mc caul st,Ring,1
 7640922,925,queen st w,Ring,1
 7640923,500,university ave,Ring,1
-7640924,113,lansdowne ave,NA,1
+7640924,113,lansdowne ave,,1
 7640925,2,st clair ave e,Ring,1
 7640926,705,king st w,Ring,1
 7640927,132,john st,Ring,1
 7640928,159,yonge st,Ring,1
 7640929,230,college st,Ring,1
 7640930,278,broadview ave,Ring,1
-7640931,77,cottingham st,NA,1
+7640931,77,cottingham st,,1
 7640932,419,dovercourt rd,Rack,1
-7640933,585,king st w,NA,1
-7640934,2,sussex ave,NA,1
-7640935,100,lombard st,NA,1
-7640937,25,eleventh st,NA,1
+7640933,585,king st w,,1
+7640934,2,sussex ave,,1
+7640935,100,lombard st,,1
+7640937,25,eleventh st,,1
 7640938,19,grand trunk cres,Ring,1
 7640939,167,evelyn ave,Ring,1
 7640940,2879,danforth ave,Ring,1
-7640941,78,dewson st,NA,1
+7640941,78,dewson st,,1
 7640942,1032,st clair ave w,Ring,1
 7640943,396,st clair ave w,Ring,1
 7640944,231,fort york blvd,Ring,1
-7640945,3304,danforth ave,NA,1
-7640946,700,kingston rd,NA,1
+7640945,3304,danforth ave,,1
+7640946,700,kingston rd,,1
 7640947,144,cumberland st,Ring,1
 7640948,32,lisgar st,Ring,1
 7640950,231,fort york blvd,Ring,1
@@ -30325,7 +30326,7 @@
 7640955,2575,danforth ave,Ring,1
 7640956,411,spadina ave,Ring,1
 7640957,1660,bloor st w,Ring,1
-7640958,25,eleventh st,NA,1
+7640958,25,eleventh st,,1
 7640959,484,king st e,Ring,1
 7640960,131,the esplanade,Ring,1
 7640961,5140,yonge st,Ring,1
@@ -30770,7 +30771,7 @@
 7641436,149,college st,Ring,1
 7641437,125,queens quay e,Ring,1
 7641438,277,borden st,Rack,1
-7641439,145,queens quay w,NA,1
+7641439,145,queens quay w,,1
 7641440,2178,bloor st w,Ring,1
 7641443,469,college st,Ring,1
 7641444,14,temperance st,Ring,1
@@ -30813,7 +30814,7 @@
 7641484,2358,danforth ave,Ring,1
 7641485,35,bellevue ave,Ring,1
 7641486,931,college st,Ring,1
-7641487,464,yonge st,NA,1
+7641487,464,yonge st,,1
 7641488,55,bloor st w,Ring,1
 7641489,585,college st,Ring,1
 7641490,517,clendenan ave,Ring,1
@@ -30908,7 +30909,7 @@
 7641588,125,lower jarvis st,Ring,1
 7641589,427,bloor st w,Ring,1
 7641590,171,front st w,Ring,1
-7641591,78,dewson st,NA,1
+7641591,78,dewson st,,1
 7641592,3402,yonge st,Rack,1
 7641593,1,eglinton ave e,Ring,1
 7641594,319,oakwood ave,Ring,1
@@ -31050,7 +31051,7 @@
 7641740,231,fort york blvd,Ring,1
 7641741,38,the esplanade,Ring,1
 7641742,1413,bloor st w,Ring,1
-7641743,242,queen st e,NA,1
+7641743,242,queen st e,,1
 7641744,1540,bloor st w,Ring,1
 7641745,2783,danforth ave,Ring,1
 7641746,144,cumberland st,Ring,1
@@ -31098,10 +31099,10 @@
 7641792,101,college st,Ring,1
 7641793,239,college st,Ring,1
 7641794,460,manning ave,Ring,1
-7641795,165,king st e,NA,1
+7641795,165,king st e,,1
 7641796,392,bay st,Ring,1
 7641797,1437,kingston rd,Ring,1
-7641798,20,lombard st,NA,1
+7641798,20,lombard st,,1
 7641799,83,gould st,Ring,1
 7641800,60,mill st,Ring,1
 7641801,77,lombard st,Ring,1
@@ -31276,7 +31277,7 @@
 7641980,320,huron st,Ring,1
 7641981,6,st clair ave e,Ring,1
 7641982,1668,st clair ave w,Ring,1
-7641983,648,spadina ave,NA,1
+7641983,648,spadina ave,,1
 7641984,1075,queen st e,Ring,1
 7641985,117,peter st,Ring,1
 7641986,354,davenport rd,Ring,1
@@ -31284,9 +31285,9 @@
 7641988,144,front st w,Ring,1
 7641989,891,bloor st w,Ring,1
 7641990,580,king st w,Ring,1
-7641991,135,st clair ave w,NA,1
-7641992,180,elizabeth st,NA,1
-7641993,61,hanna ave,NA,1
+7641991,135,st clair ave w,,1
+7641992,180,elizabeth st,,1
+7641993,61,hanna ave,,1
 7641994,100,richmond st w,Ring,1
 7641995,3055,bloor st w,Ring,1
 7641996,209,wellington st w,Ring,1
@@ -31807,7 +31808,7 @@
 7642554,53,mc caul st,Ring,1
 7642555,1507,yonge st,Ring,1
 7642557,86,sudbury st,Ring,1
-7642558,61,hanna ave,NA,1
+7642558,61,hanna ave,,1
 7642559,1351,dufferin st,Ring,1
 7642560,469,front st e,Ring,1
 7642561,430,front st e,Ring,1

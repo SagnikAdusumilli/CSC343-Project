@@ -39,7 +39,7 @@ bike_shop<- bike_shop %>%
   rename(stName = LINEAR_NAME_FULL) %>%
   rename(stNumber = ADDRESS_NUMBER) %>%
   rename(hasRental = RENTAL) 
-bike_shop %>% write_csv("bike_shop.csv", col_names = FALSE)
+bike_shop %>% write_csv("bike_shop.csv")
 ```
 
 ```{r}
@@ -47,19 +47,20 @@ red_light <- read.csv('red ligh camera.csv')
 ```
 
 ```{r}
-red_light <- red_light %>% select( LINEAR_NAME_FULL_1, LINEAR_NAME_FULL_2, INTERSECTION_ID)
+#red_light <- red_light %>% select( id, st.first, st.second)
 #red_light
 red_light <- red_light %>% 
   mutate(LINEAR_NAME_FULL_1 = tolower(LINEAR_NAME_FULL_1), LINEAR_NAME_FULL_2 = tolower(LINEAR_NAME_FULL_2)) %>%
   rename(st.first = LINEAR_NAME_FULL_1) %>%
-   rename(st.second = LINEAR_NAME_FULL_2)# %>%
+   rename(st.second = LINEAR_NAME_FULL_2) %>%
   rename(id = INTERSECTION_ID) %>%
-   mutate(id = as.integer(id)) %%
-  # mutate(st.first = na_if(st.first, "")) %>%
-  # mutate(st.second = na_if(st.second, "")) %>%
-  # na.omit()
-red_light  
-red_light %>% write_csv('red lights camera.csv', col_names = FALSE)
+   mutate(id = as.integer(id)) %>%
+  mutate(st.first = na_if(st.first, "")) %>%
+  mutate(st.second = na_if(st.second, ""))%>%
+  filter(!is.na(st.second)) %>%
+  filter(!is.na(st.first))
+red_light <- red_light %>% select(id, st.first, st.second)
+red_light %>% write_csv('red lights camera.csv')
 #red_light
 ```
 
@@ -107,8 +108,7 @@ parking_pr <- parking_pr %>%
   rename(stNumber = ADDRESSNUMBERTEXT) %>%
   rename(id = X_id) %>%
   rename(type = ASSETTYPE) %>%
-  rename(stName = ADDRESSSTREET) %>%
-  mutate(type = na_if(type,""))
+  rename(stName = ADDRESSSTREET)
 parking_pr$capacity <- 1
 #parking_pr %>% write.csv("parking_pr.csv")
 unique(parking_pr$type)
@@ -140,8 +140,7 @@ parking3 <- parking3 %>%
   rename(stNumber = ADDRESSNUMBERTEXT) %>%
   rename(id = X_id) %>%
   rename(type = ASSETTYPE) %>%
-  rename(stName = ADDRESSSTREET)%>%
-  mutate(type = na_if(type,""))
+  rename(stName = ADDRESSSTREET)
 unique(parking3$type)
 parking3$capacity <- 1
 #parking3 %>% write.csv("parking racks.csv")
@@ -155,6 +154,6 @@ unique(parking_all$type)
 ```
 
 ```{r}
-parking_all %>% write_csv("parking.csv", col_names = FALSE)
+parking_all %>% write_csv("parking.csv", na = "")
 ```
 
