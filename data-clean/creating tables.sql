@@ -31,4 +31,4 @@ CREATE TABLE redLightCamera(
 
 \COPY parkingSpots FROM 'parking.csv' with csv
 
-\COPY redLightCamera= FROM 'red lights camera.csv' with csv
+\COPY redLightCamera FROM 'red lights camera.csv' with csv
