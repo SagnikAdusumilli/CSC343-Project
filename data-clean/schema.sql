@@ -10,13 +10,25 @@ CHECK (VALUE IN ('Bike Rack', 'Angled Bike Rack', 'Bike Corral',
 'Bike Shelter', 'Rack', 'Ring', 'Art Stand', 'Other', 'Shelter'));
 
 --information about streets in toronto
+DROP TABLE IF EXISTS streets CASCADE;
+CREATE TABLE streets (
+	stName TEXT not null,
+	trafficCountAvg FLOAT not null,
+	trafficlighcount INTEGER not null,
+	bikeStationCount INTEGER not null,
+	subwayStationCount INTEGER not null,
+	bikeShopCount INTEGER not null,
+	--check bikeStationCount <= (select count(*) from bikeStation),
+	--check subwayStationCount <= (select count(*) from subwayStations),
+	--check bikeShopCount <= (select count(*) from bikeshops)
+	PRIMARY KEY(stNAME))
 
 --intersections with redlight cameras	
 DROP TABLE IF EXISTS intersection CASCADE;	
 CREATE TABLE intersection(
  stName1 TEXT not null references Streets(stName),
  stName2 TEXT not null references Streets(stName),
- trafficCountAvg INTEGER not null
+ trafficCountAvg INTEGER not null,
  PRIMARY KEY(stName1, stName2));
 
 -- information about bikeshops in toronto
@@ -56,19 +68,6 @@ CREATE TABLE ParkingSpots(
 	spotType spottype not null,
 	capacity INTEGER not null,
 	PRIMARY KEY (ID));
-	
-DROP TABLE IF EXISTS streets CASCADE;
-CREATE TABLE streets (
-	stName TEXT not null,
-	trafficCountAvg FLOAT not null,
-	trafficlighcount INTEGER not null,
-	bikeStationCount INTEGER not null,
-	subwayStationCount INTEGER not null,
-	bikeShopCount INTEGER not null,
-	check bikeStationCount <= (select count(*) from bikeStation),
-	check subwayStationCount <= (select count(*) from subwayStations),
-	check bikeShopCount <= (select count(*) from bikeshops)
-	PRIMARY KEY(stNAME))
 	
 	
 
