@@ -58,7 +58,7 @@ station_data_clean <-
   station_data_clean %>%
   mutate(street1 = tolower(street1), street2 = tolower(street2))
 #save csv
-readr::write.csv(station_data_clean, "bike_share_clean.csv")
+readr::write_csv(station_data_clean, "bike_share_clean.csv")
 
 
 

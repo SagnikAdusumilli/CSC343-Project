@@ -1,7 +1,4 @@
-street,count
- glenhaven st,128.625
-1630 lawrence ave w,570.84375
-55m e of olympia dr,570.84375
+street,avg_volume
 adelaide st,1448
 alton ave,276.84375
 amberley dr,52.8125
@@ -216,6 +213,7 @@ gladstone ave,372.5625
 glen rush blvd,475.8125
 glenborough park cres e,507.40625
 glengrove ave,105.15625
+glenhaven st,128.625
 glenhurst ave,258.375
 glenlake ave,421.53125
 glenmount ave,61.625
@@ -238,7 +236,7 @@ heath st w,679.0625
 helendale ave,149.53125
 high park ave,134.6875
 highview ave,198.75
-highway 401 s tcs,793.09375
+highway  s tcs,793.09375
 hillingdon ave,52.6875
 hillmount ave,61.625
 hillsdale ave,112.1875
@@ -290,7 +288,7 @@ laurelcrest ave,30.15625
 lavinia ave,98.28125
 lawrence ave,19706.59375
 lawrence ave e,1160.125
-lawrence ave w,2869.625
+lawrence ave w,3440.46875
 ledbury st,500.375
 lee ave,407.09375
 legion rd,332.40625
@@ -306,6 +304,7 @@ lower sherbourne st,231.6875
 lower simcoe st,265.03125
 lumbervale ave,10.71875
 lumsden ave,190.75
+m e of olympia dr,570.84375
 macpherson ave,40.78125
 madison ave,40.78125
 main st,1294.4375
@@ -456,7 +455,7 @@ shaw st,413
 sheppard ave,5018.75
 sheppard ave e,479.75
 sherbourne st,1041.375
-shoppers drug mart 47m north of chelsea ave,391.90625
+shoppers drug mart m north of chelsea ave,391.90625
 shuter st,1112.71875
 sibley ave,340.25
 silkwood cres,47.03125

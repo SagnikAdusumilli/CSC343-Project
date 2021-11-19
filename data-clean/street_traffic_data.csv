@@ -1,0 +1,610 @@
+street,avg_volume,lightCount
+adelaide st,1448,5
+alton ave,276.84375,1
+amberley dr,52.8125,1
+amoro dr,110,1
+amsterdam ave,288.0625,2
+ancona st,374.875,1
+anderson ave,118.0625,1
+annette st,1251.78125,3
+antler st,28.84375,1
+applefield dr s,339.34375,1
+archer rd,29.3125,1
+arlington ave,282.4375,1
+arrow rd,266.09375,1
+ashdale ave,75.5625,1
+ashtonbee rd,273.875,1
+atlas ave,73.34375,1
+augusta ave,39.53125,1
+austin ter,200.78125,1
+ava rd,163.1875,1
+avenue rd,3933.5,5
+bartlett ave n,122.8125,1
+bathurst st,4099.09375,5
+bathurst st,4099.09375,1
+bay st,2903.09375,4
+bayview ave,1069.75,4
+beechborough ave,128.625,1
+beecroft rd,229.5625,1
+bellamy rd n,403.90625,1
+bellechasse st,22.46875,1
+belsize dr,330.21875,1
+benbow rd w,18.75,1
+benshire dr,22.46875,1
+benton rd,655.03125,1
+berekely st,333.28125,1
+berkeley st,1172.5625,1
+berkeley st,1172.5625,4
+berkeley st and hahn pl,149.75,1
+bernadine st,26.0625,1
+berwick ave,120.71875,1
+beta st,330.1875,1
+beverley st,900.3125,3
+birchcliff ave,348.25,1
+birchmount rd,2184.3125,4
+birmingham st,278.75,1
+black creek dr,1888.03125,2
+blackwell ave,124.4375,1
+blantyre ave,101,2
+bloor st,5074.09375,12
+bloor st e,2075.625,3
+bloor st w,7315.125,15
+bloor st w,7315.125,1
+blossomfield dr,486.84375,1
+bond ave,414.34375,1
+bond st,309.1875,1
+booth ave,405.8125,1
+boulton ave,231.3125,1
+bradley ave,312.21875,1
+bremner blvd,1035.53125,2
+briar hill ave,23.4375,1
+bridlewood blvd,33.96875,1
+brimley rd,4164.4375,8
+brimley rd and st andrews rd,339.34375,1
+brimwood blvd,264.8125,2
+bristol ave,109.71875,1
+britannia ave,419.09375,1
+broadview ave,2878.71875,7
+broadway ave,444.75,1
+brock ave,316.65625,1
+brock ave e,298.78125,1
+brock ave w,328.28125,1
+brookhaven dr,343.59375,1
+brookside ave,41.21875,1
+brownlow ave,311.3125,2
+browside ave,29.3125,1
+burbank dr,77.0625,1
+burnview cres,562.21875,1
+burrard rd,83.8125,1
+calvington dr,580.375,1
+cameron ave,42.84375,1
+camilla cres,298.59375,1
+carlaw ave,69.28125,1
+carlton st,733.96875,1
+carroll st,219.59375,1
+castle frank rd,686.75,1
+castle view ave,204.5,1
+cataraqui cres,215.34375,1
+cecil st,263.3125,1
+cedar dr,289.46875,1
+cedarvale ave,9.3125,1
+chandler dr,12.75,1
+chaplin cres,907.21875,1
+chapman ave,244.28125,1
+charles st,508.28125,1
+charles st e,365.375,1
+chatham ave,24.21875,1
+cheritan ave,146.375,1
+cherry st,439.625,2
+chillery ave,310.65625,1
+church st,2970.15625,4
+church st,2970.15625,3
+citation dr,77.0625,1
+civic centre crt,166.6875,1
+clairton cres s,340.28125,1
+clanton park rd,101.59375,1
+cleveland st,236.65625,2
+cliffwood rd n,291.25,1
+clyde ave,357.25,1
+colbeck st,318.8125,1
+colborne lodge dr,442.4375,1
+college st,2715.46875,3
+college st,2715.46875,2
+columbia gt,68.78125,1
+comstock rd,460.25,1
+concord ave,297.84375,1
+conway ave,262.8125,1
+coolhurst dr,23.0625,1
+coral gable dr,432.78125,1
+cornell ave and goldwin ave,431.46875,1
+corona st,505,1
+cosburn ave,537.34375,2
+courcelette rd,37.78125,1
+cowan ave,281.125,1
+coxwell ave,1000.34375,2
+crescent rd,400,1
+culford rd,706.0625,1
+cummer ave,145.40625,1
+d arcy st,214.65625,1
+dan leckie way,1042.75,2
+dane ave,555.1875,1
+danforth ave,7710.40625,2
+danforth ave,7710.40625,14
+danforth rd,1472.3125,2
+danforth rd,1472.3125,1
+davenport rd,295.1875,1
+davisville ave,568.71875,1
+dawes rd,650.71875,2
+de grassi st,217.53125,1
+deerfield rd,316.53125,1
+deerhide cres (north int),266.09375,1
+delaware ave,306.96875,1
+delaware ave n,55.46875,1
+delburn dr,55.09375,1
+delsing dr,121.15625,1
+dewhurst blvd n,22.875,1
+dixon rd,975.625,1
+doerr rd,26.0625,1
+dohme ave,21.40625,1
+don mills rd,683.3125,1
+don rdwy,379.3125,1
+don valley parkway n ramp,257.78125,1
+donlands ave,1039.46875,1
+dorval rd,315.1875,1
+dovehouse ave,68.9375,1
+dovercourt rd,808.84375,1
+dufferin st,6896.75,9
+dufferin st,6896.75,3
+dufflaw rd,455.3125,1
+duncairn road,99.4375,1
+dundas st,4923.90625,14
+dundas st,4923.90625,1
+dundas st e,2977.3125,8
+dundas st e,2977.3125,3
+dundas st w,2643.0625,2
+dundas st w,2643.0625,3
+duplex ave,1518.0625,3
+duplex ave,1518.0625,6
+dupont st,1596.875,2
+dupont st,1596.875,1
+durant ave,55.71875,1
+durie st,80.96875,1
+duval dr,641.46875,1
+earlington ave,38.09375,1
+east ave,102.9375,1
+eastern ave,1862.0625,5
+eastern ave,1862.0625,1
+eastern ave diversion,700.53125,2
+edge park ave,37.875,1
+edwin ave,360.53125,1
+eglinton ave,3901.40625,5
+eglinton ave,3901.40625,4
+eglinton ave e,1194.625,1
+eglinton ave e / go station,403.90625,1
+elizabeth st,515.46875,1
+ellesmere rd,223.40625,1
+ellis park rd,337.96875,1
+emerson ave,316,1
+englemount ave,577.25,1
+erindale ave,348.53125,1
+erskine ave,516.34375,2
+euclid ave,65.84375,1
+evans ave,1113.40625,1
+evermede dr,29.53125,1
+fairford ave,75.5625,1
+fallingbrook dr,76.71875,1
+fallingbrook rd,76.71875,1
+fawcett trl and hupfield trl,100.375,1
+faywood blvd,588.375,1
+faywood blvd,588.375,2
+felstead ave,46.40625,1
+fernwood gnds,171.40625,1
+finch ave e,758.21875,1
+finch ave w,1997.5625,1
+finch ave w,1997.5625,4
+first st,231.1875,1
+fleming dr,145.40625,1
+florence ave,41,1
+floyd ave,27.125,1
+forbes ave,417.0625,1
+fort york blvd,315.96875,1
+four winds dr,68.78125,1
+frankdale ave,37.65625,1
+franklin ave,52.15625,1
+frederick st,495.25,1
+freeman st,91.53125,1
+front st,2178.0625,4
+front st,2178.0625,2
+front st e,1603.9375,3
+fulton ave,69.28125,1
+galloway rd,583.75,1
+gardens cres,28.03125,1
+gardiner expy ramp,555.5,1
+gardiner expy w/b off-ramp,245.125,1
+geary ave,1494.4375,5
+george henry blvd,47.6875,1
+george st,633.1875,1
+george st,633.1875,2
+george st s,203.875,1
+gerrard st,2211.375,6
+gerrard st e,1227.375,1
+gerrard st e,1227.375,2
+gladstone ave,372.5625,1
+glen rush blvd,475.8125,1
+glenborough park cres e,507.40625,1
+glengrove ave,105.15625,1
+glenhaven st,128.625,1
+glenhurst ave,258.375,1
+glenlake ave,421.53125,1
+glenmount ave,61.625,1
+godstone rd,83.15625,1
+gormley ave,14.90625,1
+government rd,38.09375,1
+grace st,313.625,1
+grantbrook st,417.75,1
+graystone gnds and springbrook gnds,513.6875,1
+greenwood ave,628.65625,1
+groveland cres w,31.90625,1
+hadrian dr,83.8125,1
+hamilton st,206.9375,1
+hanna rd,263.5625,1
+hanson st,52.6875,1
+harris park dr,37.875,1
+havenbrook blvd,32.25,1
+heath st e,123.6875,1
+heath st w,679.0625,2
+helendale ave,149.53125,1
+high park ave,134.6875,1
+highview ave,198.75,1
+highway  s tcs,793.09375,1
+hillingdon ave,52.6875,1
+hillmount ave,61.625,1
+hillsdale ave,112.1875,1
+holland park ave,52.625,1
+hoskin ave,312.78125,1
+hounslow heath rd,351.3125,1
+howard park ave,871.34375,2
+howard park rd,384.09375,1
+howard st,394.625,1
+humber college blvd,147.96875,1
+humberline dr,147.96875,1
+humberside ave,525,1
+huntingwood dr,2914.5625,2
+huntingwood dr,2914.5625,4
+huntley st,483.90625,1
+indian grove,17.15625,1
+indian valley cr,470.5,1
+indian valley cres,17.15625,1
+irving rd,261.71875,1
+isabella st,340.3125,1
+islington ave,1396.40625,1
+islington ave,1396.40625,2
+jane st,1062.5,3
+janet blvd,530,1
+janray dr s,12.75,1
+jarvis st,423.53125,1
+joanith dr,9.90625,1
+john st,292.75,1
+jones ave,431.34375,1
+keele st,5126.3125,6
+keele st,5126.3125,3
+keewatin ave,786.625,1
+kendleton dr,262.40625,1
+kennedy park rd,421.1875,1
+kennedy rd,852,1
+king georges dr,288.5625,1
+king st,1173.15625,1
+king st,1173.15625,3
+king st e,192.375,1
+king st w,281.125,1
+kingslake rd,83.15625,1
+kingston rd,5840.125,3
+kingston rd,5840.125,7
+kipling ave,1117.5,1
+knighton dr,60.65625,1
+lake shore blvd,4172.3125,5
+lake shore blvd,4172.3125,3
+lake shore blvd w,383.9375,1
+lambeth rd,467.9375,1
+lankin blvd,53.71875,1
+lansdowne ave,560.4375,1
+lascelles blvd,14.90625,1
+laurel ave,336.15625,1
+laurelcrest ave,30.15625,1
+lavinia ave,98.28125,1
+lawrence ave,19706.59375,16
+lawrence ave,19706.59375,14
+lawrence ave e,1160.125,1
+lawrence ave e,1160.125,3
+lawrence ave w,3440.46875,3
+ledbury st,500.375,1
+lee ave,407.09375,1
+legion rd,332.40625,1
+leslie st,2053.0625,2
+leslie st,2053.0625,3
+lightbourn ave,27.9375,1
+linsmore cr,48.15625,1
+linus rd,45.6875,1
+lismore rd,65.90625,1
+logan ave,1585.40625,4
+long branch ave,383.9375,1
+lower jarvis st,1037.25,2
+lower sherbourne st,231.6875,1
+lower simcoe st,265.03125,1
+lumbervale ave,10.71875,1
+lumsden ave,190.75,1
+m e of olympia dr,570.84375,1
+macpherson ave,40.78125,1
+madison ave,40.78125,1
+main st,1294.4375,3
+malvern st,90.1875,1
+mammoth hall trl,122.625,1
+manderley dr,326.5,1
+maniza rd,27.65625,1
+manning ave,356.15625,1
+margueretta st e,322.84375,1
+market garden mews,603.96875,1
+market st,974,1
+market st,974,2
+markham rd,1286.0625,2
+marlee ave,690.90625,1
+martin grove rd,975.625,1
+mayfield ave,153.78125,1
+mccowan rd,2440.15625,2
+mcgee st,392.28125,1
+mclevin ave,165.53125,1
+mcmurray ave,25.875,1
+mcnicoll ave,1119.875,1
+meadowacres dr,19.375,1
+meadowglade cres,22.1875,1
+meadowvale rd,338.15625,1
+merrill ave e,248.71875,1
+merton st,386.46875,1
+middlefield rd,583.34375,1
+midland ave,1774.90625,2
+military tr,300.71875,1
+military trl e,223.40625,1
+mill st,776.125,2
+milliken blvd,412.71875,1
+monarch park ave,81.78125,1
+montgomery ave,173.25,1
+montrose ave,338.34375,1
+morningside ave,830.3125,1
+morrish rd,65.84375,1
+morse st,338.5,1
+mortimer ave,496.71875,1
+mount pleasant rd,3195.46875,4
+mount pleasant rd,3195.46875,3
+mount pleasant rd e,395.875,1
+mount pleasant rd w,469.9375,1
+mulberry cres,35.75,1
+munro st,222.4375,1
+musgrave st,434.0625,1
+neilson rd,300.71875,1
+newgate rd,23.4375,1
+north queen st,534,1
+north york blvd,229.5625,1
+norwood rd,298.4375,1
+nymark ave,48.65625,1
+o connor dr,598.15625,1
+oak park ave,95.28125,1
+oakmount rd,365.375,1
+oakridge dr,121.78125,1
+oakwood ave,732.9375,1
+oakwood ave,732.9375,2
+oconnor dr,638.6875,1
+old forest hill rd,65.90625,1
+ontario st,1005.65625,2
+ontario st,1005.65625,3
+orchard view blvd,203.0625,1
+oriole pkwy,413.4375,1
+ossington ave,819.1875,2
+overbrook pl,190.53125,1
+overlea blvd,487.03125,1
+pape ave,621.96875,1
+parfield dr,23.40625,1
+parkland rd,55.34375,1
+parkside dr,981.46875,2
+parkview gnds,302.6875,1
+parliament st,3913.96875,7
+parliament st,3913.96875,3
+paulson rd,253.71875,1
+peel ave,278.6875,1
+pembroke st,216.3125,1
+pharmacy ave,1733.53125,4
+pharmacy ave,1733.53125,1
+phin ave,24.21875,1
+pimlico rd,504.78125,1
+pine st,392.46875,1
+plains rd,53.71875,1
+port union rd,231.46875,1
+princes st,182.625,1
+princess st,402.625,1
+progress ave,148.1875,1
+provost dr,136.53125,1
+quebec ave,242.25,1
+queen st,1605.375,3
+queen st,1605.375,4
+queen st ,605.53125,1
+queen st e,847.78125,2
+queen st w,1855.65625,2
+queen st w,1855.65625,1
+queens park cr e,426.28125,1
+queens park cres w,312.78125,1
+radine rd,107.15625,3
+ralph st ,422.875,1
+rathburn rd,141.375,1
+redcliff blvd,23.0625,1
+redpath ave,701.09375,1
+redpath ave,701.09375,2
+reeve ave,144.25,1
+regent park blvd,205.34375,1
+regent st,241.9375,1
+reiner rd,113.21875,1
+richmond st,706.1875,2
+richmond st e,333.28125,1
+ritchie ave,296.21875,1
+river st,1573.4375,1
+river st,1573.4375,4
+river st ramp,282.125,1
+robert st,418.4375,1
+roehampton ave,384.625,1
+rogers rd,1098.46875,2
+rogers rd,1098.46875,1
+roncesvalles ave,776.75,2
+rosebank dr,148.1875,1
+rosedale valley rd,556.875,1
+rosehill ave,359.75,1
+roselawn ave,155.59375,1
+rosemount ave,613.5625,2
+rosewell ave,411.0625,1
+rosseau rd,30.15625,1
+rotary dr,146.78125,1
+roxborough st e,333.25,1
+roxborough st w,353.1875,1
+royal dr,431.75,1
+royal york ct and royal york rd,467.9375,1
+royal york rd,266.28125,1
+roywood dr,29.53125,1
+runnymede rd,1374.40625,2
+runnymede rd,1374.40625,1
+ruscica dr,107.9375,1
+russell st,273.34375,1
+rustic rd,610.875,1
+ryding ave,334.59375,1
+rylander blvd,519.1875,1
+sackville st,362.9375,1
+salem ave,307.125,1
+salem ave n,97.03125,1
+sammon ave,690.9375,2
+sammon ave,690.9375,7
+sandhurst cir,80.75,1
+sandhurst cir w,209.71875,1
+saranac blvd,553.375,1
+saskatoon dr,18.75,1
+scarborough golf club rd,1236.84375,2
+scarlett rd,988.59375,2
+scott rd,366.125,1
+scott st,628.25,1
+scott st,628.25,2
+scrivener sq,356.0625,1
+selwyn ave,36.8125,1
+seneca hill dr,45.6875,1
+sewells rd,265.90625,2
+sharpecroft blvd,68.9375,1
+shaughnessy blvd,700.96875,2
+shaughnessy blvd,700.96875,5
+shaver ave,377.59375,1
+shaw st,413,1
+sheppard ave,5018.75,4
+sheppard ave,5018.75,2
+sheppard ave e,479.75,1
+sherbourne st,1041.375,2
+shoppers drug mart m north of chelsea ave,391.90625,1
+shuter st,1112.71875,1
+shuter st,1112.71875,6
+sibley ave,340.25,1
+silkwood cres,47.03125,1
+silverthorn ave,315.28125,1
+silverthorn ave / st clair ave,351.3125,1
+singer crt,136.53125,1
+sloane ave,107.9375,1
+somerset ave,51.65625,1
+sorauren ave,457.78125,1
+soudan ave,921.59375,4
+south station st,357.21875,1
+spadina ave,326.96875,1
+spadina ave and fort york blvd,770.5,1
+spadina rd,700.46875,3
+spalding rd,27.65625,1
+spenvalley dr,86.09375,1
+st clair ave,4250.46875,3
+st clair ave,4250.46875,4
+st clair ave e,393.375,1
+st clair ave w,1129.3125,2
+st george st,273.34375,1
+st georges rd,48.125,1
+st helens ave,10.71875,1
+st johns rd,122.1875,2
+steeles ave,2062.8125,2
+steeles ave,2062.8125,1
+strachan ave,210.71875,1
+sumach st,864.96875,4
+summer dr,203.25,1
+sunburst sq,32.4375,1
+sunrise ave,330.40625,1
+symington ave,884.96875,2
+tapscott rd,124.4375,1
+tedder st,24.25,1
+terraview blvd,52.8125,1
+the donway north,392.0625,1
+the donway w,99.4375,1
+the east mall,534,1
+the esplanade,2798.21875,7
+the esplanade,2798.21875,3
+the queensway,803.6875,1
+the west mall,166.6875,1
+the westway,152.09375,1
+the wynd,141.375,1
+thermos rd,273.875,1
+thirty-seventh st,433.875,1
+thorncliffe park dr w,487.03125,1
+three valleys dr,31.90625,1
+thurodale ave,24.25,1
+thyra ave,448.5,1
+torrington dr,87.0625,1
+townsend rd,634.625,1
+trehorne dr,152.09375,1
+trethewey dr,542.28125,2
+trinity st,424.25,3
+tubman ave,193.21875,1
+tweedsmuir ave,519.96875,2
+university ave,2154.03125,3
+upton rd,341.21875,1
+varna dr,601.25,1
+vaughan rd,282.4375,1
+victoria park ave,2971.28125,5
+vine ave,25.875,1
+w r allen rd,1287.6875,1
+wales ave,39.53125,1
+wallace ave,401.375,1
+warden ave,3703.125,1
+warden ave,3703.125,7
+welland ave,123.6875,1
+wellesley st,488.59375,1
+wellesley st w,1055.3125,2
+wellesworth dr,87.0625,1
+wellington st,711.59375,1
+westhumber blvd,231.15625,2
+westmoreland ave n,95.5625,1
+weston rd,1384.9375,3
+westona st,209.5,1
+westview blvd,116.46875,5
+whitburn cres,580.8125,1
+white heather blvd,80.75,1
+wicklow dr e,33.96875,1
+wicksteed ave,144,1
+widdicombe hill blvd,334.28125,1
+william r allen rd n,658.9375,1
+william r allen rd s,641.59375,1
+wilmington ave,625.65625,2
+wilson ave,2797.21875,4
+wilson heights blvd,633.65625,1
+wilton st,699.125,2
+wimbleton rd,48.125,1
+windermere ave,1377.5,3
+windsor ave,83.4375,2
+winnett ave,89.84375,1
+winona dr,436.4375,3
+woodbine ave,1623.75,4
+woodfield rd,566.375,3
+woodfield rd.,286.40625,1
+woodlawn ave,370.3125,1
+woodycrest ave,33.84375,1
+wyndcliff cres,60.65625,1
+yatescastle dr,86.09375,1
+yonge st,8642.09375,16
+yonge st,8642.09375,3
+york st,555.5,1
+yorkview dr,266.28125,1
+yorkville ave,217.5625,1
