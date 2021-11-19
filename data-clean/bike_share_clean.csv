@@ -1,608 +1,608 @@
-"","station_id","checkin_total","checkout_total","street1","street2","at_ttc"
-"1","7000",356,362,"Fort York  Blvd","Capreol Ct",FALSE
-"2","7001",295,229,"Lower Jarvis St","The Esplanade",FALSE
-"3","7002",270,293,"St. George St","Bloor St W",FALSE
-"4","7003",183,187,"Madison Ave","Bloor St W",FALSE
-"5","7004",260,239,"University Ave","Elm St",FALSE
-"6","7005",174,160,"King St W","York St",FALSE
-"7","7006",615,603,"Bay St","College St (East Side)",FALSE
-"8","7007",375,400,"College St","Huron St",FALSE
-"9","7008",97,100,"Wellesley St","Queen's Park Cres",FALSE
-"10","7009",381,294,"King St E","Jarvis St",FALSE
-"11","7010",100,100,"King St W","Spadina Ave",FALSE
-"12","7011",270,272,"Wellington St W","Portland St",FALSE
-"13","7012",344,324,"Elizabeth St","Edward St (Bus Terminal)",FALSE
-"14","7013",286,263,"Scott St","The Esplanade",FALSE
-"15","7014",434,450,"Sherbourne St","Carlton St (Allan Gardens)",FALSE
-"16","7015",145,137,"King St W","Bay St (West Side)",FALSE
-"17","7016",395,345,"Bay St","Queens Quay W (Ferry Terminal)",FALSE
-"18","7017",474,469,"Widmer St","Adelaide St W",FALSE
-"19","7018",102,122,"Bremner Blvd","Rees St",FALSE
-"20","7019",145,125,"Temperance St. Station","",TRUE
-"21","7020",263,265,"Phoebe St","Spadina Ave",FALSE
-"22","7021",168,164,"Bay St","Albert St",FALSE
-"23","7022",458,457,"Simcoe St","Queen St W",FALSE
-"24","7023",208,237,"College St","Borden St",FALSE
-"25","7024",181,222,"Dundonald St","Church St",FALSE
-"26","7025",239,309,"Ted Rogers Way","Bloor St E",FALSE
-"27","7026",232,249,"Bay St","St. Joseph St",FALSE
-"28","7027",506,460,"Beverley  St","Dundas St W",FALSE
-"29","7028",465,392,"Gould St","Mutual St",FALSE
-"30","7029",230,221,"Bay St","Bloor St W (East Side)",FALSE
-"31","7030",386,447,"Bay St","Wellesley St W",FALSE
-"32","7031",175,260,"Jarvis St","Isabella St",FALSE
-"33","7032",151,167,"Augusta Ave","Dundas St W",FALSE
-"34","7033",423,400,"Union Station","",TRUE
-"35","7034",245,265,"Church St","Bloor St E",FALSE
-"36","7035",242,232,"Queen St W","Ossington Ave",FALSE
-"37","7036",99,102,"Trinity St /Front St E","",FALSE
-"38","7037",613,584,"Bathurst St","Dundas St W",FALSE
-"39","7038",374,334,"Dundas St W","Yonge St",FALSE
-"40","7039",145,150,"Simcoe St","Michael Sweet Ave - SMART",FALSE
-"41","7040",233,262,"Euclid Ave","Bloor St W",FALSE
-"42","7041",255,261,"Edward St","Yonge St",FALSE
-"43","7042",397,526,"Sherbourne St","Wellesley St E",FALSE
-"44","7043",355,295,"Queens Quay W","Lower Simcoe St",FALSE
-"45","7044",331,399,"Church St","Alexander St",FALSE
-"46","7045",487,412,"Bond St","Queen St E",FALSE
-"47","7046",378,370,"Niagara St","Richmond St W",FALSE
-"48","7047",542,437,"University Ave","Gerrard St W (East Side)",FALSE
-"49","7048",126,150,"Front St W","Yonge St (Hockey Hall of Fame)",FALSE
-"50","7049",652,585,"Queen St W","Portland St",FALSE
-"51","7050",70,99,"Richmond St E","Jarvis St Green P",FALSE
-"52","7051",288,294,"Wellesley St E","Yonge St (Green P)",FALSE
-"53","7052",207,194,"Wellington St W","Bay St",FALSE
-"54","7053",127,130,"Metro Hall Plaza","",FALSE
-"55","7054",324,329,"Navy Wharf Ct.","Bremner Blvd.",FALSE
-"56","7055",296,292,"Jarvis St","Carlton St",FALSE
-"57","7056",177,182,"Parliament St","Gerrard St",FALSE
-"58","7057",117,86,"Simcoe St","Wellington St South",FALSE
-"59","7058",90,84,"Huron/ Harbord St","",FALSE
-"60","7059",262,299,"Front St W","Blue Jays Way",FALSE
-"61","7060",534,482,"Princess St","Adelaide St E",FALSE
-"62","7061",195,231,"Dalton Rd","Bloor St W",FALSE
-"63","7062",202,227,"University Ave","College St (West)",FALSE
-"64","7063",144,155,"Queen's Park","Bloor St W",FALSE
-"65","7064",122,121,"51 Parliament St","",FALSE
-"66","7065",350,334,"Dundas St E","Parliament St",FALSE
-"67","7066",170,218,"Willcocks St","St. George St",FALSE
-"68","7067",172,142,"Yonge St","Harbour St",FALSE
-"69","7068",13,19,"Dockside Dr","Queens Quay E (Sugar Beach)",FALSE
-"70","7069",262,247,"Queen St W","Spadina Ave",FALSE
-"71","7070",138,90,"25 York St – Union Station South","",TRUE
-"72","7071",61,128,"161 Bleecker St (South of Wellesley)","",FALSE
-"73","7072",406,368,"Fleet St","Bathurst St",FALSE
-"74","7073",319,295,"Spadina Ave","Fort York Blvd",FALSE
-"75","7074",148,104,"King St E","Church St",FALSE
-"76","7075",207,212,"Queens Quay W","Dan Leckie Way",FALSE
-"77","7076",509,486,"York St","Queens Quay W",FALSE
-"78","7077",194,212,"College Park South","",FALSE
-"79","7078",500,488,"College St","Major St",FALSE
-"80","7079",423,447,"McGill St","Church St",FALSE
-"81","7083",60,55,"Danforth Ave","Barrington Ave",FALSE
-"82","7084",26,31,"High Park - Grenadier Cafe","",FALSE
-"83","7085",51,39,"Danforth Ave","Westlake Ave",FALSE
-"84","7086",49,68,"High Park - West Rd","",FALSE
-"85","7087",87,89,"Danforth Ave","Aldridge Ave",FALSE
-"86","7088",95,98,"Danforth Ave","Coxwell Ave",FALSE
-"87","7089",599,611,"Church St ","Wood St",FALSE
-"88","7090",53,64,"Danforth Ave","Lamb Ave",FALSE
-"89","7091",55,58,"Donlands Station","",TRUE
-"90","7092",66,67,"Pape Subway Green P","",FALSE
-"91","7093",79,96,"Danforth Ave","Gough Ave",FALSE
-"92","7094",56,56,"Chester Station (Green P)","",TRUE
-"93","7095",174,182,"Danforth Ave","Ellerbeck St",FALSE
-"94","7096",127,96,"Boston Ave","Queen St E",FALSE
-"95","7097",104,99,"Riverdale Park North (Broadview Ave)","",FALSE
-"96","7098",170,161,"Riverdale Park South (Broadview Ave)","",FALSE
-"97","7099",186,146,"Cherry St","Mill St",FALSE
-"98","7100",488,452,"Dundas St E","Regent Park Blvd",FALSE
-"99","7101",197,155,"Lower Sherbourne St","The Esplanade",FALSE
-"100","7102",320,300,"Nelson St","Duncan St",FALSE
-"101","7103",216,197,"Jimmie Simpson Park (Queen St E)","",FALSE
-"102","7104",344,302,"King St E","River St",FALSE
-"103","7105",111,80,"Queen St E","Sackville St",FALSE
-"104","7106",54,40,"Mill St","Tannery Rd",FALSE
-"105","7107",59,48,"Cherry St","Distillery Ln",FALSE
-"106","7108",126,121,"Front St E","Cherry St",FALSE
-"107","7109",153,166,"Seaton St","Dundas St E - SMART",FALSE
-"108","7110",202,197,"Queen St E","Berkeley St",FALSE
-"109","7111",280,273,"King St W","Douro St",FALSE
-"110","7112",33,30,"Liberty St","Fraser Ave Green P",FALSE
-"111","7113",273,279,"Parliament St","Aberdeen Ave",FALSE
-"112","7114",323,343,"Carlton St","Parliament St",FALSE
-"113","7115",189,231,"Howard St","Sherbourne St",FALSE
-"114","7116",57,67,"Parliament St","Bloor St E",FALSE
-"115","7117",63,74,"Castle Frank Station","",TRUE
-"116","7118",124,109,"King St W","Bay St (East Side)",FALSE
-"117","7119",210,225,"Sumach St","Carlton St. (Riverdale Farm)",FALSE
-"118","7120",163,154,"Gerrard St E","River St",FALSE
-"119","7121",577,573,"Jarvis St","Dundas St E",FALSE
-"120","7122",61,46,"Niagara St","Tecumseth St",FALSE
-"121","7123",64,63,"424 Wellington St W - SMART","",FALSE
-"122","7124",222,197,"Dundas St E","Broadview Ave",FALSE
-"123","7126",258,254,"Yonge St","Yorkville Ave",FALSE
-"124","7127",102,118,"Bay St","Davenport Rd",FALSE
-"125","7128",50,57,"Yonge St","Aylmer Ave",FALSE
-"126","7129",156,162,"Davenport Rd","Avenue Rd",FALSE
-"127","7130",127,157,"Davenport Rd","Bedford Rd",FALSE
-"128","7131",195,207,"Taddle Creek Park","",FALSE
-"129","7132",57,68,"Kendal Ave","Spadina Rd",FALSE
-"130","7133",82,80,"Summerhill Station","",TRUE
-"131","7134",82,100,"Marlborough Ave","Yonge St",FALSE
-"132","7135",137,134,"Hanna Ave","Liberty St",FALSE
-"133","7136",126,114,"Queen St W","Close Ave",FALSE
-"134","7137",36,32,"Davenport Rd","Bathurst St",FALSE
-"135","7138",75,65,"Davenport Rd","Christie St",FALSE
-"136","7139",66,59,"Glen Edyth Dr","Davenport Rd",FALSE
-"137","7140",137,139,"Macpherson Ave","Spadina Rd",FALSE
-"138","7141",78,106,"Bridgeman Ave","Kendal Ave - SMART",FALSE
-"139","7142",56,51,"Bridgeman Ave","Bathurst St",FALSE
-"140","7143",94,99,"Kendal Ave","Bernard Ave",FALSE
-"141","7144",98,105,"Palmerston Ave","Vermont Ave",FALSE
-"142","7146",69,109,"Christie St","Benson Ave (Wychwood Barns)",FALSE
-"143","7147",55,46,"King St W","Fraser Ave",FALSE
-"144","7148",231,215,"King St W","Joe Shuster Way",FALSE
-"145","7149",139,139,"Yarmouth Rd","Christie St",FALSE
-"146","7150",150,139,"Dufferin St","Sylvan Av (Dufferin Grove Park)",FALSE
-"147","7151",98,124,"Essex St","Christie St - SMART",FALSE
-"148","7152",98,105,"Ossington Ave","Bloor St W",FALSE
-"149","7153",222,227,"Bloor St W","Christie St",FALSE
-"150","7154",157,170,"Bathurst Subway Station","",TRUE
-"151","7155",107,108,"Bathurst St","Lennox St",FALSE
-"152","7156",111,127,"Salem Ave","Bloor St W",FALSE
-"153","7157",48,60,"Dufferin St","Bloor St",FALSE
-"154","7158",162,149,"King St W","Stafford St",FALSE
-"155","7160",308,295,"King St W","Tecumseth St",FALSE
-"156","7161",101,99,"Beverley St","College St",FALSE
-"157","7162",285,253,"Hayter St","Laplante Ave",FALSE
-"158","7163",415,437,"Yonge St","Wood St",FALSE
-"159","7164",366,361,"Gould St","Yonge St (Ryerson University)",FALSE
-"160","7167",158,143,"Queen St E","George St (Moss Park)",FALSE
-"161","7168",433,401,"Queens Quay","Yonge St",FALSE
-"162","7169",91,102,"Front St W","Bay St (North Side)",FALSE
-"163","7170",52,83,"Spadina Ave","Willcocks St",FALSE
-"164","7171",344,345,"Ontario Place Blvd","Lake Shore Blvd W (East)",FALSE
-"165","7172",81,95,"Strachan Ave","Princes' Blvd",FALSE
-"166","7173",77,99,"Cariboo St","Rail Path",FALSE
-"167","7174",124,108,"Bloor St W","Dundas St W",FALSE
-"168","7175",323,311,"HTO Park (Queens Quay W)","",FALSE
-"169","7176",280,286,"Bathurst St","Fort York Blvd",FALSE
-"170","7177",337,330,"East Liberty St","Pirandello St",FALSE
-"171","7178",103,99,"Dundas St W","Edna Ave",FALSE
-"172","7179",79,82,"Bloor GO","UP Station (West Toronto Railpath)",TRUE
-"173","7180",70,83,"Lansdowne Subway Station","",TRUE
-"174","7181",40,57,"Lansdowne Ave","Whytock Ave",FALSE
-"175","7182",90,94,"Sterling Rd","Dundas St W",FALSE
-"176","7183",161,160,"St Clarens Ave","College St",FALSE
-"177","7184",124,122,"Ossington Ave","College St",FALSE
-"178","7188",85,96,"Exhibition GO (Atlantic Ave)","",FALSE
-"179","7189",210,193,"Augusta Ave","Denison Sq",FALSE
-"180","7190",95,104,"St. George St","Hoskin Ave",FALSE
-"181","7191",154,161,"Central Tech  (Harbord St)","",FALSE
-"182","7192",111,129,"Harbord St","Clinton St",FALSE
-"183","7193",250,213,"Queen St W","Gladstone Ave",FALSE
-"184","7194",75,87,"Mortimer Ave","Coxwell Ave",FALSE
-"185","7195",179,206,"Ulster St","Bathurst St",FALSE
-"186","7196",65,84,"Roxton Rd","Harbord St",FALSE
-"187","7197",132,131,"Queen St W","Dovercourt Rd",FALSE
-"188","7198",128,119,"Queen St W","Cowan Ave",FALSE
-"189","7199",440,419,"College St","Markham St",FALSE
-"190","7202",171,150,"Queen St W","York St (City Hall)",FALSE
-"191","7203",362,339,"Bathurst St/Queens Quay(Billy Bishop Airport)","",FALSE
-"192","7204",290,272,"College St","Crawford St",FALSE
-"193","7205",140,131,"Rusholme Park Cres","College St",FALSE
-"194","7206",167,162,"Claremont St","Dundas St W",FALSE
-"195","7207",341,335,"Dundas St W","Crawford St",FALSE
-"196","7208",132,143,"80 Clinton St (North of College) - SMART","",FALSE
-"197","7209",94,77,"Ossington Ave","Harrison St",FALSE
-"198","7210",52,36,"Mary McCormick Rec Centre (Sheridan Ave)","",FALSE
-"199","7211",319,290,"Fort York Blvd","Garrison Rd",FALSE
-"200","7216",157,152,"Wellington St W","Stafford St",FALSE
-"201","7217",304,298,"Soho St","Queen St W",FALSE
-"202","7220",120,114,"Lake Shore Blvd W","Ellis Ave",FALSE
-"203","7221",24,34,"High Park Subway Station","",TRUE
-"204","7222",158,143,"Sunnyside - Gus Ryder Pool","",FALSE
-"205","7223",61,28,"Parkside Dr","Bloor St W - SMART",FALSE
-"206","7224",52,61,"Bloor St W","High Park Ave (High Park)",FALSE
-"207","7225",66,65,"Lake Shore Blvd W","Windermere Ave",FALSE
-"208","7226",156,176,"Lake Shore Blvd W","The Boulevard Club",FALSE
-"209","7227",158,150,"Martin Goodman Trail (Marilyn Bell Park)","",FALSE
-"210","7228",165,138,"Queen St W","Roncesvalles Ave",FALSE
-"211","7229",23,38,"Dundas St W","Roncesvalles Green P - SMART",FALSE
-"212","7230",111,110,"Garden Ave","Roncesvalles Ave",FALSE
-"213","7231",57,65,"Wright","Sorauren (Sorauren Park) - SMART",FALSE
-"214","7232",95,71,"Queen St W "," Fuller Ave - SMART",FALSE
-"215","7233",87,89,"King","Cowan Ave - SMART",FALSE
-"216","7234",56,61,"Roncesvalles Ave","Marmaduke St",FALSE
-"217","7235",286,305,"Bay St","College St (West Side) - SMART",FALSE
-"218","7236",222,200,"Thompson St","Broadview Ave - SMART",FALSE
-"219","7237",83,73,"Ward Ave","Wallace Ave",FALSE
-"220","7238",70,84,"Sorauren/Geoffrey (Sorauren Park) - SMART","",FALSE
-"221","7239",210,245,"Bloor St W","Manning Ave - SMART",FALSE
-"222","7240",279,296,"Bloor St W","Shaw Ave - SMART",FALSE
-"223","7241",144,157,"519 Church St - SMART","",FALSE
-"224","7242",287,305,"Lake Shore Blvd W","Ontario Dr",FALSE
-"225","7243",37,32,"Exhibition GO Station","",TRUE
-"226","7244",27,21,"Dufferin Gate - SMART","",FALSE
-"227","7245",176,169,"Tecumseth St","Queen St W - SMART",FALSE
-"228","7246",328,359,"Yonge St","Bloor St",FALSE
-"229","7247",46,61,"Howard Park Ave","Dundas St W - SMART",FALSE
-"230","7248",415,376,"Baldwin Ave","Spadina Ave - SMART",FALSE
-"231","7249",44,37,"Dovercourt Rd","Harrison St (Green P) - SMART",FALSE
-"232","7250",124,136,"St. George St","Russell St - SMART",FALSE
-"233","7251",334,376,"The Royal Ontario Museum (Bloor St Entrance)","",FALSE
-"234","7252",416,413,"Robert St","Bloor St W - SMART",FALSE
-"235","7253",434,429,"John St ","Mercer St - SMART",FALSE
-"236","7254",197,201,"Borden St","Bloor St W - SMART",FALSE
-"237","7255",209,199,"Stewart St","Bathurst St  - SMART",FALSE
-"238","7256",272,262,"Vanauley St","Queen St W - SMART",FALSE
-"239","7257",351,360,"Dundas St W","St. Patrick St",FALSE
-"240","7258",151,149,"Queen St E","Larchmount Ave",FALSE
-"241","7259",223,178,"Lower Spadina Ave","Lake Shore Blvd",FALSE
-"242","7260",389,400,"Spadina Ave","Adelaide St W",FALSE
-"243","7261",536,513,"Queens Quay E","Lower Sherbourne St",FALSE
-"244","7262",21,30,"Wychwood Ave","Benson Ave - SMART",FALSE
-"245","7263",162,180,"Walton St","Elizabeth St - SMART",FALSE
-"246","7264",368,385,"Bloor St E","Huntley St - SMART",FALSE
-"247","7265",50,60,"Wallace Ave","Symington Ave - SMART",FALSE
-"248","7266",8,7,"Victoria Park Subway Station - SMART","",TRUE
-"249","7267",193,198,"Dundas St E","Pembroke St - SMART",FALSE
-"250","7268",53,48,"111 Bond St (North of Dundas St E)  - SMART","",FALSE
-"251","7269",160,164,"Toronto Eaton Centre (Yonge St)","",FALSE
-"252","7270",90,87,"Church St","Dundas St E - SMART",FALSE
-"253","7271",292,302,"Yonge St","Alexander St - SMART",FALSE
-"254","7272",382,406,"Yonge St","Dundonald St - SMART",FALSE
-"255","7273",223,264,"Bay St","Charles St - SMART",FALSE
-"256","7274",157,169,"Queen's Park Cres E","Grosvenor St - SMART",FALSE
-"257","7275",143,150,"Queen St W","James St",FALSE
-"258","7276",167,176,"Bloor St W","Balmuto St",FALSE
-"259","7277",137,149,"Chorley Park - SMART","",FALSE
-"260","7278",160,140,"Mallon Ave","Jones Ave -SMART",FALSE
-"261","7279",29,34,"Rosehill Ave","Avoca Ave - SMART",FALSE
-"262","7280",183,243,"Charles St E","Jarvis St - SMART",FALSE
-"263","7281",362,396,"Charles St W","Balmuto St - SMART",FALSE
-"264","7282",268,247,"Adelaide St W","Bay St - SMART",FALSE
-"265","7283",64,96,"Front St W","Bay St (South Side)",FALSE
-"266","7284",159,145,"University Ave","King St W - SMART",FALSE
-"267","7285",176,200,"Spadina Ave","Harbord St - SMART",FALSE
-"268","7286",213,191,"Gerrard St E","Broadview - SMART",FALSE
-"269","7287",42,33,"Queen St E","Pape Ave - SMART",FALSE
-"270","7288",178,177,"Humber Bay Shores Park West","",FALSE
-"271","7289",213,196,"Humber Bay Shores Park East","",FALSE
-"272","7291",236,230,"190 Queens Quay E","",FALSE
-"273","7292",122,131,"Granby St","Church St - SMART",FALSE
-"274","7293",171,170,"College St","McCaul St",FALSE
-"275","7296",132,128,"Westmoreland Ave","Fernbank Ave",FALSE
-"276","7297",76,73,"Havelock St","Dufferin Park",FALSE
-"277","7298",259,283,"Bathurst St","Adelaide St W",FALSE
-"278","7299",196,184,"Mill St","Parliament St",FALSE
-"279","7301",19,26,"Primrose Ave","Davenport Rd - SMART",FALSE
-"280","7302",61,75,"Winona Dr","Davenport Rd",FALSE
-"281","7303",40,21,"Queen St E","Woodward Ave",FALSE
-"282","7309",89,89,"Queen St. E","Rhodes Ave.",FALSE
-"283","7311",406,444,"Sherbourne St","Isabella St",FALSE
-"284","7312",125,137,"Amelia St.","Sumach St.",FALSE
-"285","7313",61,60,"Coxwell Ave"," Lake Shore Blvd E",FALSE
-"286","7314",52,64,"Queen St. E","Eastern Ave",FALSE
-"287","7315",27,16,"Queen St E","Hammersmith Ave",FALSE
-"288","7316",20,24,"Queen St. E","Spruce Hill Rd.",FALSE
-"289","7317",69,70,"Hubbard Blvd","Balsam Av",FALSE
-"290","7318",55,60,"Hubbard Blvd.","Glen Manor Dr.",FALSE
-"291","7319",43,47,"Lake Shore Blvd E","Knox Ave",FALSE
-"292","7320",183,121,"Front St W","University Ave (1)",FALSE
-"293","7321",201,136,"Front St W","University Ave (2)",FALSE
-"294","7322",86,81,"King St W","Brant St",FALSE
-"295","7323",106,109,"457 King St. W. at Spadina","",FALSE
-"296","7324",497,463,"King St W","Charlotte St (West)",FALSE
-"297","7326",47,53,"Davenport Rd","Lansdowne Ave.",FALSE
-"298","7327",46,50,"Davenport Rd","Oakwood Rd - SMART",FALSE
-"299","7328",82,95,"Roxborough St W","Yonge St",FALSE
-"300","7329",148,130,"Crawford St","Queen St W",FALSE
-"301","7330",44,40,"Lee Ave","Queen St E",FALSE
-"302","7331",11,17,"Coxwell Ave","Plains Rd",FALSE
-"303","7332",68,94,"200 Bloor St. E.","",FALSE
-"304","7333",249,235,"King St E","Victoria St",FALSE
-"305","7334",74,74,"Simcoe St","Wellington St North",FALSE
-"306","7335",92,120,"Bay St","Bloor St W (West Side)",FALSE
-"307","7336",50,48,"Queen St E","Alton Av",FALSE
-"308","7337",203,178,"Gerrard Square Mall (1010 Gerrard St E)","",FALSE
-"309","7338",74,74,"Logan Ave","Bain Ave",FALSE
-"310","7339",52,66,"Carlaw Ave","Strathcona Ave",FALSE
-"311","7340",48,56,"Blake St","Boultbee Ave",FALSE
-"312","7341",32,28,"Eastern Ave","Winnifred Ave",FALSE
-"313","7342",97,93,"Morse St","Eastern Ave - SMART",FALSE
-"314","7343",76,73,"Alton Ave","Dundas St E (Greenwood Park)",FALSE
-"315","7344",220,215,"Cherry Beach","",FALSE
-"316","7345",53,62,"Cherry Beach Sports Field (55 Unwin Ave)","",FALSE
-"317","7346",104,119,"Logan Av","Gerrard St E",FALSE
-"318","7347",13,19,"Regal Rd","Dufferin St",FALSE
-"319","7348",56,69,"Pape Ave","Gamble Ave",FALSE
-"320","7349",52,64,"Gamble Ave","Broadview Ave",FALSE
-"321","7350",87,100,"Broadview Ave","Westwood Ave",FALSE
-"322","7351",90,119,"Pretoria Av","Broadview Av",FALSE
-"323","7352",59,63,"Cosburn Ave","Donlands Ave",FALSE
-"324","7353",27,28,"Fulton Ave","Pape Ave - SMART",FALSE
-"325","7354",262,269,"Tommy Thompson Park (Leslie Street Spit)","",FALSE
-"326","7355",63,72,"Beltline Trail","Chaplin Cres.",FALSE
-"327","7356",116,84,"King St E","Ontario St.",FALSE
-"328","7357",479,429,"Lake Shore Blvd E","Leslie St",FALSE
-"329","7358",123,143,"Gailbraith Rd","King’s College Cr. (U of T)",FALSE
-"330","7359",33,34,"Rosedale Park (20 Schofield Ave)","",FALSE
-"331","7360",54,70,"Concord Av","Dewson St",FALSE
-"332","7361",51,72,"Hocken Ave./Vaughan Rd.","",FALSE
-"333","7362",247,271,"St Clair Ave W","Bathurst St.",FALSE
-"334","7363",56,57,"Wells Hill Ave","St Clair Ave W",FALSE
-"335","7364",25,21,"Queen St E","Nursewood Rd (Neville Park Loop)",FALSE
-"336","7365",66,48,"Kew Beach Ave","Kenilworth Ave",FALSE
-"337","7366",201,201,"Fort York Blvd","Bathurst St SMART",FALSE
-"338","7367",67,63,"Alma Ave","Gladstone Ave SMART",FALSE
-"339","7368",119,112,"Lisgar St","Dundas St SMART",FALSE
-"340","7369",88,92,"Dupont St","Emerson Ave SMART",FALSE
-"341","7371",5,13,"Eglinton Ave W","Henning Ave SMART",FALSE
-"342","7372",223,206,"King St W","Portland St",FALSE
-"343","7373",182,159,"George St","King St E",FALSE
-"344","7374",128,74,"Frederick St","The Esplanade",FALSE
-"345","7375",222,206,"Front St E","Scott St",FALSE
-"346","7376",31,26,"Frobisher Ave","Lascelles Blvd",FALSE
-"347","7377",40,42,"Balliol St","Yonge St  SMART",FALSE
-"348","7378",54,51,"Yonge St","Davisville Ave",FALSE
-"349","7379",94,109,"Lawton Blvd","Yonge St",FALSE
-"350","7380",51,68,"Erskine Ave","Yonge St SMART",FALSE
-"351","7381",71,102,"Roehampton Ave","Yonge St",FALSE
-"352","7382",324,307,"Simcoe St","Adelaide St W",FALSE
-"353","7383",310,283,"12 Harbour St","",FALSE
-"354","7384",132,168,"Cumberland Ave","Bay St SMART",FALSE
-"355","7385",150,219,"20 Charles St E","",FALSE
-"356","7386",130,146,"D'Arcy St. /McCaul St. SMART","",FALSE
-"357","7387",30,38,"Mortimer Ave","Carlaw Ave SMART",FALSE
-"358","7388",149,159,"Broadview Ave","Danforth Ave",FALSE
-"359","7389",439,412,"College Park- Gerrard Entrance","",FALSE
-"360","7391",191,190,"Yonge St","Dundas Sq",FALSE
-"361","7392",11,12,"Woodbine Subway Green P SMART","",FALSE
-"362","7395",2,2,"Dentonia Park","",FALSE
-"363","7398",256,207,"York St","Harbour St",FALSE
-"364","7399",476,426,"Lower Jarvis","Queens Quay E",FALSE
-"365","7400",53,53,"Polson Pier","",FALSE
-"366","7402",153,143,"Wellington St W","Bathurst St",FALSE
-"367","7403",33,30,"Lascelles Blvd","Eglinton Ave W - SMART",FALSE
-"368","7404",62,76,"Roehampton Ave","Mount Pleasant Rd",FALSE
-"369","7406",428,365,"Victoria St","Queen St E",FALSE
-"370","7407",76,82,"University Ave","Queen St W",FALSE
-"371","7408",91,94,"University Ave","Armoury St - SMART",FALSE
-"372","7409",337,365,"Isabella St","Church St",FALSE
-"373","7410",121,138,"Howard St","Rose Ave - SMART",FALSE
-"374","7411",310,320,"Little Norway Park","",FALSE
-"375","7412",199,204,"King St W","Crawford St - SMART",FALSE
-"376","7413",30,37,"Dundas St W","Watkinson Ave - SMART",FALSE
-"377","7414",51,56,"Keele St","Annette St - SMART",FALSE
-"378","7415",41,27,"Keele St","Vine Ave - SMART",FALSE
-"379","7416",109,130,"Spadina Ave","Blue Jays Way",FALSE
-"380","7417",209,196,"King St W","Jordan St",FALSE
-"381","7418",425,442,"College Park - Yonge St Entrance","",FALSE
-"382","7419",176,198,"Bloor St W","Huron St",FALSE
-"383","7420",87,98,"Barton St","Howland St - SMART",FALSE
-"384","7422",95,97,"Tyndall Ave","King St W - SMART",FALSE
-"385","7423",43,66,"Merton St","Al Green Ln - SMART",FALSE
-"386","7424",41,51,"Merton St","Mount Pleasant Rd",FALSE
-"387","7425",8,7,"The Queensway at South Kingsway - SMART","",FALSE
-"388","7426",58,63,"Fleet St","Garrison Rd (Fort York)",FALSE
-"389","7427",136,111,"Northern Dancer Blvd","Lake Shore Blvd E",FALSE
-"390","7428",73,71,"Woodbine Ave","Lake Shore Blvd E",FALSE
-"391","7429",35,46,"Woodbine Subway Station - SMART","",TRUE
-"392","7430",231,250,"Marilyn Bell Park Tennis Court","",FALSE
-"393","7431",60,58,"Gerrard St E","Leslie St - SMART",FALSE
-"394","7432",213,180,"Frederick St","King St E",FALSE
-"395","7433",86,102,"Dundas St E","Boulton Ave - SMART",FALSE
-"396","7434",11,13,"Via Italia","Mackay Ave - SMART",FALSE
-"397","7435",229,250,"Rushton Rd","St Clair Ave W - SMART",FALSE
-"398","7436",105,99,"Shaw St","Dupont St",FALSE
-"399","7437",164,164,"Concord Ave","Bloor St W - SMART",FALSE
-"400","7438",35,36,"High Park Subway - SMART","",FALSE
-"401","7440",95,129,"Martin Goodman Trail","Ontario Dr",FALSE
-"402","7441",72,90,"Pacific Ave","Glenlake Ave - SMART",FALSE
-"403","7442",47,63,"Lonsdale Rd","Spadina Rd",FALSE
-"404","7443",98,89,"Dundas St E","George St",FALSE
-"405","7444",34,28,"Clendenan Ave","Rowland St - SMART",FALSE
-"406","7445",87,81,"Eastwood Rd","Coxwell Ave - SMART",FALSE
-"407","7446",35,33,"Orchard Park","",FALSE
-"408","7447",11,16,"Trent Ave","Danforth Ave - SMART",FALSE
-"409","7448",9,14,"Goodwood Park Ct","Dentonia Park - SMART",FALSE
-"410","7449",42,36,"Cosburn Ave","Cedarvale Ave - SMART",FALSE
-"411","7450",125,134,"Carlaw Ave","Danforth Ave - SMART",FALSE
-"412","7451",117,86,"Western Battery Rd","Pirandello St - SMART",FALSE
-"413","7452",221,253,"Bleecker St","St James Ave",FALSE
-"414","7453",252,319,"Jarvis St","Maitland Pl",FALSE
-"415","7454",90,91,"Pottery Rd","Lower Don River Trail",FALSE
-"416","7455",61,46,"E.T. Seton Park (Eglinton Ave E","Leslie St)",FALSE
-"417","7456",40,54,"Belmont St","Davenport Rd - SMART",FALSE
-"418","7457",152,150,"Queen's Park Cres W","Hoskin Ave",FALSE
-"419","7458",285,255,"Church St","Lombard St",FALSE
-"420","7459",91,91,"St Clair Ave W","Winona Ave - SMART",FALSE
-"421","7460",7,11,"High Park Outdoor Pool","",FALSE
-"422","7461",54,59,"High Park Amphitheatre","",FALSE
-"423","7462",223,247,"Richmond St E","Yonge St",FALSE
-"424","7463",139,173,"Adelaide St W","Brant St",FALSE
-"425","7465",61,77,"Russell Hill Rd","St Clair Ave W",FALSE
-"426","7466",70,67,"Glendonwynne Ave","Bloor St W - SMART",FALSE
-"427","7467",214,201,"Lower Simcoe St","Bremner Blvd",FALSE
-"428","7468",105,103,"Front St","Simcoe St",FALSE
-"429","7469",87,87,"Wellington St W","York St",FALSE
-"430","7470",376,340,"York St","Lake Shore Blvd W",FALSE
-"431","7471",15,8,"Lake Shore Blvd W","Louisa St",FALSE
-"432","7472",161,121,"Dundas St E","Victoria St",FALSE
-"433","7473",187,176,"Adelaide St W","Strachan Ave",FALSE
-"434","7474",206,207,"Clarence Square","",FALSE
-"435","7475",152,168,"Jarvis St","Richmond St E",FALSE
-"436","7476",92,91,"Symington Ave","Dupont St - SMART",FALSE
-"437","7477",21,22,"Antler St","Campbell Ave - SMART",FALSE
-"438","7478",40,30,"Ellis Ave","The Queensway",FALSE
-"439","7479",46,37,"Jane St","Bloor St W (Jane Subway Station)",TRUE
-"440","7480",54,58,"Neil McLellan Park - SMART","",FALSE
-"441","7481",26,42,"Westmount Ave","St Clair Ave W - SMART",FALSE
-"442","7482",35,43,"Danforth Ave","Sibley Ave - SMART",FALSE
-"443","7483",31,43,"Southwood Dr","Kingston Rd - SMART",FALSE
-"444","7484",13,9,"Briar Hill Ave","Yonge St - SMART",FALSE
-"445","7485",25,19,"Blythwood Rd","Yonge St - SMART",FALSE
-"446","7486",17,12,"Gerrard St E","Ted Reeve Dr",FALSE
-"447","7487",71,64,"Eastwood Rd","Woodbine Ave - SMART",FALSE
-"448","7488",39,39,"Summerhill Ave","Maclennan Ave",FALSE
-"449","7489",172,154,"Sumach St ","Queen St E",FALSE
-"450","7491",339,305,"D'Arcy St","Spadina Ave - SMART",FALSE
-"451","7492",160,163,"324 Cherry St - SMART","",FALSE
-"452","7493",29,30,"Sackville St","Eastern Ave - SMART",FALSE
-"453","7494",64,79,"Davenport Rd","McAlpine St - SMART",FALSE
-"454","7496",78,90,"Sunnyside Ave","The Queensway - SMART",FALSE
-"455","7497",90,81,"128 Sterling Ave - SMART","",FALSE
-"456","7501",6,6,"Humberside Grounds - SMART","",FALSE
-"457","7502",348,346,"University Ave","College St (East)",FALSE
-"458","7503",7,8,"Gerrard St E","Malvern Ave - SMART",FALSE
-"459","7504",17,11,"Gerrard St E","Victoria Park Ave - SMART",FALSE
-"460","7505",114,99,"Ontario St","Adelaide St E -SMART",FALSE
-"461","7506",62,76,"Berkeley St","Adelaide St E - SMART",FALSE
-"462","7508",181,165,"Berkeley St","Dundas St E - SMART",FALSE
-"463","7509",83,62,"Ontario St","King St E",FALSE
-"464","7510",36,41,"Princes Gate","Nunavut Dr",FALSE
-"465","7514",186,174,"Humber Bay Shores Park","Marine Parade Dr",FALSE
-"466","7515",49,50,"Amos Waites Park","",FALSE
-"467","7516",26,27,"Superior Ave","Lake Shore Blvd W",FALSE
-"468","7517",33,27,"Ripley Ave","Ormskirk Ave - SMART",FALSE
-"469","7518",124,111,"Lake Shore Blvd W","Colborne Lodge Dr",FALSE
-"470","7519",55,90,"Sheridan Ave","Dundas St W - SMART",FALSE
-"471","7520",43,42,"St Clarens Ave","Shirley Ave - SMART",FALSE
-"472","7521",100,106,"Emerson Ave","Bloor St W - SMART",FALSE
-"473","7522",43,53,"Wallace Ave","Pauline Ave - SMART",FALSE
-"474","7523",165,161,"Lynn Williams St","East Liberty St",FALSE
-"475","7524",395,399,"Lisgar Park","",FALSE
-"476","7525",49,40,"Fennings St","Queen St W - SMART",FALSE
-"477","7526",67,71,"Bartlett Parkette","",FALSE
-"478","7527",19,21,"Joseph J Piccininni Community Centre","",FALSE
-"479","7528",20,51,"Spadina Rd","Austin Terrace - SMART",FALSE
-"480","7529",12,20,"Symington Ave","Davenport Rd - SMART",FALSE
-"481","7530",89,99,"Sherbourne St N","Elm Ave - SMART",FALSE
-"482","7531",112,131,"541 Huron St - SMART","",FALSE
-"483","7533",235,226,"Housey St","Dan Leckie Way - SMART",FALSE
-"484","7534",240,234,"Walnut Ave","Queen St W",FALSE
-"485","7535",122,126,"Wolsley St","Palmerston Ave - SMART",FALSE
-"486","7536",164,203,"Palmerston Ave","Dundas St W - SMART",FALSE
-"487","7537",51,56,"Euclid Ave","Herrick St - SMART",FALSE
-"488","7538",23,23,"Vaughan Rd /Wychwood Ave","",FALSE
-"489","7539",24,22,"Davisville Ave","Pailton Cres - SMART",FALSE
-"490","7540",52,68,"Alvin Ave","St Clair Ave E - SMART",FALSE
-"491","7541",50,52,"Bellwoods Ave","Treford Pl - SMART",FALSE
-"492","7542",407,383,"Queen St W","John St",FALSE
-"493","7543",244,244,"Nassau St","Bellevue Ave",FALSE
-"494","7544",144,175,"Foster Pl","Elizabeth St - SMART",FALSE
-"495","7545",206,223,"Baldwin St","Henry St - SMART",FALSE
-"496","7546",76,98,"Ross St","Cecil St - SMART",FALSE
-"497","7547",193,191,"Orde St","McCaul St - SMART",FALSE
-"498","7548",308,356,"St Joseph St","Bay St - SMART",FALSE
-"499","7549",136,131,"439 Sherbourne St - SMART","",FALSE
-"500","7551",215,220,"The Esplanade","Hahn Pl - SMART",FALSE
-"501","7552",7,7,"Lake Shore Blvd W","Thirty Ninth Street",FALSE
-"502","7553",12,11,"Lake Shore Blvd W","Twenty Fourth St - SMART",FALSE
-"503","7554",32,32,"Humber College - SMART","",FALSE
-"504","7555",16,13,"Royal York Rd","Mimico Ave",FALSE
-"505","7556",17,14,"Windsor St","Newcastle St",FALSE
-"506","7557",28,31,"The Queensway","High St - SMART",FALSE
-"507","7558",29,25,"Berry Rd","Bell Manor Dr",FALSE
-"508","7559",15,23,"Swansea Community Centre","",FALSE
-"509","7560",8,15,"Glenwood Ave","Runnymede Rd - SMART",FALSE
-"510","7561",75,74,"Annette St","Jane St - SMART",FALSE
-"511","7562",30,34,"Priscilla  Ave","Dundas St W - SMART",FALSE
-"512","7563",21,19,"St Clair Ave W","Castleton Ave - SMART",FALSE
-"513","7564",12,17,"Durie St","Dundas St W - SMART",FALSE
-"514","7565",17,18,"St Clair Ave W","Gunns Rd - SMART",FALSE
-"515","7566",31,22,"Weston Rd","St Clair Ave W - SMART",FALSE
-"516","7567",14,16,"Weston Lions Park","",FALSE
-"517","7568",69,60,"Jameson Ave","Queen St W",FALSE
-"518","7569",197,205,"Toronto Inukshuk Park","",FALSE
-"519","7570",174,153,"Carlaw Ave","Dundas St E",FALSE
-"520","7571",63,63,"Highfield Rd","Gerrard St E",FALSE
-"521","7572",5,8,"Cosburn Ave","Durant Ave - SMART",FALSE
-"522","7573",13,13,"Torrens Ave","Broadview Ave",FALSE
-"523","7575",287,284,"Bayview Ave","Lawren Harris Square",FALSE
-"524","7576",168,169,"Front St E","Bayview Avenue",FALSE
-"525","7577",114,94,"Oak St","Sumach St",FALSE
-"526","7578",152,134,"Oak St","Parliament St",FALSE
-"527","7579",20,27,"Glebe Rd W","Yonge St - SMART",FALSE
-"528","7580",73,85,"Hillsdale Ave W","Yonge St - SMART",FALSE
-"529","7581",54,47,"High Park Ave","Dundas St W",FALSE
-"530","7583",16,20,"Eglinton Ave W","Scarlett Rd",FALSE
-"531","7584",25,34,"The Pond Rd","Sentinel Rd",FALSE
-"532","7585",29,19,"Sentinel Rd","Finch Hydro Corridor",FALSE
-"533","7586",9,11,"Finch West Subway Station","",TRUE
-"534","7587",7,5,"Dufferin St","Finch Hydro Recreational Trail",FALSE
-"535","7588",15,15,"G Ross Lord Park","",FALSE
-"536","7589",9,11,"Torresdale Ave","Antibes Dr",FALSE
-"537","7590",18,19,"Esther Shiner Stadium","",FALSE
-"538","7591",1,10,"Elwood Blvd","Avenue Rd - SMART",FALSE
-"539","7593",20,18,"Roehampton St","Bayview Ave - SMART",FALSE
-"540","7594",51,57,"Fleming Cres","Bayview Ave - SMART",FALSE
-"541","7595",42,49,"Moore Park","",FALSE
-"542","7596",54,71,"Langford Ave","Danforth Ave - SMART",FALSE
-"543","7597",9,9,"Yonge St","Golfdale Rd - SMART",FALSE
-"544","7598",6,11,"Teddington Park Ave - SMART","",FALSE
-"545","7599",161,170,"Richmond St W","York St",FALSE
-"546","7600",50,66,"Russell St","Huron St - SMART",FALSE
-"547","7601",66,51,"Brick Works","",FALSE
-"548","7602",17,20,"Woodbine Ave","O'Connor Dr - SMART",FALSE
-"549","7603",7,16,"O'Connor Dr","Curity Ave",FALSE
-"550","7604",9,17,"St Columba Pl","St Clair Ave E - SMART",FALSE
-"551","7605",14,19,"Lumsden Ave","Eastdale Ave - SMART",FALSE
-"552","7606",12,10,"Dawes Rd","Taylor Creek Trl",FALSE
-"553","7607",15,20,"Fairmount Park - SMART","",FALSE
-"554","7608",65,62,"Wilket Creek Park","",FALSE
-"555","7609",11,22,"Sunnybrook Park","",FALSE
-"556","7610",26,24,"Kingston Rd","Beech Ave - SMART",FALSE
-"557","7611",31,28,"Victoria Park Ave","Danforth Ave - SMART",FALSE
-"558","7612",8,6,"Livingston Rd","Guildwood Pkwy",FALSE
-"559","7613",2,2,"Livingston Rd (Highland Creek Trail)","",FALSE
-"560","7614",2,2,"Morningside Park (Highland Creek Trail)","",FALSE
-"561","7615",6,7,"Colonel Danforth Park","",FALSE
-"562","7616",28,32,"Waterfront Trail (Rouge Hill)","",FALSE
-"563","7618",33,44,"Vaughan Rd","Oakwood Ave - SMART",FALSE
-"564","7619",10,11,"Braemar Ave","Eglinton Ave W -SMART",FALSE
-"565","7620",51,49,"Eglinton Ave E","Redpath Ave",FALSE
-"566","7621",5,6,"Long Branch GO Station","",TRUE
-"567","7622",17,17,"Marie Curtis Park","",FALSE
-"568","7623",37,32,"Royal York Rd","Lake Shore Blvd W",FALSE
-"569","7624",2,4,"Guildwood GO Station (South)","",TRUE
-"570","7625",15,13,"Guildwood GO Station (North)","",TRUE
-"571","7626",11,10,"Rouge Hill GO Station","",TRUE
-"572","7627",118,117,"Shaw St","Essex St",FALSE
-"573","7629",32,37,"Lundy Ave","Etienne Brule Park",FALSE
-"574","7630",19,20,"Twelfth St","Thirteenth St",FALSE
-"575","7631",7,2,"Florence Gell Park","",FALSE
-"576","7632",31,43,"Chiltern Hill Rd","Eglinton Ave W - SMART",FALSE
-"577","7633",80,51,"Noble St","Queen St W",FALSE
-"578","7634",295,298,"University Ave","Gerrard St W (West Side)",FALSE
-"579","7635",50,49,"Runnymede Rd","Annette St - SMART",FALSE
-"580","7636",20,24,"Bloor St W","Riverside Ave",FALSE
-"581","7637",9,10,"Judson St","Royal York",FALSE
-"582","7639",23,15,"Riverview Gardens","",FALSE
-"583","7640",43,49,"Spadina Rd","St.Clair Ave West",FALSE
-"584","7641",17,24,"Annette St","Dundas W",FALSE
-"585","7642",111,131,"Yonge St","St Clair Ave",FALSE
-"586","7643",11,14,"Oriole Pkwy","Kilbarry Rd",FALSE
-"587","7644",29,36,"East Lynn Ave","Danforth Ave",FALSE
-"588","7646",105,123,"University Ave","Richmond St W",FALSE
-"589","7647",398,397,"Elm St/ University Ave (East)","",FALSE
-"590","7648",88,91,"Rosedale Station","",TRUE
-"591","7649",31,27,"Greenwood Subway Station","",TRUE
-"592","7650",37,33,"St Clair W Subway - Heath Entrance","",FALSE
-"593","7651",106,124,"Bloor St W","Gladstone Ave",FALSE
-"594","7653",50,44,"Bloor St W","Indian Rd",FALSE
-"595","7654",54,58,"Bloor St W","Pacific Ave",FALSE
-"596","7655",59,78,"Danforth Ave","Dewhurst Blvd",FALSE
-"597","7656",100,113,"Bloor St W","Brock Ave",FALSE
-"598","7657",168,188,"1 Market St","",FALSE
-"599","7658",25,31,"Holland Park Ave","Oakwood Ave",FALSE
-"600","7659",16,19,"NULL","",FALSE
-"601","7660",83,76,"NULL","",FALSE
-"602","7662",83,84,"NULL","",FALSE
-"603","7663",7,8,"NULL","",FALSE
-"604","7664",36,32,"NULL","",FALSE
-"605","7665",20,21,"NULL","",FALSE
-"606","7666",40,42,"NULL","",FALSE
-"607","7667",14,20,"NULL","",FALSE
+station_id,checkin_total,checkout_total,street1,street2,at_ttc
+7000,356,362,fort york  blvd,capreol ct,FALSE
+7001,295,229,lower jarvis st,the esplanade,FALSE
+7002,270,293,st. george st,bloor st w,FALSE
+7003,183,187,madison ave,bloor st w,FALSE
+7004,260,239,university ave,elm st,FALSE
+7005,174,160,king st w,york st,FALSE
+7006,615,603,bay st,college st (east side),FALSE
+7007,375,400,college st,huron st,FALSE
+7008,97,100,wellesley st,queen's park cres,FALSE
+7009,381,294,king st e,jarvis st,FALSE
+7010,100,100,king st w,spadina ave,FALSE
+7011,270,272,wellington st w,portland st,FALSE
+7012,344,324,elizabeth st,edward st (bus terminal),FALSE
+7013,286,263,scott st,the esplanade,FALSE
+7014,434,450,sherbourne st,carlton st (allan gardens),FALSE
+7015,145,137,king st w,bay st (west side),FALSE
+7016,395,345,bay st,queens quay w (ferry terminal),FALSE
+7017,474,469,widmer st,adelaide st w,FALSE
+7018,102,122,bremner blvd,rees st,FALSE
+7019,145,125,temperance st. station,,TRUE
+7020,263,265,phoebe st,spadina ave,FALSE
+7021,168,164,bay st,albert st,FALSE
+7022,458,457,simcoe st,queen st w,FALSE
+7023,208,237,college st,borden st,FALSE
+7024,181,222,dundonald st,church st,FALSE
+7025,239,309,ted rogers way,bloor st e,FALSE
+7026,232,249,bay st,st. joseph st,FALSE
+7027,506,460,beverley  st,dundas st w,FALSE
+7028,465,392,gould st,mutual st,FALSE
+7029,230,221,bay st,bloor st w (east side),FALSE
+7030,386,447,bay st,wellesley st w,FALSE
+7031,175,260,jarvis st,isabella st,FALSE
+7032,151,167,augusta ave,dundas st w,FALSE
+7033,423,400,union station,,TRUE
+7034,245,265,church st,bloor st e,FALSE
+7035,242,232,queen st w,ossington ave,FALSE
+7036,99,102,trinity st /front st e,,FALSE
+7037,613,584,bathurst st,dundas st w,FALSE
+7038,374,334,dundas st w,yonge st,FALSE
+7039,145,150,simcoe st,michael sweet ave - smart,FALSE
+7040,233,262,euclid ave,bloor st w,FALSE
+7041,255,261,edward st,yonge st,FALSE
+7042,397,526,sherbourne st,wellesley st e,FALSE
+7043,355,295,queens quay w,lower simcoe st,FALSE
+7044,331,399,church st,alexander st,FALSE
+7045,487,412,bond st,queen st e,FALSE
+7046,378,370,niagara st,richmond st w,FALSE
+7047,542,437,university ave,gerrard st w (east side),FALSE
+7048,126,150,front st w,yonge st (hockey hall of fame),FALSE
+7049,652,585,queen st w,portland st,FALSE
+7050,70,99,richmond st e,jarvis st green p,FALSE
+7051,288,294,wellesley st e,yonge st (green p),FALSE
+7052,207,194,wellington st w,bay st,FALSE
+7053,127,130,metro hall plaza,,FALSE
+7054,324,329,navy wharf ct.,bremner blvd.,FALSE
+7055,296,292,jarvis st,carlton st,FALSE
+7056,177,182,parliament st,gerrard st,FALSE
+7057,117,86,simcoe st,wellington st south,FALSE
+7058,90,84,huron/ harbord st,,FALSE
+7059,262,299,front st w,blue jays way,FALSE
+7060,534,482,princess st,adelaide st e,FALSE
+7061,195,231,dalton rd,bloor st w,FALSE
+7062,202,227,university ave,college st (west),FALSE
+7063,144,155,queen's park,bloor st w,FALSE
+7064,122,121,51 parliament st,,FALSE
+7065,350,334,dundas st e,parliament st,FALSE
+7066,170,218,willcocks st,st. george st,FALSE
+7067,172,142,yonge st,harbour st,FALSE
+7068,13,19,dockside dr,queens quay e (sugar beach),FALSE
+7069,262,247,queen st w,spadina ave,FALSE
+7070,138,90,25 york st â€“ union station south,,TRUE
+7071,61,128,161 bleecker st (south of wellesley),,FALSE
+7072,406,368,fleet st,bathurst st,FALSE
+7073,319,295,spadina ave,fort york blvd,FALSE
+7074,148,104,king st e,church st,FALSE
+7075,207,212,queens quay w,dan leckie way,FALSE
+7076,509,486,york st,queens quay w,FALSE
+7077,194,212,college park south,,FALSE
+7078,500,488,college st,major st,FALSE
+7079,423,447,mcgill st,church st,FALSE
+7083,60,55,danforth ave,barrington ave,FALSE
+7084,26,31,high park - grenadier cafe,,FALSE
+7085,51,39,danforth ave,westlake ave,FALSE
+7086,49,68,high park - west rd,,FALSE
+7087,87,89,danforth ave,aldridge ave,FALSE
+7088,95,98,danforth ave,coxwell ave,FALSE
+7089,599,611,church st ,wood st,FALSE
+7090,53,64,danforth ave,lamb ave,FALSE
+7091,55,58,donlands station,,TRUE
+7092,66,67,pape subway green p,,FALSE
+7093,79,96,danforth ave,gough ave,FALSE
+7094,56,56,chester station (green p),,TRUE
+7095,174,182,danforth ave,ellerbeck st,FALSE
+7096,127,96,boston ave,queen st e,FALSE
+7097,104,99,riverdale park north (broadview ave),,FALSE
+7098,170,161,riverdale park south (broadview ave),,FALSE
+7099,186,146,cherry st,mill st,FALSE
+7100,488,452,dundas st e,regent park blvd,FALSE
+7101,197,155,lower sherbourne st,the esplanade,FALSE
+7102,320,300,nelson st,duncan st,FALSE
+7103,216,197,jimmie simpson park (queen st e),,FALSE
+7104,344,302,king st e,river st,FALSE
+7105,111,80,queen st e,sackville st,FALSE
+7106,54,40,mill st,tannery rd,FALSE
+7107,59,48,cherry st,distillery ln,FALSE
+7108,126,121,front st e,cherry st,FALSE
+7109,153,166,seaton st,dundas st e - smart,FALSE
+7110,202,197,queen st e,berkeley st,FALSE
+7111,280,273,king st w,douro st,FALSE
+7112,33,30,liberty st,fraser ave green p,FALSE
+7113,273,279,parliament st,aberdeen ave,FALSE
+7114,323,343,carlton st,parliament st,FALSE
+7115,189,231,howard st,sherbourne st,FALSE
+7116,57,67,parliament st,bloor st e,FALSE
+7117,63,74,castle frank station,,TRUE
+7118,124,109,king st w,bay st (east side),FALSE
+7119,210,225,sumach st,carlton st. (riverdale farm),FALSE
+7120,163,154,gerrard st e,river st,FALSE
+7121,577,573,jarvis st,dundas st e,FALSE
+7122,61,46,niagara st,tecumseth st,FALSE
+7123,64,63,424 wellington st w - smart,,FALSE
+7124,222,197,dundas st e,broadview ave,FALSE
+7126,258,254,yonge st,yorkville ave,FALSE
+7127,102,118,bay st,davenport rd,FALSE
+7128,50,57,yonge st,aylmer ave,FALSE
+7129,156,162,davenport rd,avenue rd,FALSE
+7130,127,157,davenport rd,bedford rd,FALSE
+7131,195,207,taddle creek park,,FALSE
+7132,57,68,kendal ave,spadina rd,FALSE
+7133,82,80,summerhill station,,TRUE
+7134,82,100,marlborough ave,yonge st,FALSE
+7135,137,134,hanna ave,liberty st,FALSE
+7136,126,114,queen st w,close ave,FALSE
+7137,36,32,davenport rd,bathurst st,FALSE
+7138,75,65,davenport rd,christie st,FALSE
+7139,66,59,glen edyth dr,davenport rd,FALSE
+7140,137,139,macpherson ave,spadina rd,FALSE
+7141,78,106,bridgeman ave,kendal ave - smart,FALSE
+7142,56,51,bridgeman ave,bathurst st,FALSE
+7143,94,99,kendal ave,bernard ave,FALSE
+7144,98,105,palmerston ave,vermont ave,FALSE
+7146,69,109,christie st,benson ave (wychwood barns),FALSE
+7147,55,46,king st w,fraser ave,FALSE
+7148,231,215,king st w,joe shuster way,FALSE
+7149,139,139,yarmouth rd,christie st,FALSE
+7150,150,139,dufferin st,sylvan av (dufferin grove park),FALSE
+7151,98,124,essex st,christie st - smart,FALSE
+7152,98,105,ossington ave,bloor st w,FALSE
+7153,222,227,bloor st w,christie st,FALSE
+7154,157,170,bathurst subway station,,TRUE
+7155,107,108,bathurst st,lennox st,FALSE
+7156,111,127,salem ave,bloor st w,FALSE
+7157,48,60,dufferin st,bloor st,FALSE
+7158,162,149,king st w,stafford st,FALSE
+7160,308,295,king st w,tecumseth st,FALSE
+7161,101,99,beverley st,college st,FALSE
+7162,285,253,hayter st,laplante ave,FALSE
+7163,415,437,yonge st,wood st,FALSE
+7164,366,361,gould st,yonge st (ryerson university),FALSE
+7167,158,143,queen st e,george st (moss park),FALSE
+7168,433,401,queens quay,yonge st,FALSE
+7169,91,102,front st w,bay st (north side),FALSE
+7170,52,83,spadina ave,willcocks st,FALSE
+7171,344,345,ontario place blvd,lake shore blvd w (east),FALSE
+7172,81,95,strachan ave,princes' blvd,FALSE
+7173,77,99,cariboo st,rail path,FALSE
+7174,124,108,bloor st w,dundas st w,FALSE
+7175,323,311,hto park (queens quay w),,FALSE
+7176,280,286,bathurst st,fort york blvd,FALSE
+7177,337,330,east liberty st,pirandello st,FALSE
+7178,103,99,dundas st w,edna ave,FALSE
+7179,79,82,bloor go,up station (west toronto railpath),TRUE
+7180,70,83,lansdowne subway station,,TRUE
+7181,40,57,lansdowne ave,whytock ave,FALSE
+7182,90,94,sterling rd,dundas st w,FALSE
+7183,161,160,st clarens ave,college st,FALSE
+7184,124,122,ossington ave,college st,FALSE
+7188,85,96,exhibition go (atlantic ave),,FALSE
+7189,210,193,augusta ave,denison sq,FALSE
+7190,95,104,st. george st,hoskin ave,FALSE
+7191,154,161,central tech  (harbord st),,FALSE
+7192,111,129,harbord st,clinton st,FALSE
+7193,250,213,queen st w,gladstone ave,FALSE
+7194,75,87,mortimer ave,coxwell ave,FALSE
+7195,179,206,ulster st,bathurst st,FALSE
+7196,65,84,roxton rd,harbord st,FALSE
+7197,132,131,queen st w,dovercourt rd,FALSE
+7198,128,119,queen st w,cowan ave,FALSE
+7199,440,419,college st,markham st,FALSE
+7202,171,150,queen st w,york st (city hall),FALSE
+7203,362,339,bathurst st/queens quay(billy bishop airport),,FALSE
+7204,290,272,college st,crawford st,FALSE
+7205,140,131,rusholme park cres,college st,FALSE
+7206,167,162,claremont st,dundas st w,FALSE
+7207,341,335,dundas st w,crawford st,FALSE
+7208,132,143,80 clinton st (north of college) - smart,,FALSE
+7209,94,77,ossington ave,harrison st,FALSE
+7210,52,36,mary mccormick rec centre (sheridan ave),,FALSE
+7211,319,290,fort york blvd,garrison rd,FALSE
+7216,157,152,wellington st w,stafford st,FALSE
+7217,304,298,soho st,queen st w,FALSE
+7220,120,114,lake shore blvd w,ellis ave,FALSE
+7221,24,34,high park subway station,,TRUE
+7222,158,143,sunnyside - gus ryder pool,,FALSE
+7223,61,28,parkside dr,bloor st w - smart,FALSE
+7224,52,61,bloor st w,high park ave (high park),FALSE
+7225,66,65,lake shore blvd w,windermere ave,FALSE
+7226,156,176,lake shore blvd w,the boulevard club,FALSE
+7227,158,150,martin goodman trail (marilyn bell park),,FALSE
+7228,165,138,queen st w,roncesvalles ave,FALSE
+7229,23,38,dundas st w,roncesvalles green p - smart,FALSE
+7230,111,110,garden ave,roncesvalles ave,FALSE
+7231,57,65,wright,sorauren (sorauren park) - smart,FALSE
+7232,95,71,queen st w , fuller ave - smart,FALSE
+7233,87,89,king,cowan ave - smart,FALSE
+7234,56,61,roncesvalles ave,marmaduke st,FALSE
+7235,286,305,bay st,college st (west side) - smart,FALSE
+7236,222,200,thompson st,broadview ave - smart,FALSE
+7237,83,73,ward ave,wallace ave,FALSE
+7238,70,84,sorauren/geoffrey (sorauren park) - smart,,FALSE
+7239,210,245,bloor st w,manning ave - smart,FALSE
+7240,279,296,bloor st w,shaw ave - smart,FALSE
+7241,144,157,519 church st - smart,,FALSE
+7242,287,305,lake shore blvd w,ontario dr,FALSE
+7243,37,32,exhibition go station,,TRUE
+7244,27,21,dufferin gate - smart,,FALSE
+7245,176,169,tecumseth st,queen st w - smart,FALSE
+7246,328,359,yonge st,bloor st,FALSE
+7247,46,61,howard park ave,dundas st w - smart,FALSE
+7248,415,376,baldwin ave,spadina ave - smart,FALSE
+7249,44,37,dovercourt rd,harrison st (green p) - smart,FALSE
+7250,124,136,st. george st,russell st - smart,FALSE
+7251,334,376,the royal ontario museum (bloor st entrance),,FALSE
+7252,416,413,robert st,bloor st w - smart,FALSE
+7253,434,429,john st ,mercer st - smart,FALSE
+7254,197,201,borden st,bloor st w - smart,FALSE
+7255,209,199,stewart st,bathurst st  - smart,FALSE
+7256,272,262,vanauley st,queen st w - smart,FALSE
+7257,351,360,dundas st w,st. patrick st,FALSE
+7258,151,149,queen st e,larchmount ave,FALSE
+7259,223,178,lower spadina ave,lake shore blvd,FALSE
+7260,389,400,spadina ave,adelaide st w,FALSE
+7261,536,513,queens quay e,lower sherbourne st,FALSE
+7262,21,30,wychwood ave,benson ave - smart,FALSE
+7263,162,180,walton st,elizabeth st - smart,FALSE
+7264,368,385,bloor st e,huntley st - smart,FALSE
+7265,50,60,wallace ave,symington ave - smart,FALSE
+7266,8,7,victoria park subway station - smart,,TRUE
+7267,193,198,dundas st e,pembroke st - smart,FALSE
+7268,53,48,111 bond st (north of dundas st e)  - smart,,FALSE
+7269,160,164,toronto eaton centre (yonge st),,FALSE
+7270,90,87,church st,dundas st e - smart,FALSE
+7271,292,302,yonge st,alexander st - smart,FALSE
+7272,382,406,yonge st,dundonald st - smart,FALSE
+7273,223,264,bay st,charles st - smart,FALSE
+7274,157,169,queen's park cres e,grosvenor st - smart,FALSE
+7275,143,150,queen st w,james st,FALSE
+7276,167,176,bloor st w,balmuto st,FALSE
+7277,137,149,chorley park - smart,,FALSE
+7278,160,140,mallon ave,jones ave -smart,FALSE
+7279,29,34,rosehill ave,avoca ave - smart,FALSE
+7280,183,243,charles st e,jarvis st - smart,FALSE
+7281,362,396,charles st w,balmuto st - smart,FALSE
+7282,268,247,adelaide st w,bay st - smart,FALSE
+7283,64,96,front st w,bay st (south side),FALSE
+7284,159,145,university ave,king st w - smart,FALSE
+7285,176,200,spadina ave,harbord st - smart,FALSE
+7286,213,191,gerrard st e,broadview - smart,FALSE
+7287,42,33,queen st e,pape ave - smart,FALSE
+7288,178,177,humber bay shores park west,,FALSE
+7289,213,196,humber bay shores park east,,FALSE
+7291,236,230,190 queens quay e,,FALSE
+7292,122,131,granby st,church st - smart,FALSE
+7293,171,170,college st,mccaul st,FALSE
+7296,132,128,westmoreland ave,fernbank ave,FALSE
+7297,76,73,havelock st,dufferin park,FALSE
+7298,259,283,bathurst st,adelaide st w,FALSE
+7299,196,184,mill st,parliament st,FALSE
+7301,19,26,primrose ave,davenport rd - smart,FALSE
+7302,61,75,winona dr,davenport rd,FALSE
+7303,40,21,queen st e,woodward ave,FALSE
+7309,89,89,queen st. e,rhodes ave.,FALSE
+7311,406,444,sherbourne st,isabella st,FALSE
+7312,125,137,amelia st.,sumach st.,FALSE
+7313,61,60,coxwell ave, lake shore blvd e,FALSE
+7314,52,64,queen st. e,eastern ave,FALSE
+7315,27,16,queen st e,hammersmith ave,FALSE
+7316,20,24,queen st. e,spruce hill rd.,FALSE
+7317,69,70,hubbard blvd,balsam av,FALSE
+7318,55,60,hubbard blvd.,glen manor dr.,FALSE
+7319,43,47,lake shore blvd e,knox ave,FALSE
+7320,183,121,front st w,university ave (1),FALSE
+7321,201,136,front st w,university ave (2),FALSE
+7322,86,81,king st w,brant st,FALSE
+7323,106,109,457 king st. w. at spadina,,FALSE
+7324,497,463,king st w,charlotte st (west),FALSE
+7326,47,53,davenport rd,lansdowne ave.,FALSE
+7327,46,50,davenport rd,oakwood rd - smart,FALSE
+7328,82,95,roxborough st w,yonge st,FALSE
+7329,148,130,crawford st,queen st w,FALSE
+7330,44,40,lee ave,queen st e,FALSE
+7331,11,17,coxwell ave,plains rd,FALSE
+7332,68,94,200 bloor st. e.,,FALSE
+7333,249,235,king st e,victoria st,FALSE
+7334,74,74,simcoe st,wellington st north,FALSE
+7335,92,120,bay st,bloor st w (west side),FALSE
+7336,50,48,queen st e,alton av,FALSE
+7337,203,178,gerrard square mall (1010 gerrard st e),,FALSE
+7338,74,74,logan ave,bain ave,FALSE
+7339,52,66,carlaw ave,strathcona ave,FALSE
+7340,48,56,blake st,boultbee ave,FALSE
+7341,32,28,eastern ave,winnifred ave,FALSE
+7342,97,93,morse st,eastern ave - smart,FALSE
+7343,76,73,alton ave,dundas st e (greenwood park),FALSE
+7344,220,215,cherry beach,,FALSE
+7345,53,62,cherry beach sports field (55 unwin ave),,FALSE
+7346,104,119,logan av,gerrard st e,FALSE
+7347,13,19,regal rd,dufferin st,FALSE
+7348,56,69,pape ave,gamble ave,FALSE
+7349,52,64,gamble ave,broadview ave,FALSE
+7350,87,100,broadview ave,westwood ave,FALSE
+7351,90,119,pretoria av,broadview av,FALSE
+7352,59,63,cosburn ave,donlands ave,FALSE
+7353,27,28,fulton ave,pape ave - smart,FALSE
+7354,262,269,tommy thompson park (leslie street spit),,FALSE
+7355,63,72,beltline trail,chaplin cres.,FALSE
+7356,116,84,king st e,ontario st.,FALSE
+7357,479,429,lake shore blvd e,leslie st,FALSE
+7358,123,143,gailbraith rd,kingâ€™s college cr. (u of t),FALSE
+7359,33,34,rosedale park (20 schofield ave),,FALSE
+7360,54,70,concord av,dewson st,FALSE
+7361,51,72,hocken ave./vaughan rd.,,FALSE
+7362,247,271,st clair ave w,bathurst st.,FALSE
+7363,56,57,wells hill ave,st clair ave w,FALSE
+7364,25,21,queen st e,nursewood rd (neville park loop),FALSE
+7365,66,48,kew beach ave,kenilworth ave,FALSE
+7366,201,201,fort york blvd,bathurst st smart,FALSE
+7367,67,63,alma ave,gladstone ave smart,FALSE
+7368,119,112,lisgar st,dundas st smart,FALSE
+7369,88,92,dupont st,emerson ave smart,FALSE
+7371,5,13,eglinton ave w,henning ave smart,FALSE
+7372,223,206,king st w,portland st,FALSE
+7373,182,159,george st,king st e,FALSE
+7374,128,74,frederick st,the esplanade,FALSE
+7375,222,206,front st e,scott st,FALSE
+7376,31,26,frobisher ave,lascelles blvd,FALSE
+7377,40,42,balliol st,yonge st  smart,FALSE
+7378,54,51,yonge st,davisville ave,FALSE
+7379,94,109,lawton blvd,yonge st,FALSE
+7380,51,68,erskine ave,yonge st smart,FALSE
+7381,71,102,roehampton ave,yonge st,FALSE
+7382,324,307,simcoe st,adelaide st w,FALSE
+7383,310,283,12 harbour st,,FALSE
+7384,132,168,cumberland ave,bay st smart,FALSE
+7385,150,219,20 charles st e,,FALSE
+7386,130,146,d'arcy st. /mccaul st. smart,,FALSE
+7387,30,38,mortimer ave,carlaw ave smart,FALSE
+7388,149,159,broadview ave,danforth ave,FALSE
+7389,439,412,college park- gerrard entrance,,FALSE
+7391,191,190,yonge st,dundas sq,FALSE
+7392,11,12,woodbine subway green p smart,,FALSE
+7395,2,2,dentonia park,,FALSE
+7398,256,207,york st,harbour st,FALSE
+7399,476,426,lower jarvis,queens quay e,FALSE
+7400,53,53,polson pier,,FALSE
+7402,153,143,wellington st w,bathurst st,FALSE
+7403,33,30,lascelles blvd,eglinton ave w - smart,FALSE
+7404,62,76,roehampton ave,mount pleasant rd,FALSE
+7406,428,365,victoria st,queen st e,FALSE
+7407,76,82,university ave,queen st w,FALSE
+7408,91,94,university ave,armoury st - smart,FALSE
+7409,337,365,isabella st,church st,FALSE
+7410,121,138,howard st,rose ave - smart,FALSE
+7411,310,320,little norway park,,FALSE
+7412,199,204,king st w,crawford st - smart,FALSE
+7413,30,37,dundas st w,watkinson ave - smart,FALSE
+7414,51,56,keele st,annette st - smart,FALSE
+7415,41,27,keele st,vine ave - smart,FALSE
+7416,109,130,spadina ave,blue jays way,FALSE
+7417,209,196,king st w,jordan st,FALSE
+7418,425,442,college park - yonge st entrance,,FALSE
+7419,176,198,bloor st w,huron st,FALSE
+7420,87,98,barton st,howland st - smart,FALSE
+7422,95,97,tyndall ave,king st w - smart,FALSE
+7423,43,66,merton st,al green ln - smart,FALSE
+7424,41,51,merton st,mount pleasant rd,FALSE
+7425,8,7,the queensway at south kingsway - smart,,FALSE
+7426,58,63,fleet st,garrison rd (fort york),FALSE
+7427,136,111,northern dancer blvd,lake shore blvd e,FALSE
+7428,73,71,woodbine ave,lake shore blvd e,FALSE
+7429,35,46,woodbine subway station - smart,,TRUE
+7430,231,250,marilyn bell park tennis court,,FALSE
+7431,60,58,gerrard st e,leslie st - smart,FALSE
+7432,213,180,frederick st,king st e,FALSE
+7433,86,102,dundas st e,boulton ave - smart,FALSE
+7434,11,13,via italia,mackay ave - smart,FALSE
+7435,229,250,rushton rd,st clair ave w - smart,FALSE
+7436,105,99,shaw st,dupont st,FALSE
+7437,164,164,concord ave,bloor st w - smart,FALSE
+7438,35,36,high park subway - smart,,FALSE
+7440,95,129,martin goodman trail,ontario dr,FALSE
+7441,72,90,pacific ave,glenlake ave - smart,FALSE
+7442,47,63,lonsdale rd,spadina rd,FALSE
+7443,98,89,dundas st e,george st,FALSE
+7444,34,28,clendenan ave,rowland st - smart,FALSE
+7445,87,81,eastwood rd,coxwell ave - smart,FALSE
+7446,35,33,orchard park,,FALSE
+7447,11,16,trent ave,danforth ave - smart,FALSE
+7448,9,14,goodwood park ct,dentonia park - smart,FALSE
+7449,42,36,cosburn ave,cedarvale ave - smart,FALSE
+7450,125,134,carlaw ave,danforth ave - smart,FALSE
+7451,117,86,western battery rd,pirandello st - smart,FALSE
+7452,221,253,bleecker st,st james ave,FALSE
+7453,252,319,jarvis st,maitland pl,FALSE
+7454,90,91,pottery rd,lower don river trail,FALSE
+7455,61,46,e.t. seton park (eglinton ave e,leslie st),FALSE
+7456,40,54,belmont st,davenport rd - smart,FALSE
+7457,152,150,queen's park cres w,hoskin ave,FALSE
+7458,285,255,church st,lombard st,FALSE
+7459,91,91,st clair ave w,winona ave - smart,FALSE
+7460,7,11,high park outdoor pool,,FALSE
+7461,54,59,high park amphitheatre,,FALSE
+7462,223,247,richmond st e,yonge st,FALSE
+7463,139,173,adelaide st w,brant st,FALSE
+7465,61,77,russell hill rd,st clair ave w,FALSE
+7466,70,67,glendonwynne ave,bloor st w - smart,FALSE
+7467,214,201,lower simcoe st,bremner blvd,FALSE
+7468,105,103,front st,simcoe st,FALSE
+7469,87,87,wellington st w,york st,FALSE
+7470,376,340,york st,lake shore blvd w,FALSE
+7471,15,8,lake shore blvd w,louisa st,FALSE
+7472,161,121,dundas st e,victoria st,FALSE
+7473,187,176,adelaide st w,strachan ave,FALSE
+7474,206,207,clarence square,,FALSE
+7475,152,168,jarvis st,richmond st e,FALSE
+7476,92,91,symington ave,dupont st - smart,FALSE
+7477,21,22,antler st,campbell ave - smart,FALSE
+7478,40,30,ellis ave,the queensway,FALSE
+7479,46,37,jane st,bloor st w (jane subway station),TRUE
+7480,54,58,neil mclellan park - smart,,FALSE
+7481,26,42,westmount ave,st clair ave w - smart,FALSE
+7482,35,43,danforth ave,sibley ave - smart,FALSE
+7483,31,43,southwood dr,kingston rd - smart,FALSE
+7484,13,9,briar hill ave,yonge st - smart,FALSE
+7485,25,19,blythwood rd,yonge st - smart,FALSE
+7486,17,12,gerrard st e,ted reeve dr,FALSE
+7487,71,64,eastwood rd,woodbine ave - smart,FALSE
+7488,39,39,summerhill ave,maclennan ave,FALSE
+7489,172,154,sumach st ,queen st e,FALSE
+7491,339,305,d'arcy st,spadina ave - smart,FALSE
+7492,160,163,324 cherry st - smart,,FALSE
+7493,29,30,sackville st,eastern ave - smart,FALSE
+7494,64,79,davenport rd,mcalpine st - smart,FALSE
+7496,78,90,sunnyside ave,the queensway - smart,FALSE
+7497,90,81,128 sterling ave - smart,,FALSE
+7501,6,6,humberside grounds - smart,,FALSE
+7502,348,346,university ave,college st (east),FALSE
+7503,7,8,gerrard st e,malvern ave - smart,FALSE
+7504,17,11,gerrard st e,victoria park ave - smart,FALSE
+7505,114,99,ontario st,adelaide st e -smart,FALSE
+7506,62,76,berkeley st,adelaide st e - smart,FALSE
+7508,181,165,berkeley st,dundas st e - smart,FALSE
+7509,83,62,ontario st,king st e,FALSE
+7510,36,41,princes gate,nunavut dr,FALSE
+7514,186,174,humber bay shores park,marine parade dr,FALSE
+7515,49,50,amos waites park,,FALSE
+7516,26,27,superior ave,lake shore blvd w,FALSE
+7517,33,27,ripley ave,ormskirk ave - smart,FALSE
+7518,124,111,lake shore blvd w,colborne lodge dr,FALSE
+7519,55,90,sheridan ave,dundas st w - smart,FALSE
+7520,43,42,st clarens ave,shirley ave - smart,FALSE
+7521,100,106,emerson ave,bloor st w - smart,FALSE
+7522,43,53,wallace ave,pauline ave - smart,FALSE
+7523,165,161,lynn williams st,east liberty st,FALSE
+7524,395,399,lisgar park,,FALSE
+7525,49,40,fennings st,queen st w - smart,FALSE
+7526,67,71,bartlett parkette,,FALSE
+7527,19,21,joseph j piccininni community centre,,FALSE
+7528,20,51,spadina rd,austin terrace - smart,FALSE
+7529,12,20,symington ave,davenport rd - smart,FALSE
+7530,89,99,sherbourne st n,elm ave - smart,FALSE
+7531,112,131,541 huron st - smart,,FALSE
+7533,235,226,housey st,dan leckie way - smart,FALSE
+7534,240,234,walnut ave,queen st w,FALSE
+7535,122,126,wolsley st,palmerston ave - smart,FALSE
+7536,164,203,palmerston ave,dundas st w - smart,FALSE
+7537,51,56,euclid ave,herrick st - smart,FALSE
+7538,23,23,vaughan rd /wychwood ave,,FALSE
+7539,24,22,davisville ave,pailton cres - smart,FALSE
+7540,52,68,alvin ave,st clair ave e - smart,FALSE
+7541,50,52,bellwoods ave,treford pl - smart,FALSE
+7542,407,383,queen st w,john st,FALSE
+7543,244,244,nassau st,bellevue ave,FALSE
+7544,144,175,foster pl,elizabeth st - smart,FALSE
+7545,206,223,baldwin st,henry st - smart,FALSE
+7546,76,98,ross st,cecil st - smart,FALSE
+7547,193,191,orde st,mccaul st - smart,FALSE
+7548,308,356,st joseph st,bay st - smart,FALSE
+7549,136,131,439 sherbourne st - smart,,FALSE
+7551,215,220,the esplanade,hahn pl - smart,FALSE
+7552,7,7,lake shore blvd w,thirty ninth street,FALSE
+7553,12,11,lake shore blvd w,twenty fourth st - smart,FALSE
+7554,32,32,humber college - smart,,FALSE
+7555,16,13,royal york rd,mimico ave,FALSE
+7556,17,14,windsor st,newcastle st,FALSE
+7557,28,31,the queensway,high st - smart,FALSE
+7558,29,25,berry rd,bell manor dr,FALSE
+7559,15,23,swansea community centre,,FALSE
+7560,8,15,glenwood ave,runnymede rd - smart,FALSE
+7561,75,74,annette st,jane st - smart,FALSE
+7562,30,34,priscilla  ave,dundas st w - smart,FALSE
+7563,21,19,st clair ave w,castleton ave - smart,FALSE
+7564,12,17,durie st,dundas st w - smart,FALSE
+7565,17,18,st clair ave w,gunns rd - smart,FALSE
+7566,31,22,weston rd,st clair ave w - smart,FALSE
+7567,14,16,weston lions park,,FALSE
+7568,69,60,jameson ave,queen st w,FALSE
+7569,197,205,toronto inukshuk park,,FALSE
+7570,174,153,carlaw ave,dundas st e,FALSE
+7571,63,63,highfield rd,gerrard st e,FALSE
+7572,5,8,cosburn ave,durant ave - smart,FALSE
+7573,13,13,torrens ave,broadview ave,FALSE
+7575,287,284,bayview ave,lawren harris square,FALSE
+7576,168,169,front st e,bayview avenue,FALSE
+7577,114,94,oak st,sumach st,FALSE
+7578,152,134,oak st,parliament st,FALSE
+7579,20,27,glebe rd w,yonge st - smart,FALSE
+7580,73,85,hillsdale ave w,yonge st - smart,FALSE
+7581,54,47,high park ave,dundas st w,FALSE
+7583,16,20,eglinton ave w,scarlett rd,FALSE
+7584,25,34,the pond rd,sentinel rd,FALSE
+7585,29,19,sentinel rd,finch hydro corridor,FALSE
+7586,9,11,finch west subway station,,TRUE
+7587,7,5,dufferin st,finch hydro recreational trail,FALSE
+7588,15,15,g ross lord park,,FALSE
+7589,9,11,torresdale ave,antibes dr,FALSE
+7590,18,19,esther shiner stadium,,FALSE
+7591,1,10,elwood blvd,avenue rd - smart,FALSE
+7593,20,18,roehampton st,bayview ave - smart,FALSE
+7594,51,57,fleming cres,bayview ave - smart,FALSE
+7595,42,49,moore park,,FALSE
+7596,54,71,langford ave,danforth ave - smart,FALSE
+7597,9,9,yonge st,golfdale rd - smart,FALSE
+7598,6,11,teddington park ave - smart,,FALSE
+7599,161,170,richmond st w,york st,FALSE
+7600,50,66,russell st,huron st - smart,FALSE
+7601,66,51,brick works,,FALSE
+7602,17,20,woodbine ave,o'connor dr - smart,FALSE
+7603,7,16,o'connor dr,curity ave,FALSE
+7604,9,17,st columba pl,st clair ave e - smart,FALSE
+7605,14,19,lumsden ave,eastdale ave - smart,FALSE
+7606,12,10,dawes rd,taylor creek trl,FALSE
+7607,15,20,fairmount park - smart,,FALSE
+7608,65,62,wilket creek park,,FALSE
+7609,11,22,sunnybrook park,,FALSE
+7610,26,24,kingston rd,beech ave - smart,FALSE
+7611,31,28,victoria park ave,danforth ave - smart,FALSE
+7612,8,6,livingston rd,guildwood pkwy,FALSE
+7613,2,2,livingston rd (highland creek trail),,FALSE
+7614,2,2,morningside park (highland creek trail),,FALSE
+7615,6,7,colonel danforth park,,FALSE
+7616,28,32,waterfront trail (rouge hill),,FALSE
+7618,33,44,vaughan rd,oakwood ave - smart,FALSE
+7619,10,11,braemar ave,eglinton ave w -smart,FALSE
+7620,51,49,eglinton ave e,redpath ave,FALSE
+7621,5,6,long branch go station,,TRUE
+7622,17,17,marie curtis park,,FALSE
+7623,37,32,royal york rd,lake shore blvd w,FALSE
+7624,2,4,guildwood go station (south),,TRUE
+7625,15,13,guildwood go station (north),,TRUE
+7626,11,10,rouge hill go station,,TRUE
+7627,118,117,shaw st,essex st,FALSE
+7629,32,37,lundy ave,etienne brule park,FALSE
+7630,19,20,twelfth st,thirteenth st,FALSE
+7631,7,2,florence gell park,,FALSE
+7632,31,43,chiltern hill rd,eglinton ave w - smart,FALSE
+7633,80,51,noble st,queen st w,FALSE
+7634,295,298,university ave,gerrard st w (west side),FALSE
+7635,50,49,runnymede rd,annette st - smart,FALSE
+7636,20,24,bloor st w,riverside ave,FALSE
+7637,9,10,judson st,royal york,FALSE
+7639,23,15,riverview gardens,,FALSE
+7640,43,49,spadina rd,st.clair ave west,FALSE
+7641,17,24,annette st,dundas w,FALSE
+7642,111,131,yonge st,st clair ave,FALSE
+7643,11,14,oriole pkwy,kilbarry rd,FALSE
+7644,29,36,east lynn ave,danforth ave,FALSE
+7646,105,123,university ave,richmond st w,FALSE
+7647,398,397,elm st/ university ave (east),,FALSE
+7648,88,91,rosedale station,,TRUE
+7649,31,27,greenwood subway station,,TRUE
+7650,37,33,st clair w subway - heath entrance,,FALSE
+7651,106,124,bloor st w,gladstone ave,FALSE
+7653,50,44,bloor st w,indian rd,FALSE
+7654,54,58,bloor st w,pacific ave,FALSE
+7655,59,78,danforth ave,dewhurst blvd,FALSE
+7656,100,113,bloor st w,brock ave,FALSE
+7657,168,188,1 market st,,FALSE
+7658,25,31,holland park ave,oakwood ave,FALSE
+7659,16,19,null,,FALSE
+7660,83,76,null,,FALSE
+7662,83,84,null,,FALSE
+7663,7,8,null,,FALSE
+7664,36,32,null,,FALSE
+7665,20,21,null,,FALSE
+7666,40,42,null,,FALSE
+7667,14,20,null,,FALSE

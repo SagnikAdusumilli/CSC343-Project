@@ -1,6 +1,7 @@
 library(dplyr)
 library(stringr)
 library(tidyr)
+library(readr)
 # investigate location data
 location_data <- read.csv('tmcs_locations.csv')
 # after column 10, they have type of vehicles that crosses the intersection
@@ -37,8 +38,11 @@ intersection_clean <- na.omit(intersection_clean)
 
 intersection_clean$street2 <- word(intersection_clean$street2,1,sep = " \\(PX.*")
 
+intersection_clean <- intersection_clean %>%
+  mutate(street1 = tolower(street1), street2 = tolower(street2))
+
 # store the intersection names in csv files
-write.csv(intersection_clean[, -1], "intersection_clean.csv")
+readr::write_csv(intersection_clean[, -1], "intersection_clean.csv")
 
 # add the traffic averages for each street
 traffic_avg_street1 <- intersection_clean %>%
@@ -59,5 +63,8 @@ street_traffic_avg <- street_traffic_avg %>% group_by(street) %>% summarise( cou
 
 unique(street_traffic_avg$street)
 
+street_traffic_avg <- street_traffic_avg %>%
+  mutate(street = tolower(street))
+
 #store avg traffic per street 
-write.csv(street_traffic_avg, "traffic_volume_by_streets.csv")
+readr::write_csv(street_traffic_avg, "traffic_volume_by_streets.csv")

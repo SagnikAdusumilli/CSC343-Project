@@ -1,6 +1,7 @@
 library(dplyr)
 library(stringr)
 library(tidyr)
+library(readr)
 # no postal code
 bikeshare_q1 <- read.csv("2021-01.csv")
 # no postal code here as well
@@ -53,7 +54,11 @@ station_data_clean <- station_data_clean %>%
 
 station_data_clean$street2 <- station_data_clean$street2 %>% replace_na("")
 
+station_data_clean <-
+  station_data_clean %>%
+  mutate(street1 = tolower(street1), street2 = tolower(street2))
 #save csv
-write.csv(station_data_clean, "bike_share_clean.csv")
+readr::write.csv(station_data_clean, "bike_share_clean.csv")
+
 
 
