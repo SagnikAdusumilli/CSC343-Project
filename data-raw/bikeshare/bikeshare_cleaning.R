@@ -51,3 +51,9 @@ station_data_clean$at_ttc <- ifelse(station_data_clean$station_name %in%
 station_data_clean <- station_data_clean %>%
   separate(station_name, c("street1", "street2"), " / ")
 
+station_data_clean$street2 <- station_data_clean$street2 %>% replace_na("")
+
+#save csv
+write.csv(station_data_clean, "bike_share_clean.csv")
+
+
