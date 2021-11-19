@@ -73,10 +73,11 @@ CREATE TABLE streets (
 	
 
  
- 
 
-\COPY bikeshops FROM 'bike_shop.csv' with csv header
+\COPY streets FROM 'streets.csv' with csv header
 
-\COPY parkingSpots FROM 'parking.csv' with csv header
+-- \COPY bikeshops FROM 'bike_shop.csv' with csv header
+
+-- \COPY parkingSpots FROM 'parking.csv' with csv header
 
 --\COPY redLightCamera FROM 'red lights camera.csv' with csv header
