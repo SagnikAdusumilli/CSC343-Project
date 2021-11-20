@@ -7,7 +7,7 @@ DROP DOMAIN IF EXISTS spottype CASCADE;
 CREATE DOMAIN spottype AS TEXT
 DEFAULT 'Unknown'
 CHECK (VALUE IN ('Bike Rack', 'Angled Bike Rack', 'Bike Corral',
-'Bike Shelter', 'Rack', 'Ring', 'Art Stand', 'Other', 'Shelter'));
+'Bike Shelter', 'Rack', 'Ring', 'Art Stand', 'Other', 'Shelter', 'Unknown'));
 
 --information about streets in toronto
 DROP TABLE IF EXISTS streets CASCADE;
@@ -65,7 +65,7 @@ CREATE TABLE ParkingSpots(
 	ID INTEGER not null,
 	stNumber INTEGER not null,
 	stName TEXT not null references Streets(stName),
-	spotType spottype not null,
+	type spottype not null,
 	capacity INTEGER not null,
 	PRIMARY KEY (ID));
 	
@@ -78,6 +78,6 @@ CREATE TABLE ParkingSpots(
 \COPY bikeshops FROM 'bike_shop.csv' with csv header;
 \COPY subwayStations FROM 'ttc_data_clean.csv' with csv header;
 \COPY bikeStation FROM 'bike_station_data.csv' with csv header;
--- \COPY parkingSpots FROM 'parking.csv' with csv header
+\COPY parkingSpots FROM 'parking.csv' with csv header;
 
 --\COPY redLightCamera FROM 'red lights camera.csv' with csv header
