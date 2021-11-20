@@ -1,4 +1,4 @@
-DROP SCHEME IF EXISTS bikeTO CASCADE;
+DROP SCHEMA IF EXISTS bikeTO CASCADE;
 CREATE SCHEMA bikeTO;
 SET SEARCH_PATH to bikeTO;
 
@@ -21,7 +21,7 @@ CREATE TABLE streets (
 	--check bikeStationCount <= (select count(*) from bikeStation),
 	--check subwayStationCount <= (select count(*) from subwayStations),
 	--check bikeShopCount <= (select count(*) from bikeshops)
-	PRIMARY KEY(stNAME))
+	PRIMARY KEY(stNAME));
 
 --intersections with redlight cameras	
 DROP TABLE IF EXISTS intersection CASCADE;	
@@ -46,7 +46,7 @@ CREATE TABLE subwayStations(
 	stName TEXT not null REFERENCES Streets(stNAme),
 	stNumber INTEGER not null,
 	hasRepairStand BOOLEAN not null,
-	hasBikeStation BOOLEAN not null check( sum(hasBikeStation::INTEGER) <= (select count(*) FROM bikeStation)),
+ --hasBikeStation BOOLEAN not null check( sum(hasBikeStation::INTEGER) <= (select count(*) FROM bikeStation)),
 	PRIMARY KEY (stationName)
 );
 
@@ -73,7 +73,7 @@ CREATE TABLE ParkingSpots(
 
  
 
-\COPY streets FROM 'streets.csv' with csv header
+\COPY streets FROM 'streets.csv' with csv header;
 
 -- \COPY bikeshops FROM 'bike_shop.csv' with csv header
 

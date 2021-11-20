@@ -59,4 +59,6 @@ bikeshop_match <-
 streets_with_bikeshops <- streets$stName %in% bikeshop_match$Var1
 streets[streets_with_bikeshops,]$bikeShopCount = bikeshop_match$Freq
 
-write.csv(streets, "streets.csv")
+write.csv(streets, "streets.csv", row.names = F)
+
+test <- read.csv("streets.csv")
