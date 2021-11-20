@@ -6,7 +6,7 @@
 "amsterdam ave",288.0625,2,0,0,0
 "ancona st",374.875,1,0,0,0
 "anderson ave",118.0625,1,0,0,0
-"annette st",1251.78125,3,2,0,1
+"annette st",1251.78125,3,2,0,0
 "antler st",28.84375,1,1,0,0
 "applefield dr s",339.34375,1,0,0,0
 "archer rd",29.3125,1,0,0,0
@@ -15,14 +15,14 @@
 "ashdale ave",75.5625,1,0,0,0
 "ashtonbee rd",273.875,1,0,0,0
 "atlas ave",73.34375,1,0,0,0
-"augusta ave",39.53125,1,2,0,1
+"augusta ave",39.53125,1,2,0,0
 "austin ter",200.78125,1,0,0,0
 "ava rd",163.1875,1,0,0,0
-"avenue rd",3933.5,5,9,0,1
+"avenue rd",3933.5,5,9,0,0
 "bartlett ave n",122.8125,1,0,0,0
-"bathurst st",4099.09375,6,11,1,2
+"bathurst st",4099.09375,6,11,1,0
 "bay st",2903.09375,4,1,1,0
-"bayview ave",1069.75,4,3,1,2
+"bayview ave",1069.75,4,3,1,0
 "beechborough ave",128.625,1,0,0,0
 "beecroft rd",229.5625,1,0,0,0
 "bellamy rd n",403.90625,1,0,0,0
@@ -46,7 +46,7 @@
 "blantyre ave",101,2,0,0,0
 "bloor st",5074.09375,12,19,0,0
 "bloor st e",2075.625,3,1,0,0
-"bloor st w",7315.125,16,2,0,12
+"bloor st w",7315.125,16,2,0,0
 "blossomfield dr",486.84375,1,0,0,0
 "bond ave",414.34375,1,0,0,0
 "bond st",309.1875,1,1,0,0
@@ -61,7 +61,7 @@
 "brimwood blvd",264.8125,2,0,0,0
 "bristol ave",109.71875,1,0,0,0
 "britannia ave",419.09375,1,0,0,0
-"broadview ave",2878.71875,7,2,1,1
+"broadview ave",2878.71875,7,2,1,0
 "broadway ave",444.75,1,0,0,0
 "brock ave",316.65625,1,1,0,0
 "brock ave e",298.78125,1,0,0,0
@@ -76,7 +76,7 @@
 "calvington dr",580.375,1,0,0,0
 "cameron ave",42.84375,1,0,0,0
 "camilla cres",298.59375,1,0,0,0
-"carlaw ave",69.28125,1,3,0,1
+"carlaw ave",69.28125,1,3,0,0
 "carlton st",733.96875,1,8,0,0
 "carroll st",219.59375,1,0,0,0
 "castle frank rd",686.75,1,0,1,0
@@ -104,7 +104,7 @@
 "clyde ave",357.25,1,0,0,0
 "colbeck st",318.8125,1,0,0,0
 "colborne lodge dr",442.4375,1,4,0,0
-"college st",2715.46875,5,11,1,3
+"college st",2715.46875,5,11,1,0
 "columbia gt",68.78125,1,0,0,0
 "comstock rd",460.25,1,0,0,0
 "concord ave",297.84375,1,10,0,0
@@ -123,9 +123,9 @@
 "d arcy st",214.65625,1,0,0,0
 "dan leckie way",1042.75,2,4,0,0
 "dane ave",555.1875,1,0,0,0
-"danforth ave",7710.40625,16,9,0,4
+"danforth ave",7710.40625,16,9,0,0
 "danforth rd",1472.3125,3,0,0,0
-"davenport rd",295.1875,1,13,0,1
+"davenport rd",295.1875,1,13,0,0
 "davisville ave",568.71875,1,2,1,0
 "dawes rd",650.71875,2,1,0,0
 "de grassi st",217.53125,1,0,0,0
@@ -139,21 +139,21 @@
 "dixon rd",975.625,1,0,0,0
 "doerr rd",26.0625,1,0,0,0
 "dohme ave",21.40625,1,0,0,0
-"don mills rd",683.3125,1,0,1,1
+"don mills rd",683.3125,1,0,1,0
 "don rdwy",379.3125,1,0,0,0
 "don valley parkway n ramp",257.78125,1,0,0,0
-"donlands ave",1039.46875,1,2,1,1
+"donlands ave",1039.46875,1,2,1,0
 "dorval rd",315.1875,1,0,0,0
 "dovehouse ave",68.9375,1,0,0,0
 "dovercourt rd",808.84375,1,1,0,0
-"dufferin st",6896.75,12,1,1,1
+"dufferin st",6896.75,12,1,1,0
 "dufflaw rd",455.3125,1,0,0,0
 "duncairn road",99.4375,1,0,0,0
 "dundas st",4923.90625,15,0,1,0
 "dundas st e",2977.3125,11,1,0,0
-"dundas st w",2643.0625,5,1,0,5
+"dundas st w",2643.0625,5,1,0,0
 "duplex ave",1518.0625,9,0,0,0
-"dupont st",1596.875,3,2,1,1
+"dupont st",1596.875,3,2,1,0
 "durant ave",55.71875,1,0,0,0
 "durie st",80.96875,1,4,0,0
 "duval dr",641.46875,1,0,0,0
@@ -197,13 +197,13 @@
 "frederick st",495.25,1,1,0,0
 "freeman st",91.53125,1,0,0,0
 "front st",2178.0625,6,1,0,0
-"front st e",1603.9375,3,2,0,1
+"front st e",1603.9375,3,2,0,0
 "fulton ave",69.28125,1,3,0,0
 "galloway rd",583.75,1,0,0,0
 "gardens cres",28.03125,1,0,0,0
 "gardiner expy ramp",555.5,1,0,0,0
 "gardiner expy w/b off-ramp",245.125,1,0,0,0
-"geary ave",1494.4375,5,0,0,1
+"geary ave",1494.4375,5,0,0,0
 "george henry blvd",47.6875,1,0,0,0
 "george st",633.1875,3,1,0,0
 "george st s",203.875,1,0,0,0
@@ -257,12 +257,12 @@
 "irving rd",261.71875,1,0,0,0
 "isabella st",340.3125,1,1,0,0
 "islington ave",1396.40625,3,0,1,0
-"jane st",1062.5,3,1,1,2
+"jane st",1062.5,3,1,1,0
 "janet blvd",530,1,0,0,0
 "janray dr s",12.75,1,0,0,0
 "jarvis st",423.53125,1,1,0,0
 "joanith dr",9.90625,1,0,0,0
-"john st",292.75,1,2,0,1
+"john st",292.75,1,2,0,0
 "jones ave",431.34375,1,0,0,0
 "keele st",5126.3125,9,2,1,0
 "keewatin ave",786.625,1,0,0,0
@@ -272,13 +272,13 @@
 "king georges dr",288.5625,1,0,0,0
 "king st",1173.15625,4,0,1,0
 "king st e",192.375,1,1,0,0
-"king st w",281.125,1,1,0,3
+"king st w",281.125,1,1,0,0
 "kingslake rd",83.15625,1,0,0,0
-"kingston rd",5840.125,10,1,0,1
+"kingston rd",5840.125,10,1,0,0
 "kipling ave",1117.5,1,0,0,0
 "knighton dr",60.65625,1,0,0,0
 "lake shore blvd",4172.3125,8,2,0,0
-"lake shore blvd w",383.9375,1,3,0,2
+"lake shore blvd w",383.9375,1,3,0,0
 "lambeth rd",467.9375,1,0,0,0
 "lankin blvd",53.71875,1,0,0,0
 "lansdowne ave",560.4375,1,1,1,0
@@ -287,7 +287,7 @@
 "laurelcrest ave",30.15625,1,0,0,0
 "lavinia ave",98.28125,1,0,0,0
 "lawrence ave",19706.59375,30,0,1,0
-"lawrence ave e",1160.125,4,0,0,1
+"lawrence ave e",1160.125,4,0,0,0
 "lawrence ave w",3440.46875,3,0,0,0
 "ledbury st",500.375,1,0,0,0
 "lee ave",407.09375,1,2,0,0
@@ -365,7 +365,7 @@
 "ontario st",1005.65625,5,2,0,0
 "orchard view blvd",203.0625,1,0,0,0
 "oriole pkwy",413.4375,1,1,0,0
-"ossington ave",819.1875,2,1,1,1
+"ossington ave",819.1875,2,1,1,0
 "overbrook pl",190.53125,1,0,0,0
 "overlea blvd",487.03125,1,0,0,0
 "pape ave",621.96875,1,2,1,0
@@ -373,7 +373,7 @@
 "parkland rd",55.34375,1,0,0,0
 "parkside dr",981.46875,2,1,0,0
 "parkview gnds",302.6875,1,0,0,0
-"parliament st",3913.96875,10,2,0,1
+"parliament st",3913.96875,10,2,0,0
 "paulson rd",253.71875,1,0,0,0
 "peel ave",278.6875,1,0,0,0
 "pembroke st",216.3125,1,0,0,0
@@ -390,8 +390,8 @@
 "quebec ave",242.25,1,0,0,0
 "queen st",1605.375,7,0,1,0
 "queen st ",605.53125,1,0,0,0
-"queen st e",847.78125,2,8,0,6
-"queen st w",1855.65625,3,5,0,4
+"queen st e",847.78125,2,8,0,0
+"queen st w",1855.65625,3,5,0,0
 "queens park cr e",426.28125,1,0,0,0
 "queens park cres w",312.78125,1,0,0,0
 "radine rd",107.15625,3,0,0,0
@@ -411,7 +411,7 @@
 "robert st",418.4375,1,5,0,0
 "roehampton ave",384.625,1,2,0,0
 "rogers rd",1098.46875,3,0,0,0
-"roncesvalles ave",776.75,2,9,0,2
+"roncesvalles ave",776.75,2,9,0,0
 "rosebank dr",148.1875,1,0,0,0
 "rosedale valley rd",556.875,1,0,0,0
 "rosehill ave",359.75,1,1,0,0
@@ -464,7 +464,7 @@
 "singer crt",136.53125,1,0,0,0
 "sloane ave",107.9375,1,0,0,0
 "somerset ave",51.65625,1,0,0,0
-"sorauren ave",457.78125,1,0,0,1
+"sorauren ave",457.78125,1,0,0,0
 "soudan ave",921.59375,4,0,0,0
 "south station st",357.21875,1,0,0,0
 "spadina ave",326.96875,1,1,1,0
@@ -474,7 +474,7 @@
 "spenvalley dr",86.09375,1,0,0,0
 "st clair ave",4250.46875,7,1,0,0
 "st clair ave e",393.375,1,0,0,0
-"st clair ave w",1129.3125,2,1,0,1
+"st clair ave w",1129.3125,2,1,0,0
 "st george st",273.34375,1,0,0,0
 "st georges rd",48.125,1,0,0,0
 "st helens ave",10.71875,1,0,0,0
@@ -494,7 +494,7 @@
 "the east mall",534,1,0,0,0
 "the esplanade",2798.21875,10,2,0,0
 "the queensway",803.6875,1,1,0,0
-"the west mall",166.6875,1,0,0,1
+"the west mall",166.6875,1,0,0,0
 "the westway",152.09375,1,0,0,0
 "the wynd",141.375,1,0,0,0
 "thermos rd",273.875,1,0,0,0
@@ -553,7 +553,7 @@
 "woodycrest ave",33.84375,1,0,0,0
 "wyndcliff cres",60.65625,1,0,0,0
 "yatescastle dr",86.09375,1,0,0,0
-"yonge st",8642.09375,19,1,0,5
+"yonge st",8642.09375,19,1,0,0
 "york st",555.5,1,1,0,0
 "yorkview dr",266.28125,1,0,0,0
 "yorkville ave",217.5625,1,1,0,0

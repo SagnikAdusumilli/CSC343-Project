@@ -53,6 +53,10 @@ streets[streets_with_subway,]$subwayStationCount = subway_match$Freq
 # bikeshop count
 streets$bikeShopCount <- 0
 bikeshop_data <- read.csv("bike_shop.csv")
+
+#remove bikeshops that are not in know streets
+bikeshop_data <- bikeshop_data[! bikeshop_data$stName %in% streets$stName,]
+
 bikeshop_match <-  
   as.data.frame(table(streets$stName[match(bikeshop_data$stName, streets$stName)]))
 
@@ -63,5 +67,7 @@ write.csv(streets, "streets.csv", row.names = F)
 
 #rename intersection clean data
 intersection_clean <- read.csv("intersection_clean.csv")
-intersection_clean <- intersection_clean %>% rename(stName1 = street1, stName2 = street2)
-write.csv(intersection_clean, "intersection_clean.csv", row.names = F)
+
+#write bike shops
+write.csv("bike_shop.csv", row.names = F)
+

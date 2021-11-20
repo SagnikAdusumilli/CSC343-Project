@@ -28,7 +28,7 @@ DROP TABLE IF EXISTS intersection CASCADE;
 CREATE TABLE intersection(
  stName1 TEXT not null references Streets(stName),
  stName2 TEXT not null references Streets(stName),
- trafficCountAvg INTEGER not null,
+ trafficCountAvg FLOAT not null,
  PRIMARY KEY(stName1, stName2));
 
 -- information about bikeshops in toronto
@@ -74,8 +74,8 @@ CREATE TABLE ParkingSpots(
  
 
 \COPY streets FROM 'streets.csv' with csv header;
-
--- \COPY bikeshops FROM 'bike_shop.csv' with csv header
+\COPY intersection FROM 'intersection_clean.csv' with csv header;
+\COPY bikeshops FROM 'bike_shop.csv' with csv header
 
 -- \COPY parkingSpots FROM 'parking.csv' with csv header
 
