@@ -1,70 +1,70 @@
-"","Station","Total","has_bike_station","has_repair_station"
-"1","bathurst",26903,TRUE,TRUE
-"2","bay",32060,FALSE,FALSE
-"3","bayview",8531,FALSE,TRUE
-"4","bessarion",2988,FALSE,FALSE
-"5","bloor-yonge",401091,FALSE,FALSE
-"6","broadview",34096,FALSE,TRUE
-"7","castle frank",8890,TRUE,TRUE
-"8","chester",5804,TRUE,TRUE
-"9","christie",12511,FALSE,FALSE
-"10","college",44373,FALSE,FALSE
-"11","coxwell",15484,FALSE,FALSE
-"12","davisville",25994,FALSE,TRUE
-"13","don mills",37045,FALSE,FALSE
-"14","donlands",11245,TRUE,TRUE
-"15","dufferin",28618,FALSE,FALSE
-"16","dundas",73563,FALSE,FALSE
-"17","dundas west",29353,FALSE,FALSE
-"18","dupont",8498,FALSE,TRUE
-"19","eglinton",68524,FALSE,FALSE
-"20","eglinton west",20728,FALSE,FALSE
-"21","ellesmere",1770,FALSE,FALSE
-"22","finch",92063,TRUE,TRUE
-"23","glencairn",6618,FALSE,FALSE
-"24","greenwood",11081,TRUE,TRUE
-"25","high park",12075,TRUE,FALSE
-"26","islington",39250,FALSE,FALSE
-"27","jane",20105,TRUE,TRUE
-"28","keele",16992,FALSE,TRUE
-"29","kennedy",103501,FALSE,TRUE
-"30","king",60495,FALSE,FALSE
-"31","kipling    ",49341,FALSE,FALSE
-"32","lansdowne",18996,TRUE,FALSE
-"33","lawrence",25832,FALSE,TRUE
-"34","lawrence east",7929,FALSE,FALSE
-"35","lawrence west",19742,FALSE,TRUE
-"36","leslie",5989,FALSE,TRUE
-"37","main street",23946,FALSE,TRUE
-"38","mccowan",3861,FALSE,FALSE
-"39","midland",2438,FALSE,FALSE
-"40","museum",11836,FALSE,FALSE
-"41","north york centre",25384,FALSE,FALSE
-"42","old mill",7752,FALSE,TRUE
-"43","osgoode",23669,FALSE,FALSE
-"44","ossington",30100,FALSE,TRUE
-"45","pape",27079,FALSE,TRUE
-"46","queen",48701,FALSE,FALSE
-"47","queen's park",46465,FALSE,FALSE
-"48","rosedale",7766,TRUE,TRUE
-"49","royal york",21803,FALSE,TRUE
-"50","runnymede",20111,FALSE,TRUE
-"51","scarborough ctr.",23053,FALSE,FALSE
-"52","sheppard-yonge",125461,FALSE,FALSE
-"53","sheppard west",41599,FALSE,TRUE
-"54","sherbourne",26586,FALSE,FALSE
-"55","spadina",44558,FALSE,TRUE
-"56","st. andrew",57477,FALSE,FALSE
-"57","st. clair",36623,FALSE,FALSE
-"58","st. clair west",27982,FALSE,FALSE
-"59","st. george",252104,FALSE,FALSE
-"60","st. patrick",34056,FALSE,FALSE
-"61","summerhill",5713,TRUE,FALSE
-"62","union",128655,TRUE,FALSE
-"63","victoria park",30783,TRUE,TRUE
-"64","warden",33142,FALSE,FALSE
-"65","wellesley",23513,FALSE,FALSE
-"66","wilson",26309,FALSE,FALSE
-"67","woodbine",14964,TRUE,FALSE
-"68","york mills",28455,FALSE,FALSE
-"69","yorkdale",21552,FALSE,FALSE
+"stationName","totalUsage","hasBikeStation","hasRepairStation"
+"bathurst",26903,TRUE,TRUE
+"bay",32060,FALSE,FALSE
+"bayview",8531,FALSE,TRUE
+"bessarion",2988,FALSE,FALSE
+"bloor-yonge",401091,FALSE,FALSE
+"broadview",34096,FALSE,TRUE
+"castle frank",8890,TRUE,TRUE
+"chester",5804,TRUE,TRUE
+"christie",12511,FALSE,FALSE
+"college",44373,FALSE,FALSE
+"coxwell",15484,FALSE,FALSE
+"davisville",25994,FALSE,TRUE
+"don mills",37045,FALSE,FALSE
+"donlands",11245,TRUE,TRUE
+"dufferin",28618,FALSE,FALSE
+"dundas",73563,FALSE,FALSE
+"dundas west",29353,FALSE,FALSE
+"dupont",8498,FALSE,TRUE
+"eglinton",68524,FALSE,FALSE
+"eglinton west",20728,FALSE,FALSE
+"ellesmere",1770,FALSE,FALSE
+"finch",92063,TRUE,TRUE
+"glencairn",6618,FALSE,FALSE
+"greenwood",11081,TRUE,TRUE
+"high park",12075,TRUE,FALSE
+"islington",39250,FALSE,FALSE
+"jane",20105,TRUE,TRUE
+"keele",16992,FALSE,TRUE
+"kennedy",103501,FALSE,TRUE
+"king",60495,FALSE,FALSE
+"kipling    ",49341,FALSE,FALSE
+"lansdowne",18996,TRUE,FALSE
+"lawrence",25832,FALSE,TRUE
+"lawrence east",7929,FALSE,FALSE
+"lawrence west",19742,FALSE,TRUE
+"leslie",5989,FALSE,TRUE
+"main street",23946,FALSE,TRUE
+"mccowan",3861,FALSE,FALSE
+"midland",2438,FALSE,FALSE
+"museum",11836,FALSE,FALSE
+"north york centre",25384,FALSE,FALSE
+"old mill",7752,FALSE,TRUE
+"osgoode",23669,FALSE,FALSE
+"ossington",30100,FALSE,TRUE
+"pape",27079,FALSE,TRUE
+"queen",48701,FALSE,FALSE
+"queen's park",46465,FALSE,FALSE
+"rosedale",7766,TRUE,TRUE
+"royal york",21803,FALSE,TRUE
+"runnymede",20111,FALSE,TRUE
+"scarborough ctr.",23053,FALSE,FALSE
+"sheppard-yonge",125461,FALSE,FALSE
+"sheppard west",41599,FALSE,TRUE
+"sherbourne",26586,FALSE,FALSE
+"spadina",44558,FALSE,TRUE
+"st. andrew",57477,FALSE,FALSE
+"st. clair",36623,FALSE,FALSE
+"st. clair west",27982,FALSE,FALSE
+"st. george",252104,FALSE,FALSE
+"st. patrick",34056,FALSE,FALSE
+"summerhill",5713,TRUE,FALSE
+"union",128655,TRUE,FALSE
+"victoria park",30783,TRUE,TRUE
+"warden",33142,FALSE,FALSE
+"wellesley",23513,FALSE,FALSE
+"wilson",26309,FALSE,FALSE
+"woodbine",14964,TRUE,FALSE
+"york mills",28455,FALSE,FALSE
+"yorkdale",21552,FALSE,FALSE

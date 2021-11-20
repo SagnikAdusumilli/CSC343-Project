@@ -43,8 +43,8 @@ PRIMARY KEY ( stName, stNumber));
 DROP TABLE IF EXISTS subwayStations CASCADE;
 CREATE TABLE subwayStations(
 	stationName TEXT not null,
-	stName TEXT not null REFERENCES Streets(stNAme),
-	stNumber INTEGER not null,
+	totalUsage INTEGER not null,
+	hasBikeStation, BOOLEAN not null,
 	hasRepairStand BOOLEAN not null,
  --hasBikeStation BOOLEAN not null check( sum(hasBikeStation::INTEGER) <= (select count(*) FROM bikeStation)),
 	PRIMARY KEY (stationName)

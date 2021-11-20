@@ -71,3 +71,12 @@ intersection_clean <- read.csv("intersection_clean.csv")
 #write bike shops
 write.csv( bikeshop_data, "bike_shop.csv", row.names = F)
 
+#fix subway station data
+subway_station_data <- subway_station_data %>% select(-X) %>%
+  rename(stationName = Station,
+        totalUsage = Total,
+        hasBikeStation = has_bike_station,
+        hasRepairStation = has_repair_station)
+
+write.csv(subway_station_data, "ttc_data_clean.csv", row.names = F)
+
