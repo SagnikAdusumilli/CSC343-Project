@@ -55,7 +55,7 @@ streets$bikeShopCount <- 0
 bikeshop_data <- read.csv("bike_shop.csv")
 
 #remove bikeshops that are not in know streets
-bikeshop_data <- bikeshop_data[! bikeshop_data$stName %in% streets$stName,]
+bikeshop_data <- bikeshop_data[bikeshop_data$stName %in% streets$stName,]
 
 bikeshop_match <-  
   as.data.frame(table(streets$stName[match(bikeshop_data$stName, streets$stName)]))
