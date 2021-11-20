@@ -61,4 +61,5 @@ streets[streets_with_bikeshops,]$bikeShopCount = bikeshop_match$Freq
 
 write.csv(streets, "streets.csv", row.names = F)
 
-test <- read.csv("streets.csv")
+#rename intersection clean data
+intersection_clean <- read.csv("intersection_clean.csv")

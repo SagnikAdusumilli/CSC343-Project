@@ -54,7 +54,7 @@ intersection_clean$street2 = trimws(intersection_clean$street2, which = c("left"
 
 
 # store the intersection names in csv files
-readr::write_csv(intersection_clean[, -1], "intersection_clean.csv")
+readr::write_csv(intersection_clean, "../../data-clean/intersection_clean.csv")
 
 # add the traffic averages for each street
 traffic_avg_street1 <- intersection_clean %>%
