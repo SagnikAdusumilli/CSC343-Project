@@ -80,3 +80,10 @@ subway_station_data <- subway_station_data %>% select(-X) %>%
 
 write.csv(subway_station_data, "ttc_data_clean.csv", row.names = F)
 
+#fix bikestation data
+bike_station_data <- bike_station_data %>%
+  select(station_id, checkin_total, checkout_total) %>%
+  rename(id = station_id, checkinAvg = checkin_total, checkoutAvg = checkout_total)
+
+write.csv(bike_station_data, "bike_station_data.csv", row.names = F)
+
