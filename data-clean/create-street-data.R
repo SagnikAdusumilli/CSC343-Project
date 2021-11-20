@@ -71,14 +71,14 @@ intersection_clean <- read.csv("intersection_clean.csv")
 #write bike shops
 write.csv( bikeshop_data, "bike_shop.csv", row.names = F)
 
-#fix subway station data
-subway_station_data <- subway_station_data %>% select(-X) %>%
-  rename(stationName = Station,
-        totalUsage = Total,
-        hasBikeStation = has_bike_station,
-        hasRepairStation = has_repair_station)
-
-write.csv(subway_station_data, "ttc_data_clean.csv", row.names = F)
+# #fix subway station data
+# subway_station_data <- subway_station_data %>%
+#   rename(stationName = Station,
+#         totalUsage = Total,
+#         hasBikeStation = has_bike_station,
+#         hasRepairStation = has_repair_station)
+# 
+# write.csv(subway_station_data, "ttc_data_clean.csv", row.names = F)
 
 #fix bikestation data
 bike_station_data <- bike_station_data %>%
@@ -87,3 +87,7 @@ bike_station_data <- bike_station_data %>%
 
 write.csv(bike_station_data, "bike_station_data.csv", row.names = F)
 
+# fix parking data
+bike_parking_data <- read.csv("parking.csv")
+bike_parking_data <- bike_parking_data[bike_parking_data$stName %in% streets$stName,]
+write.csv(bike_parking_data, "parking.csv", row.names = F)
