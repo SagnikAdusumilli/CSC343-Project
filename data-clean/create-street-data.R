@@ -63,3 +63,5 @@ write.csv(streets, "streets.csv", row.names = F)
 
 #rename intersection clean data
 intersection_clean <- read.csv("intersection_clean.csv")
+intersection_clean <- intersection_clean %>% rename(stName1 = street1, stName2 = street2)
+write.csv(intersection_clean, "intersection_clean.csv", row.names = F)
