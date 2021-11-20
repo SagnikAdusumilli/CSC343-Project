@@ -69,5 +69,5 @@ write.csv(streets, "streets.csv", row.names = F)
 intersection_clean <- read.csv("intersection_clean.csv")
 
 #write bike shops
-write.csv("bike_shop.csv", row.names = F)
+write.csv( bikeshop_data, "bike_shop.csv", row.names = F)
 
