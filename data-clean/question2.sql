@@ -4,7 +4,7 @@ DROP VIEW IF EXISTS spotsperstreet CASCADE;
 CREATE VIEW spotsperstreet AS (
 SELECT count(*) as numspots, stNAME
 FROM ParkingSpots
-GROUPBY stName);
+GROUP BY stName);
 
 
 -- spots and traffic light on each street 

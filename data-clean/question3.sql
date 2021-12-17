@@ -12,7 +12,7 @@ from streets);
 
 DROP VIEW IF EXISTS Bshopcount CASCADE;
 CREATE VIEW Bshopcount AS(
-SELECT stNAME, bikestationcount, rank() OVER (PARTITION BY stNAME ORDER BY BikeShopcount, DESC)
+SELECT stNAME, bikestationcount, rank() OVER (PARTITION BY stNAME ORDER BY BikeShopcount DESC)
 from streets);
 
 DROP VIEW IF EXISTS spotsperstreet CASCADE;
@@ -23,7 +23,7 @@ GROUPBY stName);
 
 DROP VIEW IF EXISTS spotscount CASCADE;
 CREATE VIEW spotscount AS(
-SELECT stNAME, numspots, rank() OVER (PARTITION BY stNAME ORDER BY numspots, DESC)
+SELECT stNAME, numspots, rank() OVER (PARTITION BY stNAME ORDER BY numspots DESC)
 from streets, spotsperstreet
 WHERE streets.stName = spotsperstreet.stName);
 

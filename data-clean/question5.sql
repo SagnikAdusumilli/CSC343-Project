@@ -6,14 +6,14 @@ from streets, intersection
 WHERE intersection.stName1 = streets.stName
 AND bikestationcount > 0);
 
-DROP VIEW IF EXISTS stationsst2 CASCADE
+DROP VIEW IF EXISTS stationsst2 CASCADE;
 CREATE view stationsst2 AS(
 SELECT stName, bikestationcount as countst2
 from streets, intersection
 WHERE intersection.stName2 = streets.stName
 AND bikestationcount > 0);
-
-DROP VIEW IF EXISTS nostations CASCADE
+;
+DROP VIEW IF EXISTS nostations CASCADE;
 CReate view nostations AS(
 SELECT stName1, stName2, trafficCountAvg
 FROM intersection, stationsst2, stationsst1
@@ -21,7 +21,7 @@ WHERE stationsst1.stName = stName1 AND
 stations-st2.stName = stName2);
 
 --q6 is the traffic count avg higher for these intersections
-DROP VIEW IF EXISTS havestations CASCADE
+DROP VIEW IF EXISTS havestations CASCADE;
 create view havestations As(
 (SELECT *
 FROM intersection)
