@@ -2,7 +2,7 @@
 
 DROP VIEW IF EXISTS trcount CASCADE;
 CREATE VIEW trcount AS(
-SELECT stNAME, trafficlightcount, rank() OVER ( ORDER BY trafficlightcount) 
+SELECT stNAME, rank() OVER ( ORDER BY trafficlightcount) 
 from streets);
 
 DROP VIEW IF EXISTS Bstationcount CASCADE;

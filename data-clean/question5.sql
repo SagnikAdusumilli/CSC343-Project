@@ -20,7 +20,7 @@ FROM intersection, stationsst2, stationsst1
 WHERE stationsst1.stName = stName1 AND
 stationsst2.stName = stName2);
 
-SELECT distinct(stName1, stName2), 
+SELECT distinct(stName1, stName2)
 FROM nostations;
 
 SELECT count( distinct(stName1, stName2))
