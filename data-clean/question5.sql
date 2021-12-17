@@ -23,7 +23,7 @@ stationsst2.stName = stName2);
 SELECT distinct(stName1, stName2), 
 FROM nostations;
 
-SELECT count( distinct(stName1, stName2)), 
+SELECT count( distinct(stName1, stName2))
 FROM nostations;
 
 --q6 is the traffic count avg higher for these intersections

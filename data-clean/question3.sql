@@ -2,17 +2,17 @@
 
 DROP VIEW IF EXISTS trcount CASCADE;
 CREATE VIEW trcount AS(
-SELECT stNAME, trafficlightcount, rank() OVER (PARTITION BY stNAME ORDER BY trafficlightcount) 
+SELECT stNAME, trafficlightcount, rank() OVER ( ORDER BY trafficlightcount) 
 from streets);
 
 DROP VIEW IF EXISTS Bstationcount CASCADE;
 CREATE VIEW Bstationcount AS(
-SELECT stNAME, bikestationcount, rank() OVER (PARTITION BY stNAME ORDER BY BikeStationCount DESC)
+SELECT stNAME, bikestationcount, rank() OVER ( ORDER BY BikeStationCount DESC)
 from streets);
 
 DROP VIEW IF EXISTS Bshopcount CASCADE;
 CREATE VIEW Bshopcount AS(
-SELECT stNAME, bikestationcount, rank() OVER (PARTITION BY stNAME ORDER BY BikeShopcount DESC)
+SELECT stNAME, bikestationcount, rank() OVER ( ORDER BY BikeShopcount DESC)
 from streets);
 
 DROP VIEW IF EXISTS spotsperstreet CASCADE;
@@ -23,7 +23,7 @@ GROUP BY stName);
 
 DROP VIEW IF EXISTS spotscount CASCADE;
 CREATE VIEW spotscount AS(
-SELECT streets.stNAME, numspots, rank() OVER (PARTITION BY streets.stNAME ORDER BY numspots DESC)
+SELECT streets.stNAME, numspots, rank() OVER ( ORDER BY numspots DESC)
 from streets, spotsperstreet
 WHERE streets.stName = spotsperstreet.stName);
 
