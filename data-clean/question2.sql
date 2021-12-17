@@ -33,7 +33,7 @@ DROP VIEW IF EXISTS stnameSpottype CASCADE;
 create VIEW stnameSpottype AS(
 SELECT stName, type as spotType, county(type) as typecount
 FROM ParkingSpots
-GROUP BY stName, spotType)
+GROUP BY stName, spotType);
 
 DROP VIEW IF EXISTS spottypetraffic CASCADE;
 create view spotypetraffic AS(

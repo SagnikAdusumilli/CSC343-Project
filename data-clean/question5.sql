@@ -18,7 +18,7 @@ CReate view nostations AS(
 SELECT stName1, stName2, trafficCountAvg
 FROM intersection, stationsst2, stationsst1
 WHERE stationsst1.stName = stName1 AND
-stations-st2.stName = stName2);
+stationsst2.stName = stName2);
 
 --q6 is the traffic count avg higher for these intersections
 DROP VIEW IF EXISTS havestations CASCADE;

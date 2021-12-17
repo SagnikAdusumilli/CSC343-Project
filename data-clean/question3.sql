@@ -19,7 +19,7 @@ DROP VIEW IF EXISTS spotsperstreet CASCADE;
 CREATE VIEW spotsperstreet AS (
 SELECT count(*) as numspots, stNAME
 FROM ParkingSPOTS
-GROUPBY stName);
+GROUP BY stName);
 
 DROP VIEW IF EXISTS spotscount CASCADE;
 CREATE VIEW spotscount AS(
