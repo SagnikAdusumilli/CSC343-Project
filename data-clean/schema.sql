@@ -14,7 +14,7 @@ DROP TABLE IF EXISTS streets CASCADE;
 CREATE TABLE streets (
 	stName TEXT not null,
 	trafficCountAvg FLOAT not null,
-	trafficlighcount INTEGER not null,
+	trafficlightcount INTEGER not null,
 	bikeStationCount INTEGER not null,
 	subwayStationCount INTEGER not null,
 	bikeShopCount INTEGER not null,

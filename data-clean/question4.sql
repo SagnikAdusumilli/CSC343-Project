@@ -7,5 +7,5 @@ ORDER BY avgusage DESC;
 
 SELECT avg(totalUsage) as avgusage, hasRepairStand
 FROM subwaystations
-GROUP BY hasRepairStand
+GROUP BY hasRepairStand\
 ORDER BY avgusage DESC;
