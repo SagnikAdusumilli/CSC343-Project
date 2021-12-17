@@ -23,7 +23,7 @@ GROUP BY stName);
 
 DROP VIEW IF EXISTS spotscount CASCADE;
 CREATE VIEW spotscount AS(
-SELECT stNAME, numspots, rank() OVER (PARTITION BY stNAME ORDER BY numspots DESC)
+SELECT streets.stNAME, numspots, rank() OVER (PARTITION BY streets.stNAME ORDER BY numspots DESC)
 from streets, spotsperstreet
 WHERE streets.stName = spotsperstreet.stName);
 

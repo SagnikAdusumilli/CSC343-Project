@@ -31,7 +31,7 @@ WHERE spotsTL.stName = streets.stName);
 -- do streets with a higher count of a certain type of parking spot have lower traffic
 DROP VIEW IF EXISTS stnameSpottype CASCADE;
 create VIEW stnameSpottype AS(
-SELECT stName, type as spotType, county(type) as typecount
+SELECT stName, type as spotType, count(type) as typecount
 FROM ParkingSpots
 GROUP BY stName, spotType);
 

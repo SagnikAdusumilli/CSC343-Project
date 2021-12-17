@@ -1,4 +1,4 @@
---q 5 any intersections that don't have bike stations on either streets
+--q 5 which intersections that don't have bike stations on either streets
 DROP VIEW IF EXISTS stationsst1 CASCADE;
 CREATE view stationsst1 AS(
 SELECT stName, bikestationcount as countst1
@@ -19,6 +19,9 @@ SELECT stName1, stName2, trafficCountAvg
 FROM intersection, stationsst2, stationsst1
 WHERE stationsst1.stName = stName1 AND
 stationsst2.stName = stName2);
+
+SELECT stName1, stName2
+FROM nostations;
 
 --q6 is the traffic count avg higher for these intersections
 DROP VIEW IF EXISTS havestations CASCADE;
