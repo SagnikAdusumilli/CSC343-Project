@@ -36,7 +36,7 @@ FROM ParkingSpots
 GROUP BY stName, spotType);
 
 DROP VIEW IF EXISTS spottypetraffic CASCADE;
-create view spotypetraffic AS(
+create view spottypetraffic AS(
 SELECT trafficCountAvg, spotType, typecount
 FROM stnameSpottype, streets
 WHERE streets.stName = stnameSpottype.stName);

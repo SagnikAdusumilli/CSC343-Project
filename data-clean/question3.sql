@@ -28,7 +28,7 @@ from streets, spotsperstreet
 WHERE streets.stName = spotsperstreet.stName);
 
 
-SELECT stName, AVG(trcount.rank + Bstationcount.rank + Bshopcount.rank + spotscount.rank) as avgscore
+SELECT trcount.stName, AVG(trcount.rank + Bstationcount.rank + Bshopcount.rank + spotscount.rank) as avgscore
 FROM trcount, Bstationcount, bshopcount, spotscount
 WHERE trcount.stNAME = Bstationcount.stName AND
 Bstationcount.stName = Bshopcount.stName AND
