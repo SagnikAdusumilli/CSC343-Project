@@ -33,4 +33,5 @@ FROM trcount, Bstationcount, bshopcount, spotscount
 WHERE trcount.stNAME = Bstationcount.stName AND
 Bstationcount.stName = Bshopcount.stName AND
 Bshopcount.stName = spotscount.stName
+GROUP BY trcount.stNAME
 ORDER BY avgscore DESC;
