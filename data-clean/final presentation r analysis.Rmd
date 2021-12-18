@@ -8,7 +8,6 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
 ```{r}
-plot(cars)
 ```
 
 ```{r}
@@ -25,16 +24,22 @@ sharespotstypetraffic <- read_csv("spottypetraffic.csv")
 ```
 
 ```{r}
- ggplot(aes(x= numspots, y = trafficlightcount), data = spotstl) + geom_point() + geom_smooth(method = "lm")
+ ggplot(aes(y= numspots, x= trafficlightcount), data = spotstl) + geom_point() + geom_smooth(method = "lm")
 ```
 
 ```{r}
-sharespotstypetraffic %>% ggplot(aes(x = typecount, y = trafficcountavg)) + geom_point() + geom_smooth(method = "lm") + facet_wrap(~spottype)
+sharespotstypetraffic %>% ggplot(aes(y = typecount, x = trafficcountavg)) + geom_point() + geom_smooth(method = "lm") + facet_wrap(~spottype)
 
 ```
 
 
 ```{r}
+sharespotstlmodel <-  lm(numspots~bikestationcount*trafficlightcount, data = sharespotstl)
 
+anova(sharespotstlmodel)
+```
+
+```{r}
+sharespotstlmodel$coefficients
 ```
 
