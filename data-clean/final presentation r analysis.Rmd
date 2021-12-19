@@ -24,17 +24,35 @@ sharespotstypetraffic <- read_csv("spottypetraffic.csv")
 ```
 
 ```{r}
- ggplot(aes(y= numspots, x= trafficlightcount), data = spotstl) + geom_point() + geom_smooth(method = "lm")
+ ggplot(aes(y= numspots, x= trafficlightcount), data = spotstl) + geom_point() + geom_smooth(method = "lm") + ggtitle("Bike Parking Spots Vs. Number of Traffic Lights")
+ggsave("bs vs tl.jpg")
 ```
 
 ```{r}
-sharespotstypetraffic %>% ggplot(aes(y = typecount, x = trafficcountavg)) + geom_point() + geom_smooth(method = "lm") + facet_wrap(~spottype)
+ggplot(aes(y= bikestationcount, x= trafficlightcount), data = sharespotstl) + geom_point() + geom_smooth(method = "lm") + ggtitle("Bike Station NumberVs. Number of Traffic Lights") 
+ggsave("station count vs tl.jpg")
+```
+
+
+```{r}
+bstfmodel <- lm(bikestationcount ~ trafficlightcount, data = sharespotstl)
+anova(bstfmodel)
+```
+
+
+```{r}
+sharespotstypetraffic %>% ggplot(aes(y = typecount, x = trafficcountavg)) + geom_point() + geom_smooth(method = "lm") + facet_wrap(~spottype) + ggtitle("Spot Count vs Traffic Light Count by Type of Bike Spot")
+ggsave("split.jpg")
+```
+
+
+```{r}
 
 ```
 
 
 ```{r}
-sharespotstlmodel <-  lm(numspots~bikestationcount*trafficlightcount, data = sharespotstl)
+sharespotstlmodel <-  lm(numspots~bikestationcount +trafficlightcount, data = sharespotstl)
 
 anova(sharespotstlmodel)
 ```
