@@ -13,6 +13,7 @@ from streets, intersection
 WHERE intersection.stName2 = streets.stName
 AND bikestationcount > 0);
 ;
+\i schema.sql;
 DROP VIEW IF EXISTS nostations CASCADE;
 CReate view nostations AS(
 SELECT stName1, stName2, trafficCountAvg

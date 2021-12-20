@@ -1,3 +1,7 @@
+-- we removed the relatio of bikestations. The reason we removed it
+-- is because the nature of the data which we collected makes it 
+-- difficult to interact with the other relations in our schema
+
 DROP SCHEMA IF EXISTS bikeTO CASCADE;
 CREATE SCHEMA bikeTO;
 SET SEARCH_PATH to bikeTO;
@@ -49,14 +53,6 @@ CREATE TABLE subwayStations(
  --hasBikeStation BOOLEAN not null check( sum(hasBikeStation::INTEGER) <= (select count(*) FROM bikeStation)),
 	PRIMARY KEY (stationName)
 );
-
---information about bikeTO, bike share, stations in toronto
-DROP TABLE IF EXISTS bikeStation CASCADE;
-CREATE TABLE bikeStation (
-	id INTEGER not null,
-	checkinAvg FLOAT not null,
-	checkoutAvg FLOAT not null,
-	PRIMARY KEY (id));
 
 
 --information about different bike parking spots in toronto. 

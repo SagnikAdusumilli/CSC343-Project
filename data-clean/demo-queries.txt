@@ -1,0 +1,87 @@
+
+csc343h-nauenbe2=> \i schema.sql;
+psql:schema.sql:1: NOTICE:  drop cascades to 7 other objects
+DETAIL:  drop cascades to type biketo.spottype
+drop cascades to table biketo.streets
+drop cascades to table biketo.intersection
+drop cascades to table biketo.bikeshops
+drop cascades to table biketo.subwaystations
+drop cascades to table biketo.bikestation
+drop cascades to table biketo.parkingspots
+DROP SCHEMA
+CREATE SCHEMA
+SET
+psql:schema.sql:6: NOTICE:  type "spottype" does not exist, skipping
+DROP DOMAIN
+CREATE DOMAIN
+psql:schema.sql:13: NOTICE:  table "streets" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.sql:27: NOTICE:  table "intersection" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.sql:35: NOTICE:  table "bikeshops" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.sql:43: NOTICE:  table "subwaystations" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.sql:54: NOTICE:  table "bikestation" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.sql:63: NOTICE:  table "parkingspots" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+COPY 558
+COPY 527
+COPY 72
+COPY 69
+COPY 607
+COPY 23008
+csc343h-nauenbe2=>
+csc343h-nauenbe2=>
+csc343h-nauenbe2=> select count(*)
+csc343h-nauenbe2-> FRom parkingSpots
+csc343h-nauenbe2-> Where type = 'Unknown';
+ count
+-------
+   338
+(1 row)
+
+csc343h-nauenbe2=>
+csc343h-nauenbe2=> select sum(bikeStationCount)
+csc343h-nauenbe2-> from streets
+csc343h-nauenbe2-> where bikeShopCount > 0;
+ sum
+-----
+ 110
+(1 row)
+
+csc343h-nauenbe2=>
+csc343h-nauenbe2=> select totalUsage
+csc343h-nauenbe2-> from subwayStations
+csc343h-nauenbe2-> WHERE totalUsage > 40000
+csc343h-nauenbe2-> ORDER By totalUsage DESC;
+ totalusage
+------------
+     401091
+     252104
+     128655
+     125461
+     103501
+      92063
+      73563
+      68524
+      60495
+      57477
+      49341
+      48701
+      46465
+      44558
+      44373
+      41599
+(16 rows)
+
+csc343h-nauenbe2=>
+
+

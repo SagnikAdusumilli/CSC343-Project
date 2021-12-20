@@ -1,5 +1,5 @@
 --QUESTION 3
-
+\i schema.sql;
 DROP VIEW IF EXISTS trcount CASCADE;
 CREATE VIEW trcount AS(
 SELECT stNAME, rank() OVER ( ORDER BY trafficlightcount) 
