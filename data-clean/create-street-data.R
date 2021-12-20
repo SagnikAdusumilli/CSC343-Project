@@ -92,3 +92,5 @@ bike_parking_data <- read.csv("parking.csv")
 bike_parking_data <- bike_parking_data[bike_parking_data$stName %in% streets$stName,]
 bike_parking_data[bike_parking_data == ""] <- "Unknown"
 write.csv(bike_parking_data, "parking.csv", row.names = F)
+
+write.csv(streets[100,], "demo.csv")

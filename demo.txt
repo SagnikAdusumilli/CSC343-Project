@@ -1,0 +1,217 @@
+-- load data output
+DETAIL:  drop cascades to table streets
+drop cascades to table bikeshops
+drop cascades to table bikestation
+drop cascades to table intersection
+drop cascades to table subwaystations
+drop cascades to type spottype
+drop cascades to table parkingspots
+DROP SCHEMA
+CREATE SCHEMA
+SET
+psql:schema.sql:6: NOTICE:  type "spottype" does not exist, skipping
+DROP DOMAIN
+CREATE DOMAIN
+psql:schema.sql:13: NOTICE:  table "streets" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.sql:27: NOTICE:  table "intersection" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.sql:35: NOTICE:  table "bikeshops" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.sql:43: NOTICE:  table "subwaystations" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.sql:54: NOTICE:  table "bikestation" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.sql:63: NOTICE:  table "parkingspots" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+COPY 558
+COPY 527
+COPY 72
+COPY 69
+COPY 607
+COPY 23008
+
+-- display table types
+-- \d streets
+                         Table "biketo.streets"
+       Column       |       Type       | Collation | Nullable | Default
+--------------------+------------------+-----------+----------+---------
+ stname             | text             |           | not null |
+ trafficcountavg    | double precision |           | not null |
+ trafficlighcount   | integer          |           | not null |
+ bikestationcount   | integer          |           | not null |
+ subwaystationcount | integer          |           | not null |
+ bikeshopcount      | integer          |           | not null |
+Indexes:
+    "streets_pkey" PRIMARY KEY, btree (stname)
+Referenced by:
+    TABLE "bikeshops" CONSTRAINT "bikeshops_stname_fkey" FOREIGN KEY (stname) REFERENCES streets(stname)
+    TABLE "intersection" CONSTRAINT "intersection_stname1_fkey" FOREIGN KEY (stname1) REFERENCES streets(stname)
+    TABLE "intersection" CONSTRAINT "intersection_stname2_fkey" FOREIGN KEY (stname2) REFERENCES streets(stname)
+    TABLE "parkingspots" CONSTRAINT "parkingspots_stname_fkey" FOREIGN KEY (stname) REFERENCES streets(stname)
+
+-- \d intersection
+                     Table "biketo.intersection"
+     Column      |       Type       | Collation | Nullable | Default
+-----------------+------------------+-----------+----------+---------
+ stname1         | text             |           | not null |
+ stname2         | text             |           | not null |
+ trafficcountavg | double precision |           | not null |
+Indexes:
+    "intersection_pkey" PRIMARY KEY, btree (stname1, stname2)
+Foreign-key constraints:
+    "intersection_stname1_fkey" FOREIGN KEY (stname1) REFERENCES streets(stname)
+    "intersection_stname2_fkey" FOREIGN KEY (stname2) REFERENCES streets(stname)
+	
+-- \d bikeshops
+               Table "biketo.bikeshops"
+  Column   |  Type   | Collation | Nullable | Default
+-----------+---------+-----------+----------+---------
+ stname    | text    |           | not null |
+ stnumber  | integer |           | not null |
+ hasrental | boolean |           | not null |
+Indexes:
+    "bikeshops_pkey" PRIMARY KEY, btree (stname, stnumber)
+Foreign-key constraints:
+    "bikeshops_stname_fkey" FOREIGN KEY (stname) REFERENCES streets(stname)
+	
+-- \d subwaystations
+               Table "biketo.subwaystations"
+     Column     |  Type   | Collation | Nullable | Default
+----------------+---------+-----------+----------+---------
+ stationname    | text    |           | not null |
+ totalusage     | integer |           | not null |
+ hasbikestation | boolean |           | not null |
+ hasrepairstand | boolean |           | not null |
+Indexes:
+    "subwaystations_pkey" PRIMARY KEY, btree (stationname)
+	
+-- \d bikestation
+                   Table "biketo.bikestation"
+   Column    |       Type       | Collation | Nullable | Default
+-------------+------------------+-----------+----------+---------
+ id          | integer          |           | not null |
+ checkinavg  | double precision |           | not null |
+ checkoutavg | double precision |           | not null |
+Indexes:
+    "bikestation_pkey" PRIMARY KEY, btree (id)
+	
+-- \d parkingspots
+             Table "biketo.parkingspots"
+  Column  |   Type   | Collation | Nullable | Default
+----------+----------+-----------+----------+---------
+ id       | integer  |           | not null |
+ stnumber | integer  |           | not null |
+ stname   | text     |           | not null |
+ type     | spottype |           | not null |
+ capacity | integer  |           | not null |
+Indexes:
+    "parkingspots_pkey" PRIMARY KEY, btree (id)
+Foreign-key constraints:
+    "parkingspots_stname_fkey" FOREIGN KEY (stname) REFERENCES streets(stname)
+	
+-- count rows for each table
+
+-- select count(*) from streets;
+ count
+-------
+   558
+(1 row)
+
+-- select count(*) from intersection;
+ count
+-------
+   527
+(1 row)
+
+-- select count(*) from bikeshops;
+ count
+-------
+    72
+(1 row)
+
+-- select count(*) from subwaystations;
+ count
+-------
+    69
+(1 row)
+
+-- select count(*) from bikestation;
+ count
+-------
+   607
+(1 row)
+
+-- select count(*) from parkingspots;
+ count
+-------
+ 23008
+(1 row)
+
+-- show first 5 rows of every table
+
+-- select * from streets limit 5;
+    stname     | trafficcountavg | trafficlighcount | bikestationcount | subwaystationcount | bikeshopcount
+---------------+-----------------+------------------+------------------+--------------------+---------------
+ adelaide st   |            1448 |                5 |                0 |                  0 |             0
+ alton ave     |       276.84375 |                1 |                1 |                  0 |             0
+ amberley dr   |         52.8125 |                1 |                0 |                  0 |             0
+ amoro dr      |             110 |                1 |                0 |                  0 |             0
+ amsterdam ave |        288.0625 |                2 |                0 |                  0 |             0
+(5 rows)
+
+-- select * from intersection limit 5;
+    stname1     |      stname2      | trafficcountavg
+----------------+-------------------+-----------------
+ lawrence ave w | m e of olympia dr |       570.84375
+ adelaide st    | bathurst st       |       389.84375
+ adelaide st    | berkeley st       |       263.78125
+ adelaide st    | ontario st        |       224.53125
+ adelaide st    | parliament st     |         359.125
+(5 rows)
+
+-- select * from bikeshops limit 5;
+      stname       | stnumber | hasrental
+-------------------+----------+-----------
+ king st w         |      400 | f
+ college st        |      882 | f
+ lake shore blvd w |     3731 | f
+ queen st e        |     1292 | f
+ jane st           |     2111 | f
+(5 rows)
+
+-- select * from subwaystations limit 5;
+ stationname | totalusage | hasbikestation | hasrepairstand
+-------------+------------+----------------+----------------
+ bathurst    |      26903 | t              | t
+ bay         |      32060 | f              | f
+ bayview     |       8531 | f              | t
+ bessarion   |       2988 | f              | f
+ bloor-yonge |     401091 | f              | f
+(5 rows)
+
+-- select * from bikestation limit 5;
+  id  | checkinavg | checkoutavg
+------+------------+-------------
+ 7000 |        356 |         362
+ 7001 |        295 |         229
+ 7002 |        270 |         293
+ 7003 |        183 |         187
+ 7004 |        260 |         239
+(5 rows)
+
+-- select * from parkingspots limit 5;
+  id  | stnumber |    stname    |       type       | capacity
+------+----------+--------------+------------------+----------
+ 5968 |       21 | gerrard st e | Bike Rack        |       16
+ 5969 |      213 | delaware ave | Angled Bike Rack |        5
+ 5970 |      213 | delaware ave | Bike Corral      |        8
+ 5971 |     2198 | yonge st     | Bike Rack        |       16
+ 5972 |      222 | spadina ave  | Bike Rack        |       16
+(5 rows)
