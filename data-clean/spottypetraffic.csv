@@ -1,7 +1,7 @@
 trafficcountavg,spottype,typecount
 516.34375,Ring,2
-7315.125,Angled Bike Rack,1
-1855.65625,Bike Shelter,1
+7315.125,Angled Bike Rack,5
+1855.65625,Bike Shelter,10
 1005.65625,Ring,30
 907.21875,Unknown,2
 333.28125,Ring,86
@@ -13,7 +13,7 @@ trafficcountavg,spottype,typecount
 365.375,Rack,2
 80.96875,Ring,14
 39.53125,Ring,4
-2977.3125,Bike Rack,2
+2977.3125,Bike Rack,16
 7315.125,Unknown,20
 1039.46875,Ring,48
 1039.46875,Rack,2
@@ -33,26 +33,26 @@ trafficcountavg,spottype,typecount
 312.78125,Unknown,2
 8642.09375,Ring,1417
 732.9375,Ring,76
-306.96875,Angled Bike Rack,1
+306.96875,Angled Bike Rack,5
 1518.0625,Ring,2
 683.3125,Ring,20
 900.3125,Ring,42
 333.25,Ring,6
 40.78125,Ring,44
 515.46875,Rack,2
-134.6875,Bike Shelter,1
+134.6875,Bike Shelter,20
 4099.09375,Rack,2
 39.53125,Unknown,4
 217.5625,Ring,70
 383.9375,Unknown,2
-2971.28125,Bike Rack,1
+2971.28125,Bike Rack,8
 1037.25,Ring,33
 421.1875,Ring,14
 1160.125,Ring,42
 431.34375,Ring,10
 2154.03125,Unknown,10
-2154.03125,Bike Rack,1
-306.96875,Bike Corral,1
+2154.03125,Bike Rack,16
+306.96875,Bike Corral,8
 560.4375,Unknown,4
 2643.0625,Unknown,16
 2977.3125,Ring,216
@@ -62,7 +62,7 @@ trafficcountavg,spottype,typecount
 483.90625,Ring,10
 555.5,Ring,88
 273.34375,Ring,42
-819.1875,Angled Bike Rack,1
+819.1875,Angled Bike Rack,5
 444.75,Unknown,2
 621.96875,Shelter,2
 2715.46875,Rack,4
@@ -70,11 +70,11 @@ trafficcountavg,spottype,typecount
 316,Rack,2
 1573.4375,Unknown,2
 479.75,Ring,24
-421.53125,Bike Rack,1
+421.53125,Bike Rack,8
 53.71875,Ring,16
 210.71875,Ring,20
-2715.46875,Bike Corral,1
-2715.46875,Bike Rack,4
+2715.46875,Bike Corral,14
+2715.46875,Bike Rack,32
 1623.75,Ring,32
 1194.625,Unknown,4
 206.9375,Ring,4
@@ -82,25 +82,25 @@ trafficcountavg,spottype,typecount
 1035.53125,Ring,132
 2798.21875,Unknown,2
 7710.40625,Ring,995
-281.125,Bike Rack,9
+281.125,Bike Rack,80
 3913.96875,Ring,220
 2075.625,Ring,144
 4099.09375,Ring,542
 400,Ring,8
-326.96875,Bike Rack,2
+326.96875,Bike Rack,24
 2715.46875,Unknown,4
 296.21875,Ring,4
 803.6875,Ring,14
 1374.40625,Rack,2
-621.96875,Bike Rack,1
+621.96875,Bike Rack,32
 75.5625,Ring,2
 326.96875,Ring,628
 3195.46875,Ring,106
 808.84375,Rack,4
-1129.3125,Bike Shelter,1
+1129.3125,Bike Shelter,20
 847.78125,Unknown,30
 2798.21875,Ring,157
-1855.65625,Bike Rack,1
+1855.65625,Bike Rack,120
 7315.125,Art Stand,6
 1294.4375,Ring,70
 231.6875,Ring,6
@@ -110,11 +110,11 @@ trafficcountavg,spottype,typecount
 266.28125,Unknown,2
 1862.0625,Ring,98
 2903.09375,Ring,717
-393.375,Bike Rack,1
+393.375,Bike Rack,24
 7710.40625,Unknown,16
 819.1875,Ring,161
 650.71875,Ring,12
-192.375,Bike Corral,1
+192.375,Bike Corral,14
 1227.375,Ring,465
 776.75,Unknown,4
 7315.125,Rack,4
@@ -127,13 +127,13 @@ trafficcountavg,spottype,typecount
 5840.125,Unknown,4
 386.46875,Ring,48
 423.53125,Ring,132
-7315.125,Bike Rack,13
+7315.125,Bike Rack,184
 1396.40625,Ring,22
 365.375,Ring,40
-8642.09375,Bike Rack,5
+8642.09375,Bike Rack,48
 1041.375,Ring,225
 515.46875,Unknown,16
-292.75,Bike Rack,1
+292.75,Bike Rack,16
 4099.09375,Unknown,34
 974,Ring,36
 5126.3125,Ring,66
@@ -151,8 +151,8 @@ trafficcountavg,spottype,typecount
 2154.03125,Ring,479
 1997.5625,Ring,24
 864.96875,Ring,30
-2903.09375,Bike Rack,5
-3913.96875,Bike Rack,2
+2903.09375,Bike Rack,40
+3913.96875,Bike Rack,16
 281.125,Ring,16
 1384.9375,Unknown,6
 313.625,Ring,12
@@ -170,17 +170,17 @@ trafficcountavg,spottype,typecount
 3440.46875,Ring,16
 263.3125,Ring,8
 2643.0625,Ring,1431
-1596.875,Bike Rack,1
+1596.875,Bike Rack,8
 413,Shelter,2
-847.78125,Bike Rack,3
+847.78125,Bike Rack,24
 282.4375,Unknown,8
 733.96875,Ring,212
 1585.40625,Ring,16
 2970.15625,Unknown,4
 8642.09375,Rack,2
 1129.3125,Unknown,6
-307.125,Bike Rack,1
-2643.0625,Bike Rack,1
+307.125,Bike Rack,8
+2643.0625,Bike Rack,32
 442.4375,Ring,28
 830.3125,Ring,18
 732.9375,Unknown,2
@@ -191,18 +191,18 @@ trafficcountavg,spottype,typecount
 337.96875,Ring,6
 413,Ring,30
 2878.71875,Ring,150
-40.78125,Bike Rack,1
-1603.9375,Bike Rack,1
+40.78125,Bike Rack,8
+1603.9375,Bike Rack,8
 3195.46875,Unknown,10
 292.75,Rack,2
 871.34375,Ring,18
 1596.875,Unknown,8
 295.1875,Ring,210
-1596.875,Bike Corral,1
+1596.875,Bike Corral,14
 1596.875,Ring,375
 69.28125,Ring,72
 401.375,Ring,10
-39.53125,Bike Corral,1
+39.53125,Bike Corral,24
 394.625,Ring,4
 315.1875,Ring,4
 2643.0625,Rack,4
@@ -217,10 +217,10 @@ trafficcountavg,spottype,typecount
 690.90625,Ring,2
 309.1875,Ring,54
 633.1875,Ring,48
-315.96875,Bike Rack,4
+315.96875,Bike Rack,32
 424.25,Ring,30
 216.3125,Ring,14
-555.5,Angled Bike Rack,1
+555.5,Angled Bike Rack,30
 1251.78125,Ring,70
 241.9375,Ring,28
 1855.65625,Ring,1406
@@ -231,25 +231,25 @@ trafficcountavg,spottype,typecount
 203.875,Ring,10
 1172.5625,Ring,24
 192.375,Unknown,8
-413,Bike Shelter,1
+413,Bike Shelter,18
 560.4375,Rack,2
 278.75,Ring,12
-309.1875,Bike Rack,2
+309.1875,Bike Rack,24
 496.71875,Ring,4
 39.53125,Ring,40
 907.21875,Ring,18
 266.28125,Ring,33
-1042.75,Bike Rack,2
+1042.75,Bike Rack,16
 699.125,Ring,4
 383.9375,Ring,302
 192.375,Ring,401
 340.3125,Unknown,2
 134.6875,Shelter,4
-192.375,Bike Rack,2
-560.4375,Bike Rack,1
-1227.375,Bike Rack,2
+192.375,Bike Rack,24
+560.4375,Bike Rack,8
+1227.375,Bike Rack,32
 6896.75,Ring,175
-479.75,Bike Rack,1
+479.75,Bike Rack,8
 457.78125,Rack,4
 394.625,Unknown,20
 9.3125,Ring,2
@@ -262,7 +262,7 @@ trafficcountavg,spottype,typecount
 1573.4375,Ring,28
 282.4375,Ring,4
 3933.5,Ring,156
-326.96875,Bike Corral,3
+326.96875,Bike Corral,56
 1603.9375,Rack,2
 2440.15625,Ring,12
 1042.75,Ring,48
@@ -270,12 +270,12 @@ trafficcountavg,spottype,typecount
 306.96875,Rack,4
 1041.375,Unknown,2
 560.4375,Ring,98
-1041.375,Bike Rack,1
+1041.375,Bike Rack,8
 341.21875,Ring,6
 8642.09375,Unknown,10
-316,Bike Corral,1
+316,Bike Corral,14
 3933.5,Unknown,8
-1855.65625,Bike Corral,1
+1855.65625,Bike Corral,14
 568.71875,Ring,30
 65.84375,Rack,2
 776.125,Ring,147
@@ -290,7 +290,7 @@ trafficcountavg,spottype,typecount
 5840.125,Ring,148
 1494.4375,Ring,28
 315.96875,Ring,58
-203.0625,Bike Rack,2
+203.0625,Bike Rack,16
 1374.40625,Ring,8
 1855.65625,Shelter,2
 282.4375,Ring,56
