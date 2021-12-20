@@ -1,3 +1,7 @@
+-- we removed the relatio of bikestations. The reason we removed it
+-- is because the nature of the data which we collected makes it 
+-- difficult to interact with the other relations in our schema
+
 DROP SCHEMA IF EXISTS bikeTO CASCADE;
 CREATE SCHEMA bikeTO;
 SET SEARCH_PATH to bikeTO;
@@ -14,7 +18,7 @@ DROP TABLE IF EXISTS streets CASCADE;
 CREATE TABLE streets (
 	stName TEXT not null,
 	trafficCountAvg FLOAT not null,
-	trafficlighcount INTEGER not null,
+	trafficlightcount INTEGER not null,
 	bikeStationCount INTEGER not null,
 	subwayStationCount INTEGER not null,
 	bikeShopCount INTEGER not null,
@@ -51,12 +55,12 @@ CREATE TABLE subwayStations(
 );
 
 --information about bikeTO, bike share, stations in toronto
-DROP TABLE IF EXISTS bikeStation CASCADE;
-CREATE TABLE bikeStation (
-	id INTEGER not null,
-	checkinAvg FLOAT not null,
-	checkoutAvg FLOAT not null,
-	PRIMARY KEY (id));
+--DROP TABLE IF EXISTS bikeStation CASCADE;
+--CREATE TABLE bikeStation (
+--	id INTEGER not null,
+--	checkinAvg FLOAT not null,
+--	checkoutAvg FLOAT not null,
+--	PRIMARY KEY (id));
 
 
 --information about different bike parking spots in toronto. 
@@ -77,7 +81,7 @@ CREATE TABLE ParkingSpots(
 \COPY intersection FROM 'intersection_clean.csv' with csv header;
 \COPY bikeshops FROM 'bike_shop.csv' with csv header;
 \COPY subwayStations FROM 'ttc_data_clean.csv' with csv header;
-\COPY bikeStation FROM 'bike_station_data.csv' with csv header;
+--\COPY bikeStation FROM 'bike_station_data.csv' with csv header;
 \COPY parkingSpots FROM 'parking.csv' with csv header;
 
 --\COPY redLightCamera FROM 'red lights camera.csv' with csv header

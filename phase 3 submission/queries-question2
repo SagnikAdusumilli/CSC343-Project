@@ -6,7 +6,7 @@ DROP VIEW IF EXISTS spotsperstreet CASCADE;
 CREATE VIEW spotsperstreet AS (
 SELECT sum(capacity) as numspots, stNAME
 FROM ParkingSpots
-GROUP BY stName);
+GROUP BY stName);git p
 
 
 -- spots and traffic light on each street 
