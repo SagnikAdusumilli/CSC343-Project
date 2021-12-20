@@ -73,7 +73,7 @@ CREATE TABLE ParkingSpots(
 \COPY intersection FROM 'intersection_clean.csv' with csv header;
 \COPY bikeshops FROM 'bike_shop.csv' with csv header;
 \COPY subwayStations FROM 'ttc_data_clean.csv' with csv header;
-\COPY bikeStation FROM 'bike_station_data.csv' with csv header;
+--\COPY bikeStation FROM 'bike_station_data.csv' with csv header;
 \COPY parkingSpots FROM 'parking.csv' with csv header;
 
 --\COPY redLightCamera FROM 'red lights camera.csv' with csv header
